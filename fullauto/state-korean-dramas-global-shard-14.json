@@ -199,14 +199,14 @@
   "https://thenkiri.com/opening-2023-complete-korean-drama/": {
    "status": "pending",
    "signature": "95603|https://thenkiri.com/opening-2023-complete-korean-drama/|2023-07-19T18:16:58|2023-09-02T17:18:58|{'rendered': 'O’PENing (2023) (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788841418.1294813
+   "attempts": 3,
+   "last_attempt": 1788863134.4598153
   },
   "https://thenkiri.com/terius-behind-me-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "81749|https://thenkiri.com/terius-behind-me-complete-korean-drama/|2023-02-09T12:16:29|2023-09-02T17:05:51|{'rendered': 'Terius Behind Me (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788842209.2358844
+   "modified": "2023-09-02T17:05:51",
+   "completed_at": 1788864690
   }
  },
  "series_links": {
@@ -509,6 +509,22 @@
   "https://downloadwella.com/09vbm65wk16b/The.Auditors.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2L0jK19vE3j1TLhU8-WPJSWcD-VJ--J1",
   "https://downloadwella.com/e78sb4787vt2/Marry.YOU.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QMaSslcm6utKd_3Oqotnb1yH15z9K0lf",
   "https://downloadwella.com/ae5esqe0qpm5/Marry.YOU.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-7kgb0XRNsT-TY0M40nTQjG3UFJuVGhf",
-  "https://downloadwella.com/5hka2hyn5bjm/The.Auditors.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4TZhIFPTodZ-OxDu5_7AMzDa1xZAm4yM"
+  "https://downloadwella.com/5hka2hyn5bjm/The.Auditors.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4TZhIFPTodZ-OxDu5_7AMzDa1xZAm4yM",
+  "https://downloadwella.com/h4kqufj8k0mn/Terius.Behind.Me.2018.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j8_7GzQgjbMTlc3QHqE3a_4VrtK238P-",
+  "https://downloadwella.com/ohkq3e7tkvq5/Terius.Behind.Me.2018.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HUhDMleRKAgugl2tQ6SJdyI6gAdLa8Sd",
+  "https://downloadwella.com/lcx03eg31r8d/Terius.Behind.Me.2018.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S9pxfTJ3mSUzGlCdw2QZGzSilqpa7GTh",
+  "https://downloadwella.com/76b6hfzduy32/Terius.Behind.Me.2018.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qyjCocxGMzD_CC2UPlgT-AQ7a48q4y4C",
+  "https://downloadwella.com/aku646c838fy/Terius.Behind.Me.2018.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oyi4mTrutLM6pIzvycAD7KWRd6W_TkDT",
+  "https://downloadwella.com/eqr89cop1llo/Terius.Behind.Me.2018.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bJ158Z2P-JTxIRCYFkoe4yhsG-BTz_1v",
+  "https://downloadwella.com/i3a4otoryki6/Terius.Behind.Me.2018.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pOdb8YHDRyYry0ni6EFRYr2Em3dn9QHb",
+  "https://downloadwella.com/se864zfcvirm/Terius.Behind.Me.2018.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-TR9KceLBdCnac9CtvVLBFY2VDjyxdJg",
+  "https://downloadwella.com/yhut0v2tiglk/Terius.Behind.Me.2018.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qu8If1c7Fxgkz29glCMEu0RLysObwW1m",
+  "https://downloadwella.com/ecsqxhis3eck/Terius.Behind.Me.2018.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tptz2a5GwSG4KO2ZpRLTyTp3eJfKUYt7",
+  "https://downloadwella.com/mxgfieej8iws/Terius.Behind.Me.2018.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YqrcybdbTjNZ4orN7ClPYKmA8WZymGlB",
+  "https://downloadwella.com/9wf3u7x4jgr3/Terius.Behind.Me.2018.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y_pzJThQzJF4EHQuA1uzMigtn0UYLzHS",
+  "https://downloadwella.com/zrv6e72153g3/Terius.Behind.Me.2018.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NAfEP4Quk_Sgk-Wkzh-4ohna3GYKsPKZ",
+  "https://downloadwella.com/7vl6idnucee4/Terius.Behind.Me.2018.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vs1KUg7QbR5m2ll2VTHSyzblfidBkPdI",
+  "https://downloadwella.com/bm5961rwvnm6/Terius.Behind.Me.2018.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C1xoG61vlheW3cAU1WAwrpPcA3Gn_Uu2",
+  "https://downloadwella.com/yawtyw4r8m1g/Terius.Behind.Me.2018.E16.END.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/45K9jUmYMy5S6ea7Lzr_K-PRSDw6VPik"
  }
 }

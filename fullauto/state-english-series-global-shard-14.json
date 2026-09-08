@@ -224,17 +224,25 @@
    "blocked_at": 1788838114
   },
   "https://thenkiri.com/sentenced-to-be-a-hero-s01-complete-anime-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156184|https://thenkiri.com/sentenced-to-be-a-hero-s01-complete-anime-series/|2026-05-05T18:18:45|2026-05-05T18:18:45|{'rendered': 'Sentenced to Be a Hero S01 (Complete) | Anime Series'}",
    "attempts": 3,
-   "last_attempt": 1788841760.164887
+   "last_attempt": 1788841760.164887,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788863114
   },
   "https://thenkiri.com/wwe-wrestlemania-42-2026-wrestling-special/": "skipped (wwe)",
   "https://thenkiri.com/euphoria-s03-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "154204|https://thenkiri.com/euphoria-s03-complete-tv-series/|2026-04-13T07:19:14|2026-06-01T08:26:38|{'rendered': 'Euphoria S03 (Complete) | TV Series'}",
+   "modified": "2026-06-01T08:26:38",
+   "completed_at": 1788863277
+  },
+  "https://thenkiri.com/the-rookie-s04-complete-tv-series/": {
+   "status": "pending",
+   "signature": "153142|https://thenkiri.com/the-rookie-s04-complete-tv-series/|2026-03-28T12:00:40|2026-03-28T12:00:40|{'rendered': 'The Rookie S04 (Complete) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788842018.3810577
+   "last_attempt": 1788865966.3660724
   }
  },
  "series_links": {
@@ -466,6 +474,35 @@
   "https://downloadwella.com/6gafnz96qeni/Cape.Fear.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JqqZremgkAwlKW0AjqvVv2KZE5K3RVDb",
   "https://downloadwella.com/3gtqijbw0x9h/Cape.Fear.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DA22Ux6ejIxEJOQ7rRTBygu2qcbsrZEQ",
   "https://downloadwella.com/nvbhnryy0azt/Cape.Fear.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QlrkBRLJHqC7Fc5pM7ZThvJbVZNinQk3",
-  "https://downloadwella.com/speioblu43w3/Cape.Fear.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xd1DeTlO4EOrchGVoFt-EzB_VDG24sre"
+  "https://downloadwella.com/speioblu43w3/Cape.Fear.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xd1DeTlO4EOrchGVoFt-EzB_VDG24sre",
+  "https://downloadwella.com/rtz74ajzf6n6/Euphoria.US.S03E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9xCyZ205Z01Tou7oYHnHGB9ImQW6t44P",
+  "https://downloadwella.com/659yl39tvrae/Euphoria.S03E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XZv_j8g2BZKi-vdTJtNf6oHsLgnNODTa",
+  "https://downloadwella.com/fcw588dctse4/Euphoria.S03E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GA0SAcSna5xjZ9D5zF4RC4-tXkN1GBWa",
+  "https://downloadwella.com/8om35crrnqam/Euphoria.S0304.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LBjNlvTZ87pfy_oYvSnP9jzO0I_JlcyG",
+  "https://downloadwella.com/g35hco8og9se/Euphoria.S0305.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-hE7TqqbpeyEXE2Jf-k3mMqbimvD8YZH",
+  "https://downloadwella.com/xfjz7ym11g1f/Euphoria.US.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TbhB74dJIlF5DL5BRwshtjf_-nwCHmL8",
+  "https://downloadwella.com/gt0a28gvi0p6/Euphoria.US.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NfuxQNmztwmvaI2pzhTzsvD5OGPsLC9D",
+  "https://downloadwella.com/qiokluc1jfap/Euphoria.US.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/64ZelgjT5UBFyW0OoFcgqLiyTL6TYnmM",
+  "https://downloadwella.com/hr7fs2xor483/The.Rookie.S04E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wEMSwn-eIjnvqyZZhlstHBwCtRoTrKer",
+  "https://downloadwella.com/oikix0fl4tub/The.Rookie.S04E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kFs_zUQ3bxiFEPT3Ffj27cppB8L6I2Gt",
+  "https://downloadwella.com/ay0u4mvfj4c2/The.Rookie.S04E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ARP2IfdnQn4fzodC8LibD6DXbsYKV4Dd",
+  "https://downloadwella.com/i2n1wrofhgc4/The.Rookie.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4xtpZBXACxfcedsJJPhkL8vpAQNPAkGd",
+  "https://downloadwella.com/gepfpeny9tn9/The.Rookie.S04E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v6Vuav9UorpApkcJtobJt2lbC4svJR0e",
+  "https://downloadwella.com/jjorncmfw5qo/The.Rookie.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ug-cMgIhe6JyZWA09M_kF0Engsb71ItA",
+  "https://downloadwella.com/ludzebqs0azk/The.Rookie.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YJiu5gf7VJ89aWDH1sLpZcX4RCA1cIE_",
+  "https://downloadwella.com/bscyacq6idkk/The.Rookie.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TqqNUhrnfKJnxhKoK6JUxNvvbda4R9l2",
+  "https://downloadwella.com/mqha4xrlpsfu/The.Rookie.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CscqmeiVZ-F7XCq8qH8Vaf8EELRV6tLK",
+  "https://downloadwella.com/nm7a7xedimi0/The.Rookie.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/F9xqhs1hMhrNoibtZ_hvgoxvdJBFfoCs",
+  "https://downloadwella.com/jkv1vofac1d8/The.Rookie.S04E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6OMPMjknY039CRJuS8boGoYadngjmVfI",
+  "https://downloadwella.com/yry2f0emlqjg/The.Rookie.S04E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XnWP39qY4u7C50YpWkPVLCka8IGQc75n",
+  "https://downloadwella.com/ucrqgqio314i/The.Rookie.S04E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u5EC1vrCkpfLgSQi8B41wLQQlJG4qbuh",
+  "https://downloadwella.com/yxybsr46os23/The.Rookie.S04E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-FjbpCqbSO_A5JK2dmVnFg-O1DlB9h36",
+  "https://downloadwella.com/mpsljl6f6ide/The.Rookie.S04E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EI_-SHtDiZ6ySWXsgdFsASj1bAkgEHLU",
+  "https://downloadwella.com/61ei14abynxe/The.Rookie.S04E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W-5-Yk8pDYcRaG4Zl5qg1h4HDK0KAp3p",
+  "https://downloadwella.com/w28kimloxxen/The.Rookie.S04E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ntBKWbAoCF4Avdbb8S4zsvOkJGCH_hkx",
+  "https://downloadwella.com/07frl0s7lzt0/The.Rookie.S04E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1LCuJr875VicF1Qr1qnQ4pHJyBpyigmr",
+  "https://downloadwella.com/rtyzsp7m9gy1/The.Rookie.S04E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2ua7x8_SvGh19a6viZ6RutRgW9uqfyeh",
+  "https://downloadwella.com/3st710it4s5j/The.Rookie.S04E21.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nW5Bl96HnjG5bALwLHNbkHP_IHIC5uZt",
+  "https://downloadwella.com/w6qi9gmzaol4/The.Rookie.S04E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RGbSu9348W2v9hKftmqPI7T_iHdsv4-y"
  }
 }
