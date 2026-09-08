@@ -334,20 +334,20 @@
   "https://thenkiri.com/orphan-first-kill-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "60105|https://thenkiri.com/orphan-first-kill-2022-download-hollywood-movie/|08/19/2022 11:30:44|09/02/2023 15:16:02|{'rendered': 'Orphan First Kill (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788880259.4478767
+   "attempts": 3,
+   "last_attempt": 1788881202.298194
   },
   "https://thenkiri.com/prey-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "59307|https://thenkiri.com/prey-2022-download-hollywood-movie/|08/17/2022 12:42:24|09/02/2023 15:10:12|{'rendered': 'Prey (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788880260.4333572
+   "attempts": 3,
+   "last_attempt": 1788881205.9122295
   },
   "https://thenkiri.com/gone-in-the-night-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "58256|https://thenkiri.com/gone-in-the-night-2022-download-hollywood-movie/|08/16/2022 08:58:01|09/02/2023 15:11:03|{'rendered': 'Gone in the Night (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788880261.644191
+   "attempts": 3,
+   "last_attempt": 1788881207.5391562
   },
   "https://thenkiri.com/pipeline-2022-download-korean-movie/": {
    "status": "pending",
@@ -432,6 +432,24 @@
    "signature": "44216|https://thenkiri.com/mad-god-2022-download-hollywood-movie/|06/16/2022 19:41:34|09/02/2023 14:09:05|{'rendered': 'Mad God (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788881097.2923424
+  },
+  "https://thenkiri.com/18-1-2-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "43964|https://thenkiri.com/18-1-2-2022-download-hollywood-movie/|06/13/2022 06:09:17|09/02/2023 14:06:30|{'rendered': '18 1/2 (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881222.7961135
+  },
+  "https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "43653|https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/|06/07/2022 19:52:06|09/02/2023 14:03:56|{'rendered': 'Sarkaru Vaari Paata (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881226.3282127
+  },
+  "https://thenkiri.com/the-unbearable-weight-of-massive-talent-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "43571|https://thenkiri.com/the-unbearable-weight-of-massive-talent-2022-download-hollywood-movie/|06/06/2022 06:56:46|09/02/2023 14:04:47|{'rendered': 'The Unbearable Weight of Massive Talent (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881227.9068596
   }
  },
  "series_links": {
