@@ -420,58 +420,64 @@
    "blocked_at": 1788882850
   },
   "https://thenkiri.com/the-princess-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45478|https://thenkiri.com/the-princess-2022-download-hollywood-movie/|07/01/2022 15:58:44|09/02/2023 14:37:36|{'rendered': 'The Princess (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882962.8793342
+   "last_attempt": 1788882962.8793342,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883081
   },
   "https://thenkiri.com/beauty-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45352|https://thenkiri.com/beauty-2022-download-hollywood-movie/|06/30/2022 13:03:14|09/02/2023 14:27:54|{'rendered': 'Beauty (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882972.1358943
+   "last_attempt": 1788882972.1358943,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883081
   },
   "https://thenkiri.com/men-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45085|https://thenkiri.com/men-2022-download-hollywood-movie/|06/26/2022 08:42:22|09/02/2023 14:20:38|{'rendered': 'Men (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882972.9886196
+   "last_attempt": 1788882972.9886196,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883081
   },
   "https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44881|https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/|06/24/2022 09:51:19|09/02/2023 14:22:14|{'rendered': 'The Man from Toronto (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882107.0599759
+   "attempts": 3,
+   "last_attempt": 1788883083.1416233
   },
   "https://thenkiri.com/mojin-the-secret-coffin-2022-download-chinese-movie/": {
    "status": "pending",
    "signature": "44473|https://thenkiri.com/mojin-the-secret-coffin-2022-download-chinese-movie/|06/19/2022 09:52:46|09/02/2023 14:11:24|{'rendered': 'Mojin: The Secret Coffin (2022) | Download Chinese Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882108.0931365
+   "attempts": 3,
+   "last_attempt": 1788883084.7730877
   },
   "https://thenkiri.com/mad-god-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44216|https://thenkiri.com/mad-god-2022-download-hollywood-movie/|06/16/2022 19:41:34|09/02/2023 14:09:05|{'rendered': 'Mad God (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882109.2146542
+   "attempts": 3,
+   "last_attempt": 1788883086.0088804
   },
   "https://thenkiri.com/18-1-2-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "43964|https://thenkiri.com/18-1-2-2022-download-hollywood-movie/|06/13/2022 06:09:17|09/02/2023 14:06:30|{'rendered': '18 1/2 (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882175.0889347
+   "attempts": 3,
+   "last_attempt": 1788883097.944499
   },
   "https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "43653|https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/|06/07/2022 19:52:06|09/02/2023 14:03:56|{'rendered': 'Sarkaru Vaari Paata (2022) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882176.3283575
+   "attempts": 3,
+   "last_attempt": 1788883099.1241586
   },
   "https://thenkiri.com/the-unbearable-weight-of-massive-talent-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "43571|https://thenkiri.com/the-unbearable-weight-of-massive-talent-2022-download-hollywood-movie/|06/06/2022 06:56:46|09/02/2023 14:04:47|{'rendered': 'The Unbearable Weight of Massive Talent (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882177.757915
+   "attempts": 3,
+   "last_attempt": 1788883100.348561
   },
   "https://thenkiri.com/the-call-2020-download-korean-movie/": {
    "status": "pending",
