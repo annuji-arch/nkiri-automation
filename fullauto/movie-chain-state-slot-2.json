@@ -294,14 +294,14 @@
   "https://thenkiri.com/emergency-declaration-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "64788|https://thenkiri.com/emergency-declaration-2022-download-korean-movie/|09/08/2022 10:26:11|09/02/2023 15:32:55|{'rendered': 'Emergency Declaration (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878664.0074492
+   "attempts": 2,
+   "last_attempt": 1788879730.1280394
   },
   "https://thenkiri.com/hit-the-first-case-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "64442|https://thenkiri.com/hit-the-first-case-2022-download-indian-movie/|09/05/2022 06:36:01|09/02/2023 15:27:01|{'rendered': 'HIT: The First Case (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878714.8003929
+   "modified": "09/02/2023 15:27:01",
+   "completed_at": 1788880015
   },
   "https://thenkiri.com/the-harbinger-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -376,6 +376,7 @@
   "https://downloadwella.com/i61b6i4f0di4/Scrooge.A.Christmas.Carol.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zxTcWM8QnkgpgbQsKeWldP2SShRpGcfB",
   "https://downloadwella.com/ks0wwtmpv8hc/%7Bnkiri.com%7D_Time_to_Hunt.mkv.html": "https://v1.vidfiles.com/d/_l6AV_PEOY4E9Q7ocVBzcgImYmD_7Zx7",
   "https://downloadwella.com/a1pwq9i0gmc1/Memories.Of.The.Sword.(NKIRI.COM).2015.480p.BluRay.x264.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/QMWL4jNBBlMi7L0dak1MoqyYJSjGTYTo",
-  "https://downloadwella.com/0d722qjcrr1g/Entergalactic.(NKIRI.COM).2022.NF.WEB.DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/CXnVA0mGOhJteO89gqxwhYq03E-a_Yt_"
+  "https://downloadwella.com/0d722qjcrr1g/Entergalactic.(NKIRI.COM).2022.NF.WEB.DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/CXnVA0mGOhJteO89gqxwhYq03E-a_Yt_",
+  "https://downloadwella.com/jata2he9h5nq/Hit.The.First.Case.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/6z2MbZzSeAO3nzzMKxymDNLQVOjTeglT"
  }
 }
