@@ -556,22 +556,28 @@
    "blocked_at": 1788884580
   },
   "https://thenkiri.com/gehraiyaan-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41125|https://thenkiri.com/gehraiyaan-2022-download-indian-movie/|05/01/2022 08:16:48|09/02/2023 13:50:39|{'rendered': 'Gehraiyaan (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788884889.1508114
+   "last_attempt": 1788884889.1508114,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788884996
   },
   "https://thenkiri.com/man-in-love-2021-download-taiwanese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "40293|https://thenkiri.com/man-in-love-2021-download-taiwanese-movie/|04/22/2022 09:11:34|09/02/2023 13:45:42|{'rendered': 'Man in Love (2021) | Download Taiwanese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788884890.6069975
+   "last_attempt": 1788884890.6069975,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788884996
   },
   "https://thenkiri.com/my-sweet-monster-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39991|https://thenkiri.com/my-sweet-monster-2022-download-hollywood-movie/|04/20/2022 04:00:13|09/02/2023 13:43:29|{'rendered': 'My Sweet Monster (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788884892.0787709
+   "last_attempt": 1788884892.0787709,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788884996
   },
   "https://thenkiri.com/midnight-2021-download-korean-movie/": {
    "status": "pending",
