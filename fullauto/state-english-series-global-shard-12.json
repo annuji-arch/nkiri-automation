@@ -220,14 +220,14 @@
   "https://thenkiri.com/rick-and-morty-s09-complete-tv-series/": {
    "status": "pending",
    "signature": "157663|https://thenkiri.com/rick-and-morty-s09-complete-tv-series/|2026-05-25T07:56:12|2026-07-27T07:55:25|{'rendered': 'Rick and Morty S09 (Episode 10 Added) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788838420.0444734
+   "attempts": 3,
+   "last_attempt": 1788841649.7838142
   },
   "https://thenkiri.com/citadel-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "156285|https://thenkiri.com/citadel-s02-complete-tv-series/|2026-05-06T12:35:09|2026-05-06T12:37:35|{'rendered': 'Citadel S02 (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788838628.4295747
+   "attempts": 2,
+   "last_attempt": 1788841861.231944
   }
  },
  "series_links": {
