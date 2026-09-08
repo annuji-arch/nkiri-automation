@@ -169,16 +169,16 @@
    "completed_at": 1788792618
   },
   "https://thenkiri.com/marry-you-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "125201|https://thenkiri.com/marry-you-s01-complete-korean-drama/|2024-11-16T16:15:28|2024-12-15T17:28:34|{'rendered': 'Marry YOU S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788813032.5529191
+   "modified": "2024-12-15T17:28:34",
+   "completed_at": 1788822574
   },
   "https://thenkiri.com/the-auditors-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "117964|https://thenkiri.com/the-auditors-s01-complete-korean-drama/|2024-07-06T16:46:11|2024-08-11T17:14:23|{'rendered': 'The Auditors S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788815709.0285907
+   "modified": "2024-08-11T17:14:23",
+   "completed_at": 1788822608
   }
  },
  "series_links": {
@@ -478,6 +478,9 @@
   "https://downloadwella.com/2fa859nlc37x/The.Auditors.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RkAQFKYD1atljtP00SKwqfQXWOZXZzNe",
   "https://downloadwella.com/0dd7grraqufd/The.Auditors.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d6-lwRWsVfOEZxLeiw1Ojm5WepG5yifU",
   "https://downloadwella.com/l8nirbruy0pb/The.Auditors.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3ia6y_jtreoLAZPRtAO9yuV7rhMQPeD0",
-  "https://downloadwella.com/09vbm65wk16b/The.Auditors.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2L0jK19vE3j1TLhU8-WPJSWcD-VJ--J1"
+  "https://downloadwella.com/09vbm65wk16b/The.Auditors.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2L0jK19vE3j1TLhU8-WPJSWcD-VJ--J1",
+  "https://downloadwella.com/e78sb4787vt2/Marry.YOU.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QMaSslcm6utKd_3Oqotnb1yH15z9K0lf",
+  "https://downloadwella.com/ae5esqe0qpm5/Marry.YOU.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-7kgb0XRNsT-TY0M40nTQjG3UFJuVGhf",
+  "https://downloadwella.com/5hka2hyn5bjm/The.Auditors.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4TZhIFPTodZ-OxDu5_7AMzDa1xZAm4yM"
  }
 }

@@ -202,10 +202,16 @@
    "completed_at": 1788812885
   },
   "https://thenkiri.com/oasis-complete-foreign-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "159848|https://thenkiri.com/oasis-complete-foreign-tv-series/|2026-06-20T08:58:50|2026-06-20T08:58:50|{'rendered': 'Oasis (Complete) | Foreign TV Series'}",
+   "modified": "2026-06-20T08:58:50",
+   "completed_at": 1788823454
+  },
+  "https://thenkiri.com/cape-fear-complete-tv-series/": {
+   "status": "pending",
+   "signature": "158653|https://thenkiri.com/cape-fear-complete-tv-series/|2026-06-05T10:24:55|2026-07-31T08:31:16|{'rendered': 'Cape Fear (Episode 10 Added) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788813638.354195
+   "last_attempt": 1788826842.8798165
   }
  },
  "series_links": {
@@ -422,6 +428,21 @@
   "https://downloadwella.com/xjp54mwg0261/The.Map.of.Longing.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C8BfKEM9fje9sx0BRkbWirxbcaltSTbq",
   "https://downloadwella.com/q8txs7thzwxs/The.Map.of.Longing.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pK-LTTh6zvXn_BO6yNmYpcQ5jvOQWyQc",
   "https://downloadwella.com/v9yi82sz3coo/The.Map.of.Longing.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y4JkP9Dxvd9PDUi69rSrtc8QLaI4LkNX",
-  "https://downloadwella.com/50rpmqd2xtzf/Oasis.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ywlb1KntkYeWlJpQdN02tKTd6oj_6w6f"
+  "https://downloadwella.com/50rpmqd2xtzf/Oasis.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ywlb1KntkYeWlJpQdN02tKTd6oj_6w6f",
+  "https://downloadwella.com/v45aejuz267m/Oasis.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5yDPRRbj02OUKMbMs8Egpo5UZdtrBs41",
+  "https://downloadwella.com/qmluaxefsa4a/Oasis.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h7W99ydpXmhfctbKMtsM7RX81qtPfmUq",
+  "https://downloadwella.com/t2sjrhuzjsq8/Oasis.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mKVXFn7zdcrZsLEAQsTwfwFI_SMqs8ik",
+  "https://downloadwella.com/dr6iinlm4ng8/Oasis.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3vWmDQ6xj2JWhoJqwlXv6X44pMrUQHN5",
+  "https://downloadwella.com/nsaf3xnw67lq/Oasis.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eGB6OQjORtg9XHRId1l1ryHeMmx2xUny",
+  "https://downloadwella.com/79riymto88yc/Oasis.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8jXrTA66q7D_GNM8wAevs2glmcWYAtMm",
+  "https://downloadwella.com/fwy0p5pkk6ti/Oasis.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qbQYR1jY3wGU_bVTOW19kb0eCGo1qvO2",
+  "https://downloadwella.com/59uw0kju88pn/Cape.Fear.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S8I7jxK4-7bL1ofGYy9kWq_LIRta1X8X",
+  "https://downloadwella.com/mf8qle97zl69/Cape.Fear.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i_HU1KgekXtukSYG9B-0VZkIx7X8VJlF",
+  "https://downloadwella.com/pbqi53k5ix0f/Cape.Fear.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TN9B21BpIM3yeVmvr4lRKCfJRagQGVMn",
+  "https://downloadwella.com/lgu7d9q6z71m/Cape.Fear.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gOTKe58ZAQXqceO2pZJdmp50TmZVrHmP",
+  "https://downloadwella.com/6gafnz96qeni/Cape.Fear.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JqqZremgkAwlKW0AjqvVv2KZE5K3RVDb",
+  "https://downloadwella.com/3gtqijbw0x9h/Cape.Fear.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DA22Ux6ejIxEJOQ7rRTBygu2qcbsrZEQ",
+  "https://downloadwella.com/nvbhnryy0azt/Cape.Fear.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QlrkBRLJHqC7Fc5pM7ZThvJbVZNinQk3",
+  "https://downloadwella.com/speioblu43w3/Cape.Fear.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xd1DeTlO4EOrchGVoFt-EzB_VDG24sre"
  }
 }
