@@ -1105,52 +1105,84 @@
    "blocked_at": 1788834758
   },
   "https://thenkiri.com/scarygirl-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "101385|https://thenkiri.com/scarygirl-2023-download-hollywood-movie/|2023-10-15T07:46:22|2023-10-15T07:46:22|{'rendered': 'Scarygirl (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834821.172762
+   "last_attempt": 1788834821.172762,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838073
   },
   "https://thenkiri.com/the-corner-office-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96359|https://thenkiri.com/the-corner-office-2023-download-hollywood-movie/|2023-08-04T09:10:36|2024-02-23T15:02:35|{'rendered': 'The Corner Office (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834851.402252
+   "last_attempt": 1788834851.402252,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838073
   },
   "https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "89991|https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/|2023-05-22T18:48:08|2023-09-02T18:00:10|{'rendered': 'John Wick Chapter 4 (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834852.4703507
+   "last_attempt": 1788834852.4703507,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838073
   },
   "https://thenkiri.com/beasts-clawing-at-straws-2020-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "84113|https://thenkiri.com/beasts-clawing-at-straws-2020-download-korean-movie/|2023-03-11T08:06:02|2023-09-02T17:23:10|{'rendered': 'Beasts Clawing at Straws (2020) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834853.6866138
+   "last_attempt": 1788834853.6866138,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838073
   },
   "https://thenkiri.com/hell-dogs-2022-download-japanese-movie/": {
    "status": "pending",
    "signature": "77995|https://thenkiri.com/hell-dogs-2022-download-japanese-movie/|2022-12-26T14:49:26|2023-09-02T14:26:54|{'rendered': 'Hell Dogs (2022) | Download JAPANESE Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788834854.7353933
+   "attempts": 3,
+   "last_attempt": 1788838075.700356
   },
   "https://thenkiri.com/one-night-only-2016-download-chinese-movie/": {
    "status": "pending",
    "signature": "69448|https://thenkiri.com/one-night-only-2016-download-chinese-movie/|2022-11-14T16:19:34|2023-09-02T16:54:39|{'rendered': 'One Night Only (2016) | Download Chinese Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834932.3830776
+   "attempts": 2,
+   "last_attempt": 1788838156.0325236
   },
   "https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/": {
    "status": "pending",
    "signature": "69086|https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/|2022-10-25T11:57:36|2023-09-02T16:25:39|{'rendered': 'Along with the Gods: The Last 49 Days (2018) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834964.5541553
+   "attempts": 2,
+   "last_attempt": 1788838189.313696
   },
   "https://thenkiri.com/mr-malcolms-list-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "64032|https://thenkiri.com/mr-malcolms-list-2022-download-hollywood-movie/|2022-08-31T12:52:21|2023-09-02T15:20:52|{'rendered': 'Mr. Malcolms List (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788838220.5442638
+  },
+  "https://thenkiri.com/the-reef-stalked-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "47101|https://thenkiri.com/the-reef-stalked-2022-download-hollywood-movie/|2022-07-26T10:22:46|2023-09-02T14:52:25|{'rendered': 'The Reef Stalked (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788834995.2741313
+   "last_attempt": 1788838221.5051725
+  },
+  "https://thenkiri.com/beavis-and-butt-head-do-universe-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44951|https://thenkiri.com/beavis-and-butt-head-do-universe-2022-download-hollywood-movie/|2022-06-24T16:26:04|2023-09-02T14:21:45|{'rendered': 'Beavis and Butt-Head Do Universe (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838222.5600262
+  },
+  "https://thenkiri.com/toolsidas-junior-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "42827|https://thenkiri.com/toolsidas-junior-2022-download-indian-movie/|2022-05-25T07:51:50|2023-09-02T14:02:55|{'rendered': 'Toolsidas Junior (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838223.5679417
+  },
+  "https://thenkiri.com/man-in-love-2021-download-taiwanese-movie/": {
+   "status": "pending",
+   "signature": "40293|https://thenkiri.com/man-in-love-2021-download-taiwanese-movie/|2022-04-22T09:11:34|2023-09-02T13:45:42|{'rendered': 'Man in Love (2021) | Download Taiwanese Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838224.7018552
   }
  },
  "series_links": {
