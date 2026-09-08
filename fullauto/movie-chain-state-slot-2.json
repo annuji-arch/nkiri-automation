@@ -13,22 +13,24 @@
    "completed_at": 1788872264
   },
   "https://thenkiri.com/the-whistler-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "155151|https://thenkiri.com/the-whistler-2026-download-hollywood-movie/|04/23/2026 08:52:42|04/23/2026 10:04:16|{'rendered': 'The Whistler (2026) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875365.1152472
+   "last_attempt": 1788875365.1152472,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875534
   },
   "https://thenkiri.com/accused-the-karen-read-story-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "150834|https://thenkiri.com/accused-the-karen-read-story-2026-download-hollywood-movie/|02/23/2026 11:27:49|02/23/2026 11:27:49|{'rendered': 'Accused: The Karen Read Story (2026) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874451.0128765
+   "modified": "02/23/2026 11:27:49",
+   "completed_at": 1788877421
   },
   "https://thenkiri.com/nobodys-lover-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "142358|https://thenkiri.com/nobodys-lover-2021-download-korean-movie/|09/19/2025 07:52:22|09/19/2025 07:52:22|{'rendered': 'Nobody’s Lover (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874454.5588124
+   "attempts": 3,
+   "last_attempt": 1788877422.161508
   },
   "https://thenkiri.com/dragon-2025-download-indian-movie/": {
    "status": "done",
@@ -39,8 +41,8 @@
   "https://thenkiri.com/weekend-in-taipei-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "126690|https://thenkiri.com/weekend-in-taipei-2024-download-hollywood-movie/|12/03/2024 12:05:46|12/03/2024 12:05:46|{'rendered': 'Weekend in Taipei (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874458.1814668
+   "attempts": 3,
+   "last_attempt": 1788877423.2329688
   },
   "https://thenkiri.com/drive-2024-download-korean-movie/": {
    "status": "done",
@@ -49,16 +51,16 @@
    "completed_at": 1788872418
   },
   "https://thenkiri.com/the-clean-up-crew-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "119969|https://thenkiri.com/the-clean-up-crew-2024-download-hollywood-movie/|08/20/2024 08:23:18|08/20/2024 08:23:18|{'rendered': 'The Clean Up Crew (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874513.3695836
+   "modified": "08/20/2024 08:23:18",
+   "completed_at": 1788877513
   },
   "https://thenkiri.com/hijack-1971-2024-download-korean-movie/": {
    "status": "pending",
    "signature": "119123|https://thenkiri.com/hijack-1971-2024-download-korean-movie/|08/01/2024 07:58:36|08/01/2024 07:58:36|{'rendered': 'Hijack 1971 (2024) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874578.927356
+   "attempts": 3,
+   "last_attempt": 1788877564.724993
   },
   "https://thenkiri.com/the-ministry-of-ungentlemanly-warfare-2024-download-hollywood-movie/": {
    "status": "done",
@@ -192,6 +194,8 @@
   "https://downloadwella.com/4h2qjhqsrsoy/Whats.Love.Got.to.Do.with.It.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/TYkXsFYWriPVKtMVXN9xw79Lp8UQaeRh",
   "https://downloadwella.com/mce6yxu38yo2/The.Ministry.of.Ungentlemanly.Warfare.(NKIRI.COM).2024.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/WKHMWnY7AnL00hLDiUVFLS6vzr4Mi_Ob",
   "https://downloadwella.com/jlreo0i4knmv/I.Can.Speak.(NKIRI.COM).2017.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ifv-mzlM7grzJHmBUK2gFaRS3D9DcxaY",
-  "https://downloadwella.com/4dcnemw9dioe": "https://v1.vidfiles.com/d/aqDZ6AoeTdENg7xZ32y4sXvDQDeTQMXp"
+  "https://downloadwella.com/4dcnemw9dioe": "https://v1.vidfiles.com/d/aqDZ6AoeTdENg7xZ32y4sXvDQDeTQMXp",
+  "https://downloadwella.com/8grcz4yvr2k8/Accused.The.Karen.Read.Story.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/pF6vK-3aNXOtLbi9gZnDP7BtyuizYUSY",
+  "https://downloadwella.com/4aawtid7g6gt/The.Clean.Up.Crew.(NKIRI.COM).2024.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ruaweZvmIVerM3oI8C9plQHhUuYyfkB_"
  }
 }
