@@ -256,16 +256,20 @@
    "blocked_at": 1788880475
   },
   "https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69795|https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/|10/28/2022 12:57:02|09/02/2023 16:29:59|{'rendered': 'All Quiet on the Western Front (2022) English Dub | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880572.8566961
+   "last_attempt": 1788880572.8566961,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880876
   },
   "https://thenkiri.com/phantom-detective-2016-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69471|https://thenkiri.com/phantom-detective-2016-download-korean-movie/|10/26/2022 15:13:48|09/02/2023 16:32:46|{'rendered': 'Phantom Detective (2016) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880670.64241
+   "last_attempt": 1788880670.64241,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880876
   },
   "https://thenkiri.com/memories-of-the-sword-2015-download-korean-movie/": {
    "status": "done",
@@ -274,16 +278,16 @@
    "completed_at": 1788878391
   },
   "https://thenkiri.com/along-with-the-gods-the-two-worlds-2017-download-korean-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "69065|https://thenkiri.com/along-with-the-gods-the-two-worlds-2017-download-korean-movie/|10/25/2022 11:50:44|09/02/2023 16:25:48|{'rendered': 'Along with the Gods: The Two Worlds  (2017) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879578.9582548
+   "modified": "09/02/2023 16:25:48",
+   "completed_at": 1788880913
   },
   "https://thenkiri.com/rosaline-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "67905|https://thenkiri.com/rosaline-2022-download-hollywood-movie/|10/14/2022 09:21:54|09/02/2023 16:09:54|{'rendered': 'Rosaline (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879580.5071058
+   "attempts": 3,
+   "last_attempt": 1788880920.7554257
   },
   "https://thenkiri.com/entergalactic-2022-download-hollywood-movie/": {
    "status": "done",
@@ -294,14 +298,14 @@
   "https://thenkiri.com/the-infernal-machine-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "66244|https://thenkiri.com/the-infernal-machine-2022-download-hollywood-movie/|09/23/2022 10:25:13|09/02/2023 15:49:58|{'rendered': 'The Infernal Machine (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879581.9013345
+   "attempts": 3,
+   "last_attempt": 1788880927.0478346
   },
   "https://thenkiri.com/emergency-declaration-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "64788|https://thenkiri.com/emergency-declaration-2022-download-korean-movie/|09/08/2022 10:26:11|09/02/2023 15:32:55|{'rendered': 'Emergency Declaration (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879730.1280394
+   "attempts": 3,
+   "last_attempt": 1788881028.3852718
   },
   "https://thenkiri.com/hit-the-first-case-2022-download-indian-movie/": {
    "status": "done",
@@ -386,6 +390,24 @@
    "signature": "45836|https://thenkiri.com/the-phantom-of-the-open-2022-download-hollywood-movie/|07/08/2022 11:08:50|09/02/2023 14:36:22|{'rendered': 'The Phantom of the Open (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788880772.49412
+  },
+  "https://thenkiri.com/the-princess-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45478|https://thenkiri.com/the-princess-2022-download-hollywood-movie/|07/01/2022 15:58:44|09/02/2023 14:37:36|{'rendered': 'The Princess (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881031.4080498
+  },
+  "https://thenkiri.com/beauty-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45352|https://thenkiri.com/beauty-2022-download-hollywood-movie/|06/30/2022 13:03:14|09/02/2023 14:27:54|{'rendered': 'Beauty (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881042.9873283
+  },
+  "https://thenkiri.com/men-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45085|https://thenkiri.com/men-2022-download-hollywood-movie/|06/26/2022 08:42:22|09/02/2023 14:20:38|{'rendered': 'Men (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881045.6528666
   }
  },
  "series_links": {
@@ -410,6 +432,7 @@
   "https://downloadwella.com/jata2he9h5nq/Hit.The.First.Case.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/6z2MbZzSeAO3nzzMKxymDNLQVOjTeglT",
   "https://downloadwella.com/rorie7p2giqv/Project.Wolf.Hunting.(NKIRI.COM).2022.KOREAN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM-002.mkv.html": "https://v1.vidfiles.com/d/ARnP8hxXdYwDDGg7idcP04Iye9uKnFKH",
   "https://downloadwella.com/jgdiq309hvn3/The.Harbinger.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/qbGST0xAEBrjviD4DQhJuMXiXELJ9xH-",
-  "https://downloadwella.com/30vtv83z6tm0/Stellar.A.Magical.Ride.2022.(NKIRI.COM).mp4": "https://v1.vidfiles.com/d/Mg_KTEI7K1RZ_TDtfn_gblSugfm19NBi"
+  "https://downloadwella.com/30vtv83z6tm0/Stellar.A.Magical.Ride.2022.(NKIRI.COM).mp4": "https://v1.vidfiles.com/d/Mg_KTEI7K1RZ_TDtfn_gblSugfm19NBi",
+  "https://downloadwella.com/daspmfsububt/Along.with.the.Gods.The.Two.Worlds.(NKIRI.COM).2017.480p.BluRay.x264.mkv.html": "https://v1.vidfiles.com/d/RDtGyhbqZZAlrSK5woeMwIaFv5AQ9DnN"
  }
 }
