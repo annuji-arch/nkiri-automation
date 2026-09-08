@@ -15,8 +15,8 @@
   "https://thenkiri.com/the-whistler-2026-download-hollywood-movie/": {
    "status": "pending",
    "signature": "155151|https://thenkiri.com/the-whistler-2026-download-hollywood-movie/|04/23/2026 08:52:42|04/23/2026 10:04:16|{'rendered': 'The Whistler (2026) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874396.661978
+   "attempts": 3,
+   "last_attempt": 1788875365.1152472
   },
   "https://thenkiri.com/accused-the-karen-read-story-2026-download-hollywood-movie/": {
    "status": "pending",
@@ -162,6 +162,24 @@
    "signature": "83836|https://thenkiri.com/missing-2023-download-hollywood-movie/|03/07/2023 12:02:19|05/02/2024 07:23:40|{'rendered': 'Missing (2023) | Download Hollywood Movie'}",
    "modified": "05/02/2024 07:23:40",
    "completed_at": 1788875242
+  },
+  "https://thenkiri.com/vadh-2022-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "81577|https://thenkiri.com/vadh-2022-download-bollywood-movie/|02/07/2023 12:00:23|09/02/2023 17:06:25|{'rendered': 'Vadh (2022) | Download Bollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788875367.1553247
+  },
+  "https://thenkiri.com/you-people-2023-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "80578|https://thenkiri.com/you-people-2023-download-hollywood-movie/|01/27/2023 11:30:54|09/02/2023 16:55:05|{'rendered': 'You People (2023) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788875423.2732794
+  },
+  "https://thenkiri.com/white-noise-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "78267|https://thenkiri.com/white-noise-2022-download-hollywood-movie/|12/30/2022 10:38:46|12/25/2023 07:00:00|{'rendered': 'White Noise (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788875435.9641283
   }
  },
  "series_links": {
