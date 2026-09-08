@@ -444,40 +444,52 @@
    "blocked_at": 1788883081
   },
   "https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44881|https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/|06/24/2022 09:51:19|09/02/2023 14:22:14|{'rendered': 'The Man from Toronto (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883083.1416233
+   "last_attempt": 1788883083.1416233,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883212
   },
   "https://thenkiri.com/mojin-the-secret-coffin-2022-download-chinese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44473|https://thenkiri.com/mojin-the-secret-coffin-2022-download-chinese-movie/|06/19/2022 09:52:46|09/02/2023 14:11:24|{'rendered': 'Mojin: The Secret Coffin (2022) | Download Chinese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883084.7730877
+   "last_attempt": 1788883084.7730877,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883212
   },
   "https://thenkiri.com/mad-god-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44216|https://thenkiri.com/mad-god-2022-download-hollywood-movie/|06/16/2022 19:41:34|09/02/2023 14:09:05|{'rendered': 'Mad God (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883086.0088804
+   "last_attempt": 1788883086.0088804,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883212
   },
   "https://thenkiri.com/18-1-2-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43964|https://thenkiri.com/18-1-2-2022-download-hollywood-movie/|06/13/2022 06:09:17|09/02/2023 14:06:30|{'rendered': '18 1/2 (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883097.944499
+   "last_attempt": 1788883097.944499,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883212
   },
   "https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43653|https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/|06/07/2022 19:52:06|09/02/2023 14:03:56|{'rendered': 'Sarkaru Vaari Paata (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883099.1241586
+   "last_attempt": 1788883099.1241586,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883212
   },
   "https://thenkiri.com/the-unbearable-weight-of-massive-talent-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43571|https://thenkiri.com/the-unbearable-weight-of-massive-talent-2022-download-hollywood-movie/|06/06/2022 06:56:46|09/02/2023 14:04:47|{'rendered': 'The Unbearable Weight of Massive Talent (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883100.348561
+   "last_attempt": 1788883100.348561,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883212
   },
   "https://thenkiri.com/the-call-2020-download-korean-movie/": {
    "status": "pending",
@@ -544,6 +556,24 @@
    "signature": "39991|https://thenkiri.com/my-sweet-monster-2022-download-hollywood-movie/|04/20/2022 04:00:13|09/02/2023 13:43:29|{'rendered': 'My Sweet Monster (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788882990.907816
+  },
+  "https://thenkiri.com/midnight-2021-download-korean-movie/": {
+   "status": "pending",
+   "signature": "39866|https://thenkiri.com/midnight-2021-download-korean-movie/|04/18/2022 15:55:24|09/02/2023 13:43:58|{'rendered': 'Midnight (2021) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883213.6311638
+  },
+  "https://thenkiri.com/the-cellar-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39663|https://thenkiri.com/the-cellar-2022-download-hollywood-movie/|04/14/2022 16:05:28|09/02/2023 13:41:17|{'rendered': 'The Cellar (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883214.5530534
+  },
+  "https://thenkiri.com/metal-lords-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39520|https://thenkiri.com/metal-lords-2022-download-hollywood-movie/|04/12/2022 20:49:42|09/02/2023 13:41:43|{'rendered': 'Metal Lords (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883215.3405368
   }
  },
  "series_links": {
