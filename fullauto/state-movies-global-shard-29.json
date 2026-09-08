@@ -1203,52 +1203,60 @@
    "blocked_at": 1788838099
   },
   "https://thenkiri.com/rucker-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "34675|https://thenkiri.com/rucker-2022-download-hollywood-movie/|2022-01-07T14:43:04|2023-09-02T13:23:57|{'rendered': 'Rucker (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838101.1640644
+   "last_attempt": 1788838101.1640644,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841382
   },
   "https://thenkiri.com/the-novice-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33898|https://thenkiri.com/the-novice-2021-download-hollywood-movie/|2021-12-22T08:07:52|2023-09-02T13:16:09|{'rendered': 'The Novice (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838102.467634
+   "attempts": 2,
+   "last_attempt": 1788841383.5749347
   },
   "https://thenkiri.com/gods-not-dead-we-the-people-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32524|https://thenkiri.com/gods-not-dead-we-the-people-2021-download-hollywood-movie/|2021-11-24T11:04:01|2023-09-02T13:06:07|{'rendered': 'God’s Not Dead: We the People (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838103.6753697
+   "attempts": 2,
+   "last_attempt": 1788841384.5475514
   },
   "https://thenkiri.com/the-electrical-life-of-louis-wain-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31483|https://thenkiri.com/the-electrical-life-of-louis-wain-2021-download-hollywood-movie/|2021-11-05T09:07:23|2023-09-02T10:52:39|{'rendered': 'The Electrical Life of Louis Wain (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838105.5113473
+   "attempts": 2,
+   "last_attempt": 1788841385.6671329
   },
   "https://thenkiri.com/the-card-counter-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "29943|https://thenkiri.com/the-card-counter-2021-download-hollywood-movie/|2021-09-30T18:58:46|2023-09-02T10:03:02|{'rendered': 'The Card Counter (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838107.2868304
+   "attempts": 2,
+   "last_attempt": 1788841387.0494735
   },
   "https://thenkiri.com/biriyaani-2019-download-bollywood-movie/": {
    "status": "pending",
    "signature": "17570|https://thenkiri.com/biriyaani-2019-download-bollywood-movie/|2021-06-15T13:07:34|2023-09-02T09:23:58|{'rendered': 'Biriyaani (2019) | Download Bollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838128.91559
+   "attempts": 2,
+   "last_attempt": 1788841405.5446863
   },
   "https://thenkiri.com/son-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "15600|https://thenkiri.com/son-2021-download-hollywood-movie/|2021-04-27T10:06:23|2023-09-02T09:04:53|{'rendered': 'Son (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838161.3758004
+   "attempts": 2,
+   "last_attempt": 1788841436.2200913
   },
   "https://thenkiri.com/flora-and-ulysses-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "13339|https://thenkiri.com/flora-and-ulysses-2021-download-hollywood-movie/|2021-02-22T08:24:06|2023-09-02T08:38:56|{'rendered': 'Flora and Ulysses (2021) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788841467.590792
+  },
+  "https://thenkiri.com/we-can-be-heroes-2020-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "9917|https://thenkiri.com/we-can-be-heroes-2020-download-hollywood-movie/|2020-12-30T18:55:24|2023-09-02T08:25:16|{'rendered': 'We Can Be Heroes (2020) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788838194.5346487
+   "last_attempt": 1788841499.2994342
   }
  },
  "series_links": {
