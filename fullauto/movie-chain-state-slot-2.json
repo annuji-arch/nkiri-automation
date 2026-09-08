@@ -372,16 +372,20 @@
    "blocked_at": 1788881433
   },
   "https://thenkiri.com/dasvi-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47144|https://thenkiri.com/dasvi-2022-download-indian-movie/|07/27/2022 08:04:06|09/02/2023 14:52:08|{'rendered': 'Dasvi (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881791.7285142
+   "last_attempt": 1788881791.7285142,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881906
   },
   "https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47021|https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/|07/25/2022 07:30:34|09/02/2023 14:53:03|{'rendered': 'Paws of Fury: The Legend of Hank (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881793.3667805
+   "last_attempt": 1788881793.3667805,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881906
   },
   "https://thenkiri.com/the-witch-part-2-the-other-one-2022-download-korean-movie/": {
    "status": "pending",
