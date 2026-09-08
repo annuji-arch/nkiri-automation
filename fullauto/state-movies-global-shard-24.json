@@ -367,10 +367,12 @@
    "completed_at": 1788788645
   },
   "https://thenkiri.com/ghost-train-2025-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "150415|https://thenkiri.com/ghost-train-2025-download-korean-movie/|2026-02-18T09:45:50|2026-02-18T09:45:50|{'rendered': 'Ghost Train (2025) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788827950.8255954
+   "last_attempt": 1788827950.8255954,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788831277
   },
   "https://thenkiri.com/main-vaapas-aaunga-2026-download-foreign-movie/": {
    "status": "done",
@@ -1081,44 +1083,50 @@
   "https://thenkiri.com/wildcat-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "118278|https://thenkiri.com/wildcat-2024-download-hollywood-movie/|2024-07-13T07:24:09|2024-07-13T07:24:09|{'rendered': 'Wildcat (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788828007.4262161
+   "attempts": 3,
+   "last_attempt": 1788831310.969455
   },
   "https://thenkiri.com/unexpected-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "112533|https://thenkiri.com/unexpected-2024-download-hollywood-movie/|2024-03-19T08:19:17|2024-03-19T08:19:17|{'rendered': 'Unexpected (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788828008.3897998
+   "attempts": 3,
+   "last_attempt": 1788831312.6762373
   },
   "https://thenkiri.com/race-for-glory-audi-vs-lancia-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "106516|https://thenkiri.com/race-for-glory-audi-vs-lancia-2024-download-hollywood-movie/|2024-01-05T08:32:15|2024-01-05T08:32:15|{'rendered': 'Race for Glory: Audi vs Lancia (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788828040.6009002
+   "attempts": 3,
+   "last_attempt": 1788831345.357254
   },
   "https://thenkiri.com/scarygirl-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "101385|https://thenkiri.com/scarygirl-2023-download-hollywood-movie/|2023-10-15T07:46:22|2023-10-15T07:46:22|{'rendered': 'Scarygirl (2023) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788829935.6965444
+   "attempts": 2,
+   "last_attempt": 1788831413.17444
   },
   "https://thenkiri.com/the-corner-office-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "96359|https://thenkiri.com/the-corner-office-2023-download-hollywood-movie/|2023-08-04T09:10:36|2024-02-23T15:02:35|{'rendered': 'The Corner Office (2023) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788829966.907448
+   "attempts": 2,
+   "last_attempt": 1788831445.195773
   },
   "https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "89991|https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/|2023-05-22T18:48:08|2023-09-02T18:00:10|{'rendered': 'John Wick Chapter 4 (2023) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788829968.1104987
+   "attempts": 2,
+   "last_attempt": 1788831446.5273328
   },
   "https://thenkiri.com/beasts-clawing-at-straws-2020-download-korean-movie/": {
    "status": "pending",
    "signature": "84113|https://thenkiri.com/beasts-clawing-at-straws-2020-download-korean-movie/|2023-03-11T08:06:02|2023-09-02T17:23:10|{'rendered': 'Beasts Clawing at Straws (2020) | Download Korean Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788831447.8573406
+  },
+  "https://thenkiri.com/hell-dogs-2022-download-japanese-movie/": {
+   "status": "pending",
+   "signature": "77995|https://thenkiri.com/hell-dogs-2022-download-japanese-movie/|2022-12-26T14:49:26|2023-09-02T14:26:54|{'rendered': 'Hell Dogs (2022) | Download JAPANESE Movie'}",
    "attempts": 1,
-   "last_attempt": 1788829969.508684
+   "last_attempt": 1788831449.2841527
   }
  },
  "series_links": {
