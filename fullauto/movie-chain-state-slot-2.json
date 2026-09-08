@@ -192,10 +192,12 @@
    "completed_at": 1788875242
   },
   "https://thenkiri.com/vadh-2022-download-bollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "81577|https://thenkiri.com/vadh-2022-download-bollywood-movie/|02/07/2023 12:00:23|09/02/2023 17:06:25|{'rendered': 'Vadh (2022) | Download Bollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878991.9743874
+   "last_attempt": 1788878991.9743874,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879123
   },
   "https://thenkiri.com/you-people-2023-download-hollywood-movie/": {
    "status": "done",
@@ -204,10 +206,12 @@
    "completed_at": 1788877882
   },
   "https://thenkiri.com/white-noise-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "78267|https://thenkiri.com/white-noise-2022-download-hollywood-movie/|12/30/2022 10:38:46|12/25/2023 07:00:00|{'rendered': 'White Noise (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879001.2295952
+   "last_attempt": 1788879001.2295952,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879123
   },
   "https://thenkiri.com/shark-the-beginning-2021-download-korean-movie/": {
    "status": "pending",
@@ -236,20 +240,20 @@
   "https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "73582|https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/|11/22/2022 08:49:20|09/02/2023 13:45:07|{'rendered': 'Lyle, Lyle, Crocodile (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878119.9815223
+   "attempts": 2,
+   "last_attempt": 1788879126.0961878
   },
   "https://thenkiri.com/dive-2022-download-spanish-movie/": {
    "status": "pending",
    "signature": "71245|https://thenkiri.com/dive-2022-download-spanish-movie/|11/12/2022 05:48:32|09/02/2023 16:52:20|{'rendered': 'Dive (2022) | Download Spanish Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878120.9754813
+   "attempts": 2,
+   "last_attempt": 1788879128.101711
   },
   "https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/": {
    "status": "pending",
    "signature": "69795|https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/|10/28/2022 12:57:02|09/02/2023 16:29:59|{'rendered': 'All Quiet on the Western Front (2022) English Dub | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878218.6205785
+   "attempts": 2,
+   "last_attempt": 1788879227.4982648
   },
   "https://thenkiri.com/phantom-detective-2016-download-korean-movie/": {
    "status": "pending",
