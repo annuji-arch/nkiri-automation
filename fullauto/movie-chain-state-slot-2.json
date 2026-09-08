@@ -258,8 +258,8 @@
   "https://thenkiri.com/phantom-detective-2016-download-korean-movie/": {
    "status": "pending",
    "signature": "69471|https://thenkiri.com/phantom-detective-2016-download-korean-movie/|10/26/2022 15:13:48|09/02/2023 16:32:46|{'rendered': 'Phantom Detective (2016) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878316.3532765
+   "attempts": 2,
+   "last_attempt": 1788879376.50633
   },
   "https://thenkiri.com/memories-of-the-sword-2015-download-korean-movie/": {
    "status": "done",
@@ -344,6 +344,18 @@
    "signature": "47304|https://thenkiri.com/honor-society-2022-download-hollywood-movie/|07/29/2022 10:48:51|09/02/2023 15:06:29|{'rendered': 'Honor Society (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788879066.8420506
+  },
+  "https://thenkiri.com/dasvi-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "47144|https://thenkiri.com/dasvi-2022-download-indian-movie/|07/27/2022 08:04:06|09/02/2023 14:52:08|{'rendered': 'Dasvi (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879474.6409304
+  },
+  "https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "47021|https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/|07/25/2022 07:30:34|09/02/2023 14:53:03|{'rendered': 'Paws of Fury: The Legend of Hank (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879475.52199
   }
  },
  "series_links": {
