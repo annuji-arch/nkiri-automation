@@ -75,41 +75,53 @@
    "completed_at": 1788874712
   },
   "https://thenkiri.com/unexpected-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112533|https://thenkiri.com/unexpected-2024-download-hollywood-movie/|03/19/2024 08:19:17|03/19/2024 08:19:17|{'rendered': 'Unexpected (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877630.039636
+   "last_attempt": 1788877630.039636,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/madame-web-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112369|https://thenkiri.com/madame-web-2024-download-hollywood-movie/|03/15/2024 08:10:33|03/15/2024 08:10:33|{'rendered': 'Madame Web (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877631.3022258
+   "last_attempt": 1788877631.3022258,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/wish-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "107332|https://thenkiri.com/wish-2023-download-hollywood-movie/|01/23/2024 10:36:52|01/23/2024 10:36:52|{'rendered': 'Wish (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877640.2492185
+   "last_attempt": 1788877640.2492185,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/society-of-the-snow-2023-download-spanish-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106628|https://thenkiri.com/society-of-the-snow-2023-download-spanish-movie/|01/07/2024 18:05:28|01/07/2024 18:05:28|{'rendered': 'Society of the Snow (2023) | Download Spanish Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877641.7802534
+   "last_attempt": 1788877641.7802534,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/how-to-have-sex-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106292|https://thenkiri.com/how-to-have-sex-2023-download-hollywood-movie/|12/30/2023 08:50:31|12/30/2023 08:50:31|{'rendered': 'How to Have Sex (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877643.3696516
+   "last_attempt": 1788877643.3696516,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/wwe-survivor-series-wargames-2023-download-wresting-special/": "skipped (wwe)",
   "https://thenkiri.com/hell-house-llc-origins-the-carmichael-manor-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "102271|https://thenkiri.com/hell-house-llc-origins-the-carmichael-manor-2023-download-hollywood-movie/|11/03/2023 10:22:12|11/03/2023 10:22:12|{'rendered': 'Hell House LLC Origins: The Carmichael Manor (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877694.7074945
+   "last_attempt": 1788877694.7074945,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/the-pass-2023-download-hollywood-movie/": {
    "status": "done",
@@ -130,28 +142,36 @@
    "completed_at": 1788873006
   },
   "https://thenkiri.com/the-ghost-station-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "95937|https://thenkiri.com/the-ghost-station-2023-download-hollywood-movie/|07/26/2023 09:38:00|09/02/2023 17:24:43|{'rendered': 'The Ghost Station (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877824.7882822
+   "last_attempt": 1788877824.7882822,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/the-out-laws-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "92998|https://thenkiri.com/the-out-laws-2023-download-hollywood-movie/|07/07/2023 12:36:34|09/02/2023 17:16:34|{'rendered': 'The Out-Laws (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877826.4058955
+   "last_attempt": 1788877826.4058955,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/ambush-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "90887|https://thenkiri.com/ambush-2023-download-hollywood-movie/|06/05/2023 08:29:23|09/02/2023 18:06:31|{'rendered': 'Ambush (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877827.8936672
+   "last_attempt": 1788877827.8936672,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/the-devils-deal-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "88579|https://thenkiri.com/the-devils-deal-2023-download-korean-movie/|05/03/2023 16:28:32|02/25/2024 02:14:35|{'rendered': 'The Devil’s Deal (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877829.394632
+   "last_attempt": 1788877829.394632,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878064
   },
   "https://thenkiri.com/whats-love-got-to-do-with-it-2023-download-hollywood-movie/": {
    "status": "done",
@@ -206,6 +226,42 @@
    "signature": "75061|https://thenkiri.com/project-wolf-hunting-2022-download-korean-movie/|12/02/2022 09:10:18|09/02/2023 13:49:53|{'rendered': 'Project Wolf Hunting (2022) | Download Korean Movie'}",
    "attempts": 1,
    "last_attempt": 1788878000.5769792
+  },
+  "https://thenkiri.com/time-to-hunt-2020-download-korean-movie/": {
+   "status": "done",
+   "signature": "74743|https://thenkiri.com/time-to-hunt-2020-download-korean-movie/|11/30/2022 07:35:22|09/02/2023 13:50:49|{'rendered': 'Time to Hunt (2020) | Download Korean Movie'}",
+   "modified": "09/02/2023 13:50:49",
+   "completed_at": 1788878118
+  },
+  "https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "73582|https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/|11/22/2022 08:49:20|09/02/2023 13:45:07|{'rendered': 'Lyle, Lyle, Crocodile (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878119.9815223
+  },
+  "https://thenkiri.com/dive-2022-download-spanish-movie/": {
+   "status": "pending",
+   "signature": "71245|https://thenkiri.com/dive-2022-download-spanish-movie/|11/12/2022 05:48:32|09/02/2023 16:52:20|{'rendered': 'Dive (2022) | Download Spanish Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878120.9754813
+  },
+  "https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "69795|https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/|10/28/2022 12:57:02|09/02/2023 16:29:59|{'rendered': 'All Quiet on the Western Front (2022) English Dub | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878218.6205785
+  },
+  "https://thenkiri.com/phantom-detective-2016-download-korean-movie/": {
+   "status": "pending",
+   "signature": "69471|https://thenkiri.com/phantom-detective-2016-download-korean-movie/|10/26/2022 15:13:48|09/02/2023 16:32:46|{'rendered': 'Phantom Detective (2016) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878316.3532765
+  },
+  "https://thenkiri.com/memories-of-the-sword-2015-download-korean-movie/": {
+   "status": "done",
+   "signature": "69418|https://thenkiri.com/memories-of-the-sword-2015-download-korean-movie/|10/26/2022 13:38:55|09/02/2023 16:24:45|{'rendered': 'Memories of the Sword (2015) | Download Korean Movie'}",
+   "modified": "09/02/2023 16:24:45",
+   "completed_at": 1788878391
   }
  },
  "series_links": {
@@ -223,6 +279,8 @@
   "https://downloadwella.com/4aawtid7g6gt/The.Clean.Up.Crew.(NKIRI.COM).2024.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ruaweZvmIVerM3oI8C9plQHhUuYyfkB_",
   "https://downloadwella.com/ytflaeqawuol/Death.By.Desire.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/04rAofBJD47CdgLkJzuEipDLuCOLEYqq",
   "https://downloadwella.com/4pdkefcxoiqa/You.People.(NKIRI.COM).2023.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/-FOs8n1mxAWiCMW5RNeQHHD0KJ0tAK4P",
-  "https://downloadwella.com/i61b6i4f0di4/Scrooge.A.Christmas.Carol.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zxTcWM8QnkgpgbQsKeWldP2SShRpGcfB"
+  "https://downloadwella.com/i61b6i4f0di4/Scrooge.A.Christmas.Carol.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zxTcWM8QnkgpgbQsKeWldP2SShRpGcfB",
+  "https://downloadwella.com/ks0wwtmpv8hc/%7Bnkiri.com%7D_Time_to_Hunt.mkv.html": "https://v1.vidfiles.com/d/_l6AV_PEOY4E9Q7ocVBzcgImYmD_7Zx7",
+  "https://downloadwella.com/a1pwq9i0gmc1/Memories.Of.The.Sword.(NKIRI.COM).2015.480p.BluRay.x264.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/QMWL4jNBBlMi7L0dak1MoqyYJSjGTYTo"
  }
 }
