@@ -1173,52 +1173,68 @@
    "blocked_at": 1788838079
   },
   "https://thenkiri.com/save-the-cinema-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42806|https://thenkiri.com/save-the-cinema-2022-download-hollywood-movie/|2022-05-24T19:16:45|2023-09-02T13:59:15|{'rendered': 'Save the Cinema (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838080.6626577
+   "last_attempt": 1788838080.6626577,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841296
   },
   "https://thenkiri.com/perfect-proposal-2015-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "40225|https://thenkiri.com/perfect-proposal-2015-download-korean-movie/|2022-04-21T20:07:58|2023-09-02T13:46:03|{'rendered': 'Perfect Proposal (2015) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838081.7016027
+   "last_attempt": 1788838081.7016027,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841296
   },
   "https://thenkiri.com/moonshot-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38887|https://thenkiri.com/moonshot-2022-download-hollywood-movie/|2022-03-31T16:42:22|2023-09-02T13:36:50|{'rendered': 'Moonshot (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838082.5849319
+   "attempts": 3,
+   "last_attempt": 1788841297.858846
   },
   "https://thenkiri.com/no-exit-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37126|https://thenkiri.com/no-exit-2022-download-hollywood-movie/|2022-02-25T14:58:42|2023-09-02T13:06:40|{'rendered': 'No Exit (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838083.4253604
+   "attempts": 2,
+   "last_attempt": 1788841298.792768
   },
   "https://thenkiri.com/tadap-2021-download-indian-movie/": {
    "status": "pending",
    "signature": "36103|https://thenkiri.com/tadap-2021-download-indian-movie/|2022-02-04T07:30:55|2023-09-02T13:38:07|{'rendered': 'Tadap (2021) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838084.2601416
+   "attempts": 2,
+   "last_attempt": 1788841299.7151797
   },
   "https://thenkiri.com/project-papa-2018-download-indian-movie/": {
    "status": "pending",
    "signature": "34730|https://thenkiri.com/project-papa-2018-download-indian-movie/|2022-01-08T08:32:36|2023-09-02T13:23:44|{'rendered': 'Project Papa (2018) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838085.0567505
+   "attempts": 2,
+   "last_attempt": 1788841300.493827
   },
   "https://thenkiri.com/the-matrix-1999-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33907|https://thenkiri.com/the-matrix-1999-download-hollywood-movie/|2021-12-22T08:23:13|2023-09-02T13:15:59|{'rendered': 'The Matrix (1999) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788838085.9553168
+   "attempts": 2,
+   "last_attempt": 1788841301.3284974
   },
   "https://thenkiri.com/8-bit-christmas-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32561|https://thenkiri.com/8-bit-christmas-2021-download-hollywood-movie/|2021-11-24T18:18:41|2023-09-02T13:05:50|{'rendered': '8-Bit Christmas (2021) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788841302.3887618
+  },
+  "https://thenkiri.com/mark-mary-some-other-people-2021-download-hollywood-stand-up/": {
+   "status": "pending",
+   "signature": "31526|https://thenkiri.com/mark-mary-some-other-people-2021-download-hollywood-stand-up/|2021-11-05T19:40:18|2023-09-02T10:59:26|{'rendered': 'Mark Mary + Some Other People (2021) | Download Hollywood Stand Up'}",
    "attempts": 1,
-   "last_attempt": 1788838087.4997709
+   "last_attempt": 1788841303.3877723
+  },
+  "https://thenkiri.com/the-greatest-showman-2017-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "30353|https://thenkiri.com/the-greatest-showman-2017-download-hollywood-movie/|2021-10-11T07:40:52|2023-09-02T10:05:27|{'rendered': 'The Greatest Showman (2017) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841304.2338421
   }
  },
  "series_links": {

@@ -232,14 +232,14 @@
   "https://thenkiri.com/criminal-record-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "155137|https://thenkiri.com/criminal-record-s02-complete-tv-series/|2026-04-22T16:46:53|2026-06-10T09:16:20|{'rendered': 'Criminal Record S02 (Episode 8 Added) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788838353.237656
+   "attempts": 2,
+   "last_attempt": 1788841585.4762633
   },
   "https://thenkiri.com/the-audacity-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "154241|https://thenkiri.com/the-audacity-s01-complete-tv-series/|2026-04-13T09:40:11|2026-06-01T08:26:03|{'rendered': 'The Audacity S01 (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788838625.108822
+   "attempts": 2,
+   "last_attempt": 1788841866.429544
   }
  },
  "series_links": {
