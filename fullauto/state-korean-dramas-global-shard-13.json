@@ -181,16 +181,32 @@
    "completed_at": 1788822657
   },
   "https://thenkiri.com/doctor-slump-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "107556|https://thenkiri.com/doctor-slump-s01-complete-korean-drama/|2024-01-27T17:33:09|2024-03-17T20:21:57|{'rendered': 'Doctor Slump S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788835269.0831661
+   "last_attempt": 1788835269.0831661,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838124
   },
   "https://thenkiri.com/the-perfect-deal-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "102143|https://thenkiri.com/the-perfect-deal-s01-complete-korean-drama/|2023-11-01T06:13:31|2023-11-01T06:13:31|{'rendered': 'The Perfect Deal S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788835506.7640328
+   "last_attempt": 1788835506.7640328,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838124
+  },
+  "https://thenkiri.com/longing-for-you-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "95963|https://thenkiri.com/longing-for-you-s01-complete-korean-drama/|2023-07-26T16:43:56|2024-02-23T21:23:23|{'rendered': 'Longing For You S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788838529.1482618
+  },
+  "https://thenkiri.com/road-no-1-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "82286|https://thenkiri.com/road-no-1-complete-korean-drama/|2023-02-15T09:42:03|2024-12-09T07:45:30|{'rendered': 'Road No. 1 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788839140.4759686
   }
  },
  "series_links": {
