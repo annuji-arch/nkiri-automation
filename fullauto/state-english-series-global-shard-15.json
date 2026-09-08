@@ -141,10 +141,12 @@
    "completed_at": 1788788097
   },
   "https://thenkiri.com/one-hundred-years-of-solitude-s02-episode-1-7-added-foreign-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "163772|https://thenkiri.com/one-hundred-years-of-solitude-s02-episode-1-7-added-foreign-tv-series/|2026-08-06T18:51:48|2026-08-06T18:54:18|{'rendered': 'One Hundred Years of Solitude S02 (Episode 1 – 7 Added) | Foreign TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788828000.2100198
+   "last_attempt": 1788828000.2100198,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834818
   },
   "https://thenkiri.com/one-hundred-years-of-solitude-s01-complete-foreign-tv-series/": {
    "status": "done",
@@ -204,8 +206,14 @@
   "https://thenkiri.com/classroom-of-the-elite-s01-complete-anime-series-2/": {
    "status": "pending",
    "signature": "159754|https://thenkiri.com/classroom-of-the-elite-s01-complete-anime-series-2/|2026-06-19T16:11:12|2026-06-19T16:12:13|{'rendered': 'Classroom of the Elite S01 (Complete) | Anime Series'}",
+   "attempts": 2,
+   "last_attempt": 1788835170.3645933
+  },
+  "https://thenkiri.com/two-years-later-complete-tv-series/": {
+   "status": "pending",
+   "signature": "158608|https://thenkiri.com/two-years-later-complete-tv-series/|2026-06-04T15:42:49|2026-06-04T15:43:36|{'rendered': 'Two Years Later (Complete ) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788828384.5751371
+   "last_attempt": 1788835408.2931712
   }
  },
  "series_links": {
