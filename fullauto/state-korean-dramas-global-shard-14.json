@@ -179,6 +179,18 @@
    "signature": "117964|https://thenkiri.com/the-auditors-s01-complete-korean-drama/|2024-07-06T16:46:11|2024-08-11T17:14:23|{'rendered': 'The Auditors S01 (Complete) | Korean Drama'}",
    "modified": "2024-08-11T17:14:23",
    "completed_at": 1788822608
+  },
+  "https://thenkiri.com/flex-x-cop-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "107519|https://thenkiri.com/flex-x-cop-s01-complete-korean-drama/|2024-01-26T17:29:19|2024-03-23T17:33:29|{'rendered': 'Flex X Cop S01 (Episode 16 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788828453.3643384
+  },
+  "https://thenkiri.com/castaway-diva-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "102020|https://thenkiri.com/castaway-diva-s01-complete-korean-drama/|2023-10-28T16:19:46|2024-02-23T09:00:44|{'rendered': 'Castaway Diva S01 (Episode 12 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788828944.7952344
   }
  },
  "series_links": {

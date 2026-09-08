@@ -210,8 +210,14 @@
   "https://thenkiri.com/cape-fear-complete-tv-series/": {
    "status": "pending",
    "signature": "158653|https://thenkiri.com/cape-fear-complete-tv-series/|2026-06-05T10:24:55|2026-07-31T08:31:16|{'rendered': 'Cape Fear (Episode 10 Added) | TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788828033.1535118
+  },
+  "https://thenkiri.com/the-chi-s08-complete-tv-series/": {
+   "status": "pending",
+   "signature": "157505|https://thenkiri.com/the-chi-s08-complete-tv-series/|2026-05-22T08:39:40|2026-07-24T08:40:50|{'rendered': 'The Chi S08 (Episode 10 Added) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788826842.8798165
+   "last_attempt": 1788828368.863254
   }
  },
  "series_links": {

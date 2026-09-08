@@ -1087,8 +1087,8 @@
   "https://thenkiri.com/madame-web-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "112369|https://thenkiri.com/madame-web-2024-download-hollywood-movie/|2024-03-15T08:10:33|2024-03-15T08:10:33|{'rendered': 'Madame Web (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788822491.3560894
+   "attempts": 3,
+   "last_attempt": 1788827926.947427
   },
   "https://thenkiri.com/cobweb-2023-download-korean-movie/": {
    "status": "done",
@@ -1143,6 +1143,48 @@
    "signature": "63585|https://thenkiri.com/seoul-vibe-2022-download-korean-movie/|2022-08-26T13:36:44|2023-09-02T15:14:36|{'rendered': 'Seoul Vibe (2022) | Download Korean Movie'}",
    "modified": "2023-09-02T15:14:36",
    "completed_at": 1788824801
+  },
+  "https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "46964|https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/|2022-07-23T13:55:17|2024-02-24T19:06:35|{'rendered': 'JugJugg Jeeyo (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827961.846274
+  },
+  "https://thenkiri.com/crimes-of-the-future-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44640|https://thenkiri.com/crimes-of-the-future-2022-download-hollywood-movie/|2022-06-21T08:34:43|2023-09-02T14:11:00|{'rendered': 'Crimes of the Future (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827973.8863366
+  },
+  "https://thenkiri.com/k-g-f-chapter-2-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "42575|https://thenkiri.com/k-g-f-chapter-2-2022-download-indian-movie/|2022-05-21T12:47:03|2023-09-02T13:59:50|{'rendered': 'K.G.F Chapter 2 (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827975.3313558
+  },
+  "https://thenkiri.com/sonic-the-hedgehog-2020-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "40001|https://thenkiri.com/sonic-the-hedgehog-2020-download-hollywood-movie/|2022-04-20T04:13:25|2023-09-02T13:43:25|{'rendered': 'Sonic the Hedgehog (2020) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827976.7200494
+  },
+  "https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38653|https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/|2022-03-26T21:42:07|2023-09-02T13:24:34|{'rendered': 'Death on the Nile (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827978.067281
+  },
+  "https://thenkiri.com/desperate-riders-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37105|https://thenkiri.com/desperate-riders-2022-download-hollywood-movie/|2022-02-25T14:42:26|2023-09-02T13:07:00|{'rendered': 'Desperate Riders (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827979.5352888
+  },
+  "https://thenkiri.com/kim-ji-young-born-1982-2019-download-korean-movie/": {
+   "status": "pending",
+   "signature": "35998|https://thenkiri.com/kim-ji-young-born-1982-2019-download-korean-movie/|2022-02-02T08:34:21|2023-09-02T13:38:34|{'rendered': 'Kim Ji-young, Born 1982 (2019) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827980.8725443
   }
  },
  "series_links": {
