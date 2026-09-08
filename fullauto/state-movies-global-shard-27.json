@@ -1105,10 +1105,12 @@
    "completed_at": 1788813641
   },
   "https://thenkiri.com/miraculous-ladybug-cat-noir-the-movie-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96104|https://thenkiri.com/miraculous-ladybug-cat-noir-the-movie-2023-download-hollywood-movie/|2023-07-28T13:24:48|2023-09-02T17:58:43|{'rendered': 'Miraculous: Ladybug & Cat Noir, The Movie (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831284.6568105
+   "last_attempt": 1788831284.6568105,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834796
   },
   "https://thenkiri.com/white-men-cant-jump-2023-download-hollywood-movie/": {
    "status": "done",
@@ -1117,10 +1119,12 @@
    "completed_at": 1788823405
   },
   "https://thenkiri.com/men-of-plastic-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "83941|https://thenkiri.com/men-of-plastic-2023-download-korean-movie/|2023-03-09T06:47:31|2023-09-02T17:19:51|{'rendered': 'Men of Plastic (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831372.9581609
+   "last_attempt": 1788831372.9581609,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834796
   },
   "https://thenkiri.com/rampant-2018-download-korean-movie/": {
    "status": "done",
@@ -1137,38 +1141,50 @@
   "https://thenkiri.com/baazaar-2018-download-indian-movie/": {
    "status": "pending",
    "signature": "69025|https://thenkiri.com/baazaar-2018-download-indian-movie/|2022-10-25T09:52:56|2023-09-02T16:26:04|{'rendered': 'Baazaar (2018) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831417.1480615
+   "attempts": 3,
+   "last_attempt": 1788834830.5796506
   },
   "https://thenkiri.com/stellar-a-magical-ride-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "63850|https://thenkiri.com/stellar-a-magical-ride-2022-download-korean-movie/|2022-08-29T13:37:02|2023-09-02T15:21:40|{'rendered': 'Stellar A Magical Ride (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831447.3617802
+   "attempts": 3,
+   "last_attempt": 1788834861.7320952
   },
   "https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "47021|https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/|2022-07-25T07:30:34|2023-09-02T14:53:03|{'rendered': 'Paws of Fury: The Legend of Hank (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831448.3975081
+   "attempts": 3,
+   "last_attempt": 1788834862.7466357
   },
   "https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44881|https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/|2022-06-24T09:51:19|2023-09-02T14:22:14|{'rendered': 'The Man from Toronto (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831449.3096595
+   "attempts": 3,
+   "last_attempt": 1788834863.9966145
   },
   "https://thenkiri.com/secretly-greatly-2013-download-korean-movie/": {
    "status": "pending",
    "signature": "42752|https://thenkiri.com/secretly-greatly-2013-download-korean-movie/|2022-05-24T05:20:49|2023-09-02T13:59:19|{'rendered': 'Secretly, Greatly (2013) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831450.218085
+   "attempts": 3,
+   "last_attempt": 1788834864.966201
   },
   "https://thenkiri.com/broke-rookie-star-s01-episode-1-added-korean-drama/": {
    "status": "pending",
    "signature": "40035|https://thenkiri.com/broke-rookie-star-s01-episode-1-added-korean-drama/|2022-04-20T08:38:41|2023-09-02T13:43:15|{'rendered': 'Broke Rookie Star S01 (Complete) | Download Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788835161.1626513
+  },
+  "https://thenkiri.com/moonfall-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38784|https://thenkiri.com/moonfall-2022-download-hollywood-movie/|2022-03-29T15:51:46|2023-09-02T13:24:26|{'rendered': 'Moonfall (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788831738.1716595
+   "last_attempt": 1788835162.3551126
+  },
+  "https://thenkiri.com/big-gold-brick-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37120|https://thenkiri.com/big-gold-brick-2022-download-hollywood-movie/|2022-02-25T14:53:27|2023-09-02T13:06:44|{'rendered': 'Big Gold Brick (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788835163.345013
   }
  },
  "series_links": {
