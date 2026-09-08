@@ -574,20 +574,20 @@
   "https://thenkiri.com/midnight-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "39866|https://thenkiri.com/midnight-2021-download-korean-movie/|04/18/2022 15:55:24|09/02/2023 13:43:58|{'rendered': 'Midnight (2021) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788883213.6311638
+   "attempts": 2,
+   "last_attempt": 1788884153.4573371
   },
   "https://thenkiri.com/the-cellar-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39663|https://thenkiri.com/the-cellar-2022-download-hollywood-movie/|04/14/2022 16:05:28|09/02/2023 13:41:17|{'rendered': 'The Cellar (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788883214.5530534
+   "attempts": 2,
+   "last_attempt": 1788884155.524362
   },
   "https://thenkiri.com/metal-lords-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39520|https://thenkiri.com/metal-lords-2022-download-hollywood-movie/|04/12/2022 20:49:42|09/02/2023 13:41:43|{'rendered': 'Metal Lords (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788883215.3405368
+   "attempts": 2,
+   "last_attempt": 1788884156.9971175
   },
   "https://thenkiri.com/knives-out-2019-download-hollywood-movie/": {
    "status": "pending",
@@ -654,6 +654,18 @@
    "signature": "37380|https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/|03/03/2022 08:49:30|09/02/2023 13:10:42|{'rendered': 'The Pilot A Battle for Survival (2021) | Download Russian Movie'}",
    "attempts": 1,
    "last_attempt": 1788883852.8261201
+  },
+  "https://thenkiri.com/no-exit-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37126|https://thenkiri.com/no-exit-2022-download-hollywood-movie/|02/25/2022 14:58:42|09/02/2023 13:06:40|{'rendered': 'No Exit (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788884158.3384895
+  },
+  "https://thenkiri.com/special-delivery-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "37051|https://thenkiri.com/special-delivery-2022-download-korean-movie/|02/24/2022 18:14:11|09/02/2023 13:07:35|{'rendered': 'Special Delivery (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788884159.74032
   }
  },
  "series_links": {
