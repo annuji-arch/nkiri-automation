@@ -356,16 +356,20 @@
    "blocked_at": 1788881270
   },
   "https://thenkiri.com/pipeline-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58201|https://thenkiri.com/pipeline-2022-download-korean-movie/|08/16/2022 08:29:47|07/10/2025 15:39:17|{'rendered': 'Pipeline (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881371.0278342
+   "last_attempt": 1788881371.0278342,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881433
   },
   "https://thenkiri.com/honor-society-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47304|https://thenkiri.com/honor-society-2022-download-hollywood-movie/|07/29/2022 10:48:51|09/02/2023 15:06:29|{'rendered': 'Honor Society (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881374.0000827
+   "last_attempt": 1788881374.0000827,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881433
   },
   "https://thenkiri.com/dasvi-2022-download-indian-movie/": {
    "status": "pending",
@@ -456,6 +460,24 @@
    "signature": "43571|https://thenkiri.com/the-unbearable-weight-of-massive-talent-2022-download-hollywood-movie/|06/06/2022 06:56:46|09/02/2023 14:04:47|{'rendered': 'The Unbearable Weight of Massive Talent (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788881227.9068596
+  },
+  "https://thenkiri.com/the-call-2020-download-korean-movie/": {
+   "status": "pending",
+   "signature": "43348|https://thenkiri.com/the-call-2020-download-korean-movie/|06/01/2022 19:46:26|09/02/2023 14:01:52|{'rendered': 'The Call (2020) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881436.587606
+  },
+  "https://thenkiri.com/godspeed-2022-download-thai-movie/": {
+   "status": "pending",
+   "signature": "42868|https://thenkiri.com/godspeed-2022-download-thai-movie/|05/25/2022 14:50:12|09/02/2023 14:02:39|{'rendered': 'Godspeed (2022) | Download THAI Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881536.6682794
+  },
+  "https://thenkiri.com/secretly-greatly-2013-download-korean-movie/": {
+   "status": "pending",
+   "signature": "42752|https://thenkiri.com/secretly-greatly-2013-download-korean-movie/|05/24/2022 05:20:49|09/02/2023 13:59:19|{'rendered': 'Secretly, Greatly (2013) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881539.432358
   }
  },
  "series_links": {
