@@ -179,6 +179,18 @@
    "signature": "118131|https://thenkiri.com/who-are-you-s01-complete-korean-drama/|2024-07-10T13:25:06|2024-07-10T13:25:06|{'rendered': 'Who Are You S01 (Complete) | Korean Drama'}",
    "modified": "2024-07-10T13:25:06",
    "completed_at": 1788822657
+  },
+  "https://thenkiri.com/doctor-slump-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "107556|https://thenkiri.com/doctor-slump-s01-complete-korean-drama/|2024-01-27T17:33:09|2024-03-17T20:21:57|{'rendered': 'Doctor Slump S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788828442.0859425
+  },
+  "https://thenkiri.com/the-perfect-deal-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "102143|https://thenkiri.com/the-perfect-deal-s01-complete-korean-drama/|2023-11-01T06:13:31|2023-11-01T06:13:31|{'rendered': 'The Perfect Deal S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788828679.960094
   }
  },
  "series_links": {

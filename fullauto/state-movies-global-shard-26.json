@@ -1069,8 +1069,8 @@
   "https://thenkiri.com/love-in-the-big-city-2024-download-korean-movie/": {
    "status": "pending",
    "signature": "128809|https://thenkiri.com/love-in-the-big-city-2024-download-korean-movie/|2024-12-16T11:53:56|2024-12-17T18:47:18|{'rendered': 'Love in the Big City (2024) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788822492.9123576
+   "attempts": 3,
+   "last_attempt": 1788827915.7422864
   },
   "https://thenkiri.com/war-game-2024-download-hollywood-movie/": {
    "status": "done",
@@ -1087,8 +1087,8 @@
   "https://thenkiri.com/bob-marley-one-love-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "112504|https://thenkiri.com/bob-marley-one-love-2024-download-hollywood-movie/|2024-03-19T06:54:13|2024-03-19T06:54:13|{'rendered': 'Bob Marley: One Love (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788822539.2394972
+   "attempts": 3,
+   "last_attempt": 1788827916.9593897
   },
   "https://thenkiri.com/arthurs-whiskey-2023-download-hollywood-movie/": {
    "status": "done",
@@ -1117,14 +1117,44 @@
   "https://thenkiri.com/batman-the-doom-that-came-to-gotham-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "83966|https://thenkiri.com/batman-the-doom-that-came-to-gotham-2023-download-hollywood-movie/|2023-03-09T09:29:48|2023-09-02T17:19:44|{'rendered': 'Batman: The Doom That Came to Gotham (2023) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788825123.6311545
+   "attempts": 2,
+   "last_attempt": 1788827918.1622388
   },
   "https://thenkiri.com/with-in-2022-download-hollywood-movie/": {
    "status": "done",
    "signature": "77660|https://thenkiri.com/with-in-2022-download-hollywood-movie/|2022-12-22T10:49:39|2023-09-02T14:24:13|{'rendered': 'With/In (2022) | Download Hollywood Movie'}",
    "modified": "2023-09-02T14:24:13",
    "completed_at": 1788825751
+  },
+  "https://thenkiri.com/theri-hindi-2016-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "71393|https://thenkiri.com/theri-hindi-2016-download-bollywood-movie/|2022-11-13T16:19:23|2023-09-02T16:55:16|{'rendered': 'Theri Hindi (2016) | Download Bollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788827951.1839032
+  },
+  "https://thenkiri.com/believer-2018-download-korean-movie/": {
+   "status": "pending",
+   "signature": "69042|https://thenkiri.com/believer-2018-download-korean-movie/|2022-10-25T11:37:15|2023-09-02T16:25:57|{'rendered': 'Believer (2018) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788829980.4158947
+  },
+  "https://thenkiri.com/out-of-the-blue-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "63857|https://thenkiri.com/out-of-the-blue-2022-download-hollywood-movie/|2022-08-29T16:15:59|2023-09-02T15:21:32|{'rendered': 'Out of the Blue (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830069.5240855
+  },
+  "https://thenkiri.com/the-outlaws-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "47023|https://thenkiri.com/the-outlaws-2022-download-korean-movie/|2022-07-25T07:34:28|2023-12-25T06:48:48|{'rendered': 'The Outlaws (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830102.785471
+  },
+  "https://thenkiri.com/rise-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44888|https://thenkiri.com/rise-2022-download-hollywood-movie/|2022-06-24T10:14:21|2023-09-02T14:22:11|{'rendered': 'Rise (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830103.92994
   }
  },
  "series_links": {

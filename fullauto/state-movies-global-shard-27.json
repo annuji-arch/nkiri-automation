@@ -1087,8 +1087,8 @@
   "https://thenkiri.com/irish-wish-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "112488|https://thenkiri.com/irish-wish-2024-download-hollywood-movie/|2024-03-18T07:14:18|2024-03-18T07:14:18|{'rendered': 'Irish Wish (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788822594.9096606
+   "attempts": 3,
+   "last_attempt": 1788827923.387033
   },
   "https://thenkiri.com/eileen-2023-download-hollywood-movie/": {
    "status": "done",
@@ -1105,8 +1105,8 @@
   "https://thenkiri.com/miraculous-ladybug-cat-noir-the-movie-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "96104|https://thenkiri.com/miraculous-ladybug-cat-noir-the-movie-2023-download-hollywood-movie/|2023-07-28T13:24:48|2023-09-02T17:58:43|{'rendered': 'Miraculous: Ladybug & Cat Noir, The Movie (2023) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788822596.589048
+   "attempts": 2,
+   "last_attempt": 1788827924.7660115
   },
   "https://thenkiri.com/white-men-cant-jump-2023-download-hollywood-movie/": {
    "status": "done",
@@ -1117,8 +1117,8 @@
   "https://thenkiri.com/men-of-plastic-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "83941|https://thenkiri.com/men-of-plastic-2023-download-korean-movie/|2023-03-09T06:47:31|2023-09-02T17:19:51|{'rendered': 'Men of Plastic (2023) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788823537.171661
+   "attempts": 2,
+   "last_attempt": 1788829963.8544323
   },
   "https://thenkiri.com/rampant-2018-download-korean-movie/": {
    "status": "done",
@@ -1131,6 +1131,36 @@
    "signature": "71408|https://thenkiri.com/mainstream-2021-download-hollywood-movie/|2022-11-13T15:23:15|2023-09-02T16:50:30|{'rendered': 'Mainstream (2021) | Download Hollywood Movie'}",
    "modified": "2023-09-02T16:50:30",
    "completed_at": 1788826038
+  },
+  "https://thenkiri.com/baazaar-2018-download-indian-movie/": {
+   "status": "pending",
+   "signature": "69025|https://thenkiri.com/baazaar-2018-download-indian-movie/|2022-10-25T09:52:56|2023-09-02T16:26:04|{'rendered': 'Baazaar (2018) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788829996.7110116
+  },
+  "https://thenkiri.com/stellar-a-magical-ride-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "63850|https://thenkiri.com/stellar-a-magical-ride-2022-download-korean-movie/|2022-08-29T13:37:02|2023-09-02T15:21:40|{'rendered': 'Stellar A Magical Ride (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830030.7594786
+  },
+  "https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "47021|https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/|2022-07-25T07:30:34|2023-09-02T14:53:03|{'rendered': 'Paws of Fury: The Legend of Hank (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830032.0297778
+  },
+  "https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44881|https://thenkiri.com/the-man-from-toronto-2022-download-hollywood-movie/|2022-06-24T09:51:19|2023-09-02T14:22:14|{'rendered': 'The Man from Toronto (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830033.1309924
+  },
+  "https://thenkiri.com/secretly-greatly-2013-download-korean-movie/": {
+   "status": "pending",
+   "signature": "42752|https://thenkiri.com/secretly-greatly-2013-download-korean-movie/|2022-05-24T05:20:49|2023-09-02T13:59:19|{'rendered': 'Secretly, Greatly (2013) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830034.1217659
   }
  },
  "series_links": {

@@ -212,6 +212,18 @@
    "signature": "158775|https://thenkiri.com/brazil-70-the-third-star-complete-tv-series/|2026-06-06T10:16:20|2026-06-06T10:32:12|{'rendered': 'Brazil ’70: The Third Star (Complete)  | TV Series'}",
    "modified": "2026-06-06T10:32:12",
    "completed_at": 1788826575
+  },
+  "https://thenkiri.com/mating-season-complete-tv-series/": {
+   "status": "pending",
+   "signature": "157564|https://thenkiri.com/mating-season-complete-tv-series/|2026-05-22T14:01:43|2026-05-22T14:01:43|{'rendered': 'Mating Season (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828307.8802223
+  },
+  "https://thenkiri.com/marriage-toxin-s01-complete-anime-series/": {
+   "status": "pending",
+   "signature": "156278|https://thenkiri.com/marriage-toxin-s01-complete-anime-series/|2026-05-06T12:08:17|2026-06-30T16:07:46|{'rendered': 'Marriagetoxin S01 (Episode 13 Added) | Anime Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828691.5336823
   }
  },
  "series_links": {
