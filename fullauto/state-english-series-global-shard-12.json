@@ -218,16 +218,24 @@
    "blocked_at": 1788838103
   },
   "https://thenkiri.com/rick-and-morty-s09-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157663|https://thenkiri.com/rick-and-morty-s09-complete-tv-series/|2026-05-25T07:56:12|2026-07-27T07:55:25|{'rendered': 'Rick and Morty S09 (Episode 10 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788841649.7838142
+   "last_attempt": 1788841649.7838142,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788852236
   },
   "https://thenkiri.com/citadel-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "156285|https://thenkiri.com/citadel-s02-complete-tv-series/|2026-05-06T12:35:09|2026-05-06T12:37:35|{'rendered': 'Citadel S02 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788841861.231944
+   "attempts": 3,
+   "last_attempt": 1788852503.0638294
+  },
+  "https://thenkiri.com/hulk-hogan-real-american-complete-tv-series/": {
+   "status": "done",
+   "signature": "155164|https://thenkiri.com/hulk-hogan-real-american-complete-tv-series/|2026-04-23T10:20:45|2026-04-23T10:30:32|{'rendered': 'Hulk Hogan: Real American (Episode 1 – 4 Added) | TV Series'}",
+   "modified": "2026-04-23T10:30:32",
+   "completed_at": 1788856626
   }
  },
  "series_links": {
@@ -444,6 +452,16 @@
   "https://downloadwella.com/9d084hod3vj4/The.Underclared.War.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8gTy8Oa5ND2ZnOKSyGJwC1crFwbo1zta",
   "https://downloadwella.com/pdtzn6g3uq4o/The.Underclared.War.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yo0cj_IPwRPWwAyprAC7wvbRSoVnVYEQ",
   "https://downloadwella.com/uqht844p3pig/The.Underclared.War.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jtefRUw3QsOlLFt1mmAzsKsFKAQYM8tG",
-  "https://downloadwella.com/lvwnf6pidyi6/The.Agency.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UDsV2Drb4hfjENe03ppLkNUavyToW6ub"
+  "https://downloadwella.com/lvwnf6pidyi6/The.Agency.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UDsV2Drb4hfjENe03ppLkNUavyToW6ub",
+  "https://downloadwella.com/bgp73q4pfhz3/Citadel.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q_ET7JOIJDGfBwwg6PNdSUyaGbTOCXRz",
+  "https://downloadwella.com/rlbbfswcv9uj/Citadel.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vgIXJM4GVLK_Wwmfgw8zYSzp3qPNexy4",
+  "https://downloadwella.com/jpr2cdh43tlm/Citadel.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xGdoyvilKVTt5MUa_gkZBAqV17rWScDi",
+  "https://downloadwella.com/111z9adjd8u6/Citadel.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YQE0Ig2DWvM3pdwqAtltieOBZFUxVK9m",
+  "https://downloadwella.com/hqjasjjdx8wx/Citadel.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4sN9iNDyq3H35k2vMrkz35P6gzNwk-Rw",
+  "https://downloadwella.com/lby28woeqdmw/Citadel.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i3PI2_72yCahR0xmukxarxIjO1gtQZut",
+  "https://downloadwella.com/g9t8bxn3yfru/Hulk.Hogan.Real.American.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dqetLEquTz0j30xHquX_7Q3kATzu2bG7",
+  "https://downloadwella.com/jcrv8r11lro4/Hulk.Hogan.Real.American.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o5x_oXJoL4I_Vf7-iXB6Tb6f_xGk8o1m",
+  "https://downloadwella.com/6wo0su26a5ui/Hulk.Hogan.Real.American.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_DZP0iZFCJbg9NPSp7CqlLvbsfK4RE0r",
+  "https://downloadwella.com/tbdvc59fno9k/Hulk.Hogan.Real.American.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LCY6t2uo9yBF9swbok43bDAM50Z5MJbV"
  }
 }

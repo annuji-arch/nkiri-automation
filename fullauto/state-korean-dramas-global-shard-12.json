@@ -191,16 +191,24 @@
    "blocked_at": 1788838118
   },
   "https://thenkiri.com/moon-in-the-day-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "102179|https://thenkiri.com/moon-in-the-day-s01-complete-korean-drama/|2023-11-01T16:34:02|2024-03-06T16:08:52|{'rendered': 'Moon in the Day S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788841838.4492393
+   "last_attempt": 1788841838.4492393,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788852251
   },
   "https://thenkiri.com/jun-and-jun-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "96069|https://thenkiri.com/jun-and-jun-s01-complete-korean-drama/|2023-07-28T08:25:05|2024-02-23T15:15:07|{'rendered': 'Jun and Jun S01 (Episode 8 Added) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788842080.971105
+   "modified": "2024-02-23T15:15:07",
+   "completed_at": 1788856351
+  },
+  "https://thenkiri.com/our-dating-sim-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "84011|https://thenkiri.com/our-dating-sim-complete-korean-drama/|2023-03-09T14:39:45|2023-09-02T17:23:30|{'rendered': 'Our Dating Sim S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788856356.3998766
   }
  },
  "series_links": {
@@ -502,6 +510,14 @@
   "https://downloadwella.com/nl448b38lqnl/Good.Partner.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/locZieh5jNP5s6H6Swgj-FUyZfR4dLF-",
   "https://downloadwella.com/p25kin6fq6r5/Good.Partner.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z2tRnFtHCpgqfKB_bqRcZ2kmL1w-OQ5o",
   "https://downloadwella.com/ipzq11twt1zh/Good.Partner.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Au9AZcmpqwpx5npRkP_zW3s-8erINsk8",
-  "https://downloadwella.com/puqopr8ao2z3/Good.Partner.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vpg586R0qcR9WVfgDjt9SZAT4H-b_ku1"
+  "https://downloadwella.com/puqopr8ao2z3/Good.Partner.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vpg586R0qcR9WVfgDjt9SZAT4H-b_ku1",
+  "https://downloadwella.com/hqjyezazj6bl/Jun.and.Jun.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eIzdQnTa0Qde2YGtYinWpCT1F3gTu0C5",
+  "https://downloadwella.com/dgjp24r7onvt/Jun.and.Jun.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wwclr8V7Tw8TGu-TQbhkBnKYEVeAqWVN",
+  "https://downloadwella.com/6hknb2hp28is/Jun.and.Jun.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-mSU7Pf7jb0EkUaJiWwVXdSXzfSOK4bu",
+  "https://downloadwella.com/z9ai6qmf7ejn/Jun.and.Jun.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zbitWKRPeb6mDDnHamg_SIF_sQZDdvcJ",
+  "https://downloadwella.com/gqabx0phpgng/Jun.and.Jun.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h3dYjmKazdSR-1g5I-miiVK6uQAEJApt",
+  "https://downloadwella.com/qe1i27g6jz24/Jun.and.Jun.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9NrQjmnRbcAr-1QTa-1Nge9m3OPBanUT",
+  "https://downloadwella.com/3ps8r10vohqt/Jun.and.Jun.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X5ygkFk_u23aTiFNcJLrm6i1kwQsUhTn",
+  "https://downloadwella.com/1qpqknjdln6v/Jun.and.Jun.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BnF8o-vLMF2VeCW2PQ-jJdGZFfq1sdxN"
  }
 }
