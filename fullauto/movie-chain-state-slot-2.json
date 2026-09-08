@@ -396,22 +396,28 @@
    "blocked_at": 1788882391
   },
   "https://thenkiri.com/lightyear-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46377|https://thenkiri.com/lightyear-2022-download-hollywood-movie/|07/14/2022 13:32:18|09/02/2023 14:40:26|{'rendered': 'Lightyear (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882751.0648518
+   "last_attempt": 1788882751.0648518,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882850
   },
   "https://thenkiri.com/brian-and-charles-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45889|https://thenkiri.com/brian-and-charles-2022-download-hollywood-movie/|07/08/2022 17:15:48|09/02/2023 14:35:53|{'rendered': 'Brian and Charles (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882752.4034026
+   "last_attempt": 1788882752.4034026,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882850
   },
   "https://thenkiri.com/the-phantom-of-the-open-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45836|https://thenkiri.com/the-phantom-of-the-open-2022-download-hollywood-movie/|07/08/2022 11:08:50|09/02/2023 14:36:22|{'rendered': 'The Phantom of the Open (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882753.5668638
+   "last_attempt": 1788882753.5668638,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882850
   },
   "https://thenkiri.com/the-princess-2022-download-hollywood-movie/": {
    "status": "pending",
