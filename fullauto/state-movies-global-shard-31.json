@@ -1057,8 +1057,8 @@
   "https://thenkiri.com/deep-cover-2025-download-hollywood-movie/": {
    "status": "pending",
    "signature": "138031|https://thenkiri.com/deep-cover-2025-download-hollywood-movie/|2025-06-13T13:40:48|2025-06-13T13:40:48|{'rendered': 'Deep Cover (2025) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812315.6136413
+   "attempts": 2,
+   "last_attempt": 1788827949.375134
   },
   "https://thenkiri.com/all-we-imagine-as-light-2024-download-indian-movie/": {
    "status": "done",
@@ -1069,8 +1069,8 @@
   "https://thenkiri.com/maria-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "128646|https://thenkiri.com/maria-2024-download-hollywood-movie/|2024-12-13T06:34:10|2024-12-13T06:34:10|{'rendered': 'Maria (2024) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812394.1753602
+   "attempts": 2,
+   "last_attempt": 1788828008.9173422
   },
   "https://thenkiri.com/drive-2024-download-korean-movie/": {
    "status": "done",
@@ -1099,8 +1099,38 @@
   "https://thenkiri.com/detective-k-secret-of-virtuous-widow-2011-download-korean-movie/": {
    "status": "pending",
    "signature": "101019|https://thenkiri.com/detective-k-secret-of-virtuous-widow-2011-download-korean-movie/|2023-10-09T09:36:52|2024-02-23T12:57:32|{'rendered': 'Detective K: Secret of Virtuous Widow (2011) | Download Korean Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788828043.3610654
+  },
+  "https://thenkiri.com/pardoned-by-grace-2023-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "95927|https://thenkiri.com/pardoned-by-grace-2023-download-hollywood-movie/|2023-07-26T07:45:00|2023-09-02T17:24:59|{'rendered': 'Pardoned By Grace (2023) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788812933.8772814
+   "last_attempt": 1788828044.430394
+  },
+  "https://thenkiri.com/crater-2023-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "89400|https://thenkiri.com/crater-2023-download-hollywood-movie/|2023-05-12T15:52:01|2023-09-02T17:57:06|{'rendered': 'Crater (2023) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828045.3707113
+  },
+  "https://thenkiri.com/call-me-chihiro-2023-download-japanese-movie/": {
+   "status": "pending",
+   "signature": "83342|https://thenkiri.com/call-me-chihiro-2023-download-japanese-movie/|2023-02-27T11:12:10|2023-09-02T17:17:22|{'rendered': 'Call Me Chihiro (2023) | Download JAPANESE Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828075.7141793
+  },
+  "https://thenkiri.com/lifemark-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "76765|https://thenkiri.com/lifemark-2022-download-hollywood-movie/|2022-12-16T11:28:37|2023-12-25T06:46:27|{'rendered': 'Lifemark (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828105.8714523
+  },
+  "https://thenkiri.com/okay-madam-2020-download-korean-movie/": {
+   "status": "pending",
+   "signature": "71022|https://thenkiri.com/okay-madam-2020-download-korean-movie/|2022-11-10T09:05:53|2023-09-02T16:48:11|{'rendered': 'Okay Madam (2020) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828136.2534685
   }
  },
  "series_links": {

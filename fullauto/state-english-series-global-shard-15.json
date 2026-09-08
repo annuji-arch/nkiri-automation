@@ -143,8 +143,8 @@
   "https://thenkiri.com/one-hundred-years-of-solitude-s02-episode-1-7-added-foreign-tv-series/": {
    "status": "pending",
    "signature": "163772|https://thenkiri.com/one-hundred-years-of-solitude-s02-episode-1-7-added-foreign-tv-series/|2026-08-06T18:51:48|2026-08-06T18:54:18|{'rendered': 'One Hundred Years of Solitude S02 (Episode 1 – 7 Added) | Foreign TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788812415.752146
+   "attempts": 3,
+   "last_attempt": 1788828000.2100198
   },
   "https://thenkiri.com/one-hundred-years-of-solitude-s01-complete-foreign-tv-series/": {
    "status": "done",
@@ -200,6 +200,12 @@
    "signature": "161937|https://thenkiri.com/the-hawk-s01-complete-tv-series/|2026-07-16T16:00:28|2026-07-16T16:00:28|{'rendered': 'The Hawk S01 (Complete) | TV Series'}",
    "modified": "2026-07-16T16:00:28",
    "completed_at": 1788813168
+  },
+  "https://thenkiri.com/classroom-of-the-elite-s01-complete-anime-series-2/": {
+   "status": "pending",
+   "signature": "159754|https://thenkiri.com/classroom-of-the-elite-s01-complete-anime-series-2/|2026-06-19T16:11:12|2026-06-19T16:12:13|{'rendered': 'Classroom of the Elite S01 (Complete) | Anime Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828384.5751371
   }
  },
  "series_links": {

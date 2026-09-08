@@ -1081,26 +1081,56 @@
   "https://thenkiri.com/hard-home-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "117565|https://thenkiri.com/hard-home-2024-download-hollywood-movie/|2024-06-28T08:33:23|2024-06-28T08:33:23|{'rendered': 'Hard Home (2024) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812903.6642177
+   "attempts": 2,
+   "last_attempt": 1788827935.5558653
   },
   "https://thenkiri.com/canola-2016-download-korean-movie/": {
    "status": "pending",
    "signature": "112247|https://thenkiri.com/canola-2016-download-korean-movie/|2024-03-13T06:44:33|2024-03-13T06:44:33|{'rendered': 'Canola (2016) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812912.9493957
+   "attempts": 2,
+   "last_attempt": 1788827991.823319
   },
   "https://thenkiri.com/havana-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "106075|https://thenkiri.com/havana-2023-download-korean-movie/|2023-12-27T08:41:06|2023-12-27T08:41:06|{'rendered': 'Havana (2023) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812922.5697267
+   "attempts": 2,
+   "last_attempt": 1788828044.9777057
   },
   "https://thenkiri.com/detective-k-secret-of-the-living-dead-2018-download-korean-movie/": {
    "status": "done",
    "signature": "101030|https://thenkiri.com/detective-k-secret-of-the-living-dead-2018-download-korean-movie/|2023-10-09T15:59:09|2023-10-09T15:59:09|{'rendered': 'Detective K: Secret of the Living Dead (2018) | Download Korean Movie'}",
    "modified": "2023-10-09T15:59:09",
    "completed_at": 1788812994
+  },
+  "https://thenkiri.com/the-ghost-station-2023-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "95937|https://thenkiri.com/the-ghost-station-2023-download-hollywood-movie/|2023-07-26T09:38:00|2023-09-02T17:24:43|{'rendered': 'The Ghost Station (2023) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828045.855963
+  },
+  "https://thenkiri.com/gentleman-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "89510|https://thenkiri.com/gentleman-2022-download-korean-movie/|2023-05-15T09:34:52|2023-09-02T17:56:59|{'rendered': 'Gentleman (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828083.5173323
+  },
+  "https://thenkiri.com/magic-mikes-last-dance-2023-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "83420|https://thenkiri.com/magic-mikes-last-dance-2023-download-hollywood-movie/|2023-02-28T10:51:12|2023-09-02T17:17:10|{'rendered': 'Magic Mike’s Last Dance (2023) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788829950.788494
+  },
+  "https://thenkiri.com/my-lovely-angel-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "69235|https://thenkiri.com/my-lovely-angel-2022-download-korean-movie/|2022-12-19T10:06:50|2025-09-01T15:36:23|{'rendered': 'My Lovely Angel (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830032.1950247
+  },
+  "https://thenkiri.com/dive-2022-download-spanish-movie/": {
+   "status": "pending",
+   "signature": "71245|https://thenkiri.com/dive-2022-download-spanish-movie/|2022-11-12T05:48:32|2023-09-02T16:52:20|{'rendered': 'Dive (2022) | Download Spanish Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830033.273528
   }
  },
  "series_links": {

@@ -177,8 +177,14 @@
   "https://thenkiri.com/the-whirlwind-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "117589|https://thenkiri.com/the-whirlwind-s01-complete-korean-drama/|2024-06-28T15:36:13|2024-07-16T20:31:30|{'rendered': '[FIXED] The Whirlwind S01 (Complete) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788828039.2959828
+  },
+  "https://thenkiri.com/in-cold-blood-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "107399|https://thenkiri.com/in-cold-blood-s01-complete-korean-drama/|2024-01-24T06:13:42|2024-06-23T10:24:51|{'rendered': 'In Cold Blood S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788816713.2426603
+   "last_attempt": 1788831213.6666849
   }
  },
  "series_links": {
