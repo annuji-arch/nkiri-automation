@@ -202,10 +202,16 @@
    "completed_at": 1788812866
   },
   "https://thenkiri.com/house-of-the-dragon-s03-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "159926|https://thenkiri.com/house-of-the-dragon-s03-complete-tv-series/|2026-06-22T10:25:17|2026-08-10T08:34:08|{'rendered': 'House of the Dragon S03 (Episode 8 Added) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788814524.8163798
+   "modified": "2026-08-10T08:34:08",
+   "completed_at": 1788822547
+  },
+  "https://thenkiri.com/brazil-70-the-third-star-complete-tv-series/": {
+   "status": "done",
+   "signature": "158775|https://thenkiri.com/brazil-70-the-third-star-complete-tv-series/|2026-06-06T10:16:20|2026-06-06T10:32:12|{'rendered': 'Brazil ’70: The Third Star (Complete)  | TV Series'}",
+   "modified": "2026-06-06T10:32:12",
+   "completed_at": 1788826575
   }
  },
  "series_links": {
@@ -428,6 +434,12 @@
   "https://downloadwella.com/9p6rwyelxjyp/House.of.Dragon.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bSLDDRVle2Gna7w_Us9LH-HWbT9qMjqX",
   "https://downloadwella.com/1fiutu99g1w9/House.of.the.Dragon.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/af7S8l0_uRDvR3zrv3fRdl5P-DC3IAo8",
   "https://downloadwella.com/6uz5pcirzkci/House.of.The.Dragon.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0sKHm6BDVrGLwv_A2Z4x1dsEJ2BucjnD",
-  "https://downloadwella.com/78swkm8j7oe8/House.Of.The.Dragon.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yt9sGT9L0ENwPLiES-9_tlEG6FK-Gji1"
+  "https://downloadwella.com/78swkm8j7oe8/House.Of.The.Dragon.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yt9sGT9L0ENwPLiES-9_tlEG6FK-Gji1",
+  "https://downloadwella.com/81fp4rvo7v73/House.of.Dragon.S03E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0XZZ_yQ8H1NkuvuFJ7sK6QNsR7Iw9AUd",
+  "https://downloadwella.com/lxvrr4tqiiba/Brazil.70.The.Third.Star.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tv-QaCCcR-TOJH1CnV3DFU24y1TzbfTM",
+  "https://downloadwella.com/glnpnr4k1zg4/Brazil.70.The.Third.Star.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3nxCyQZ_W_FmgZvob32XBacT9u3exUGc",
+  "https://downloadwella.com/81at57g7pfju/Brazil.70.The.Third.Star.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QXZ91QRpJdRZMLQ7eb7PsG8TeuxSvTkR",
+  "https://downloadwella.com/oz048lofrpk2/Brazil.70.The.Third.Star.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KwsRrwbDMfGsiX-XYxnhP294GKTNby9U",
+  "https://downloadwella.com/i8mhumeuh2gv/Brazil.70.The.Third.Star.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p1-2F5gndmRwdHdPNArsiUYeAvFKv3U7"
  }
 }

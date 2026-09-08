@@ -169,16 +169,16 @@
    "completed_at": 1788792618
   },
   "https://thenkiri.com/love-your-enemy-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "125702|https://thenkiri.com/love-your-enemy-s01-complete-korean-drama/|2024-11-23T17:48:04|2024-12-29T16:26:31|{'rendered': 'Love Your Enemy S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788813111.9066284
+   "modified": "2024-12-29T16:26:31",
+   "completed_at": 1788822623
   },
   "https://thenkiri.com/who-are-you-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "118131|https://thenkiri.com/who-are-you-s01-complete-korean-drama/|2024-07-10T13:25:06|2024-07-10T13:25:06|{'rendered': 'Who Are You S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788816899.925672
+   "modified": "2024-07-10T13:25:06",
+   "completed_at": 1788822657
   }
  },
  "series_links": {
@@ -483,6 +483,10 @@
   "https://downloadwella.com/3ll3h6oyurh8/Who.Are.You.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n2RYNHpcglga3GVBXl7XHm7kQNUL9mDG",
   "https://downloadwella.com/xfyp9s2lbhr5/Who.Are.You.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vAZonSJc2Fj49Ftgt3PfOQD5qKkro7U_",
   "https://downloadwella.com/gq1t4b8e18fc/Who.Are.You.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pR8IZELfVU1ekmO2tJ848OhhsrI4yTa3",
-  "https://downloadwella.com/2acb0adk4cp6/Who.Are.You.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m-yipwurC8lEtIUp4eixrQuJKQMtfFud"
+  "https://downloadwella.com/2acb0adk4cp6/Who.Are.You.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m-yipwurC8lEtIUp4eixrQuJKQMtfFud",
+  "https://downloadwella.com/dlmbdzglhg9z/Love.Your.Enemy.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u6vSOzGE6yaLrzOz9OOyAcT35p5RLowH",
+  "https://downloadwella.com/ivlmh1nff603/Love.Your.Enemy.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G_7heZEcle05N12Wwl4bo_IheiJ7iWcz",
+  "https://downloadwella.com/wdibtxu9ft5e/Love.Your.Enemy.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P7KaT76ruRccOGQU3mqSCD5gsuBM3SAr",
+  "https://downloadwella.com/8o6dunl4g2gk/Who.Are.You.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1hrPcds31H7t70BXGpjfnz_3TAX_LwgI"
  }
 }
