@@ -630,8 +630,8 @@
   "https://thenkiri.com/panama-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38187|https://thenkiri.com/panama-2022-download-hollywood-movie/|03/18/2022 12:25:26|09/02/2023 13:14:46|{'rendered': 'Panama (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788883681.575471
+   "attempts": 2,
+   "last_attempt": 1788884634.829419
   },
   "https://thenkiri.com/homestay-2022-download-japanese-movie/": {
    "status": "pending",
@@ -668,6 +668,12 @@
    "signature": "37051|https://thenkiri.com/special-delivery-2022-download-korean-movie/|02/24/2022 18:14:11|09/02/2023 13:07:35|{'rendered': 'Special Delivery (2022) | Download Korean Movie'}",
    "attempts": 1,
    "last_attempt": 1788884159.74032
+  },
+  "https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "36853|https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/|02/19/2022 20:22:34|09/02/2023 13:41:53|{'rendered': 'Licorice Pizza (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788884635.700004
   }
  },
  "series_links": {
