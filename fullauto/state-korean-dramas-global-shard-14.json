@@ -181,16 +181,32 @@
    "completed_at": 1788822608
   },
   "https://thenkiri.com/flex-x-cop-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "107519|https://thenkiri.com/flex-x-cop-s01-complete-korean-drama/|2024-01-26T17:29:19|2024-03-23T17:33:29|{'rendered': 'Flex X Cop S01 (Episode 16 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788835333.7747152
+   "last_attempt": 1788835333.7747152,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838129
   },
   "https://thenkiri.com/castaway-diva-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "102020|https://thenkiri.com/castaway-diva-s01-complete-korean-drama/|2023-10-28T16:19:46|2024-02-23T09:00:44|{'rendered': 'Castaway Diva S01 (Episode 12 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788835832.1892593
+   "last_attempt": 1788835832.1892593,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838129
+  },
+  "https://thenkiri.com/opening-2023-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "95603|https://thenkiri.com/opening-2023-complete-korean-drama/|2023-07-19T18:16:58|2023-09-02T17:18:58|{'rendered': 'O’PENing (2023) (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788838136.132078
+  },
+  "https://thenkiri.com/terius-behind-me-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "81749|https://thenkiri.com/terius-behind-me-complete-korean-drama/|2023-02-09T12:16:29|2023-09-02T17:05:51|{'rendered': 'Terius Behind Me (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788838833.63176
   }
  },
  "series_links": {

@@ -216,17 +216,20 @@
    "blocked_at": 1788834825
   },
   "https://thenkiri.com/the-chi-s08-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157505|https://thenkiri.com/the-chi-s08-complete-tv-series/|2026-05-22T08:39:40|2026-07-24T08:40:50|{'rendered': 'The Chi S08 (Episode 10 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788835136.400541
+   "last_attempt": 1788835136.400541,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838114
   },
   "https://thenkiri.com/sentenced-to-be-a-hero-s01-complete-anime-series/": {
    "status": "pending",
    "signature": "156184|https://thenkiri.com/sentenced-to-be-a-hero-s01-complete-anime-series/|2026-05-05T18:18:45|2026-05-05T18:18:45|{'rendered': 'Sentenced to Be a Hero S01 (Complete) | Anime Series'}",
-   "attempts": 1,
-   "last_attempt": 1788835502.8506186
-  }
+   "attempts": 2,
+   "last_attempt": 1788838483.9371672
+  },
+  "https://thenkiri.com/wwe-wrestlemania-42-2026-wrestling-special/": "skipped (wwe)"
  },
  "series_links": {
   "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",

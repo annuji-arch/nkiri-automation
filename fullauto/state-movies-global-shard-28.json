@@ -1121,52 +1121,92 @@
    "completed_at": 1788824114
   },
   "https://thenkiri.com/missing-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "83836|https://thenkiri.com/missing-2023-download-hollywood-movie/|2023-03-07T12:02:19|2024-05-02T07:23:40|{'rendered': 'Missing (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834880.141788
+   "last_attempt": 1788834880.141788,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838085
   },
   "https://thenkiri.com/shark-the-beginning-2021-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "77277|https://thenkiri.com/shark-the-beginning-2021-download-korean-movie/|2022-12-19T15:37:47|2024-02-25T00:43:19|{'rendered': 'Shark: The Beginning  (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834913.4447658
+   "last_attempt": 1788834913.4447658,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838085
   },
   "https://thenkiri.com/wonder-park-2019-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "71392|https://thenkiri.com/wonder-park-2019-download-hollywood-movie/|2022-11-13T15:05:47|2023-09-02T16:50:38|{'rendered': 'Wonder Park (2019) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834945.7428908
+   "last_attempt": 1788834945.7428908,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838085
   },
   "https://thenkiri.com/my-perfect-roommate-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "68912|https://thenkiri.com/my-perfect-roommate-2022-download-korean-movie/|2022-10-25T07:41:04|2023-09-02T16:26:12|{'rendered': 'My Perfect Roommate (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834978.4476805
+   "last_attempt": 1788834978.4476805,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838085
   },
   "https://thenkiri.com/thats-amor-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "63592|https://thenkiri.com/thats-amor-2022-download-hollywood-movie/|2022-08-26T16:10:16|2023-09-02T15:22:20|{'rendered': 'That’s Amor (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788835011.2368765
+   "last_attempt": 1788835011.2368765,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838085
   },
   "https://thenkiri.com/the-roundup-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "47001|https://thenkiri.com/the-roundup-2022-download-korean-movie/|2022-07-24T16:20:08|2023-09-02T14:53:10|{'rendered': 'The Roundup (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788835012.4097812
+   "attempts": 3,
+   "last_attempt": 1788838087.4017262
   },
   "https://thenkiri.com/true-things-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44655|https://thenkiri.com/true-things-2022-download-hollywood-movie/|2022-06-21T16:58:38|2023-09-02T14:10:55|{'rendered': 'True Things (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788835013.5984213
+   "attempts": 3,
+   "last_attempt": 1788838088.795114
   },
   "https://thenkiri.com/my-annoying-brother-2016-download-korean-movie/": {
    "status": "pending",
    "signature": "42745|https://thenkiri.com/my-annoying-brother-2016-download-korean-movie/|2022-05-24T05:13:09|2023-09-02T13:59:22|{'rendered': 'My Annoying Brother (2016) | Download Korean Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788838090.1034389
+  },
+  "https://thenkiri.com/till-we-meet-again-2021-download-taiwanese-movie/": {
+   "status": "pending",
+   "signature": "40008|https://thenkiri.com/till-we-meet-again-2021-download-taiwanese-movie/|2022-04-20T04:46:59|2023-09-02T13:43:19|{'rendered': 'Till We Meet Again (2021) | Download Taiwanese Movie'}",
    "attempts": 1,
-   "last_attempt": 1788835014.7818966
+   "last_attempt": 1788838091.5664358
+  },
+  "https://thenkiri.com/olivia-rodrigo-driving-home-2-u-2022-download-music-special/": {
+   "status": "pending",
+   "signature": "38761|https://thenkiri.com/olivia-rodrigo-driving-home-2-u-2022-download-music-special/|2022-03-29T06:56:00|2023-09-02T13:24:30|{'rendered': 'OLIVIA RODRIGO: driving home 2 u (2022) | Download Music Special'}",
+   "attempts": 1,
+   "last_attempt": 1788838092.7856457
+  },
+  "https://thenkiri.com/the-desperate-hour-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37111|https://thenkiri.com/the-desperate-hour-2022-download-hollywood-movie/|2022-02-25T14:46:57|2023-09-02T13:06:55|{'rendered': 'The Desperate Hour (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838094.6516302
+  },
+  "https://thenkiri.com/the-policemans-lineage-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "36004|https://thenkiri.com/the-policemans-lineage-2022-download-korean-movie/|2022-02-02T08:42:21|2023-09-02T13:38:30|{'rendered': 'The Policeman’s Lineage (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838096.0632029
+  },
+  "https://thenkiri.com/blush-2021-download-hollywood-short-movie/": {
+   "status": "pending",
+   "signature": "34718|https://thenkiri.com/blush-2021-download-hollywood-short-movie/|2022-01-08T07:43:04|2023-09-02T13:23:51|{'rendered': 'Blush (2021) | Download Hollywood Short Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838098.0675714
   }
  },
  "series_links": {

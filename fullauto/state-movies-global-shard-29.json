@@ -1147,52 +1147,108 @@
    "completed_at": 1788824801
   },
   "https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46964|https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/|2022-07-23T13:55:17|2024-02-24T19:06:35|{'rendered': 'JugJugg Jeeyo (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834844.9218795
+   "last_attempt": 1788834844.9218795,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838099
   },
   "https://thenkiri.com/crimes-of-the-future-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44640|https://thenkiri.com/crimes-of-the-future-2022-download-hollywood-movie/|2022-06-21T08:34:43|2023-09-02T14:11:00|{'rendered': 'Crimes of the Future (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834855.7185018
+   "last_attempt": 1788834855.7185018,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838099
   },
   "https://thenkiri.com/k-g-f-chapter-2-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42575|https://thenkiri.com/k-g-f-chapter-2-2022-download-indian-movie/|2022-05-21T12:47:03|2023-09-02T13:59:50|{'rendered': 'K.G.F Chapter 2 (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834857.2348285
+   "last_attempt": 1788834857.2348285,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838099
   },
   "https://thenkiri.com/sonic-the-hedgehog-2020-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "40001|https://thenkiri.com/sonic-the-hedgehog-2020-download-hollywood-movie/|2022-04-20T04:13:25|2023-09-02T13:43:25|{'rendered': 'Sonic the Hedgehog (2020) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834858.6543074
+   "last_attempt": 1788834858.6543074,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838099
   },
   "https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38653|https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/|2022-03-26T21:42:07|2023-09-02T13:24:34|{'rendered': 'Death on the Nile (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834859.873179
+   "last_attempt": 1788834859.873179,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838099
   },
   "https://thenkiri.com/desperate-riders-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37105|https://thenkiri.com/desperate-riders-2022-download-hollywood-movie/|2022-02-25T14:42:26|2023-09-02T13:07:00|{'rendered': 'Desperate Riders (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834861.0691001
+   "last_attempt": 1788834861.0691001,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838099
   },
   "https://thenkiri.com/kim-ji-young-born-1982-2019-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "35998|https://thenkiri.com/kim-ji-young-born-1982-2019-download-korean-movie/|2022-02-02T08:34:21|2023-09-02T13:38:34|{'rendered': 'Kim Ji-young, Born 1982 (2019) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834862.2056954
+   "last_attempt": 1788834862.2056954,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838099
   },
   "https://thenkiri.com/rucker-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34675|https://thenkiri.com/rucker-2022-download-hollywood-movie/|2022-01-07T14:43:04|2023-09-02T13:23:57|{'rendered': 'Rucker (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788834863.2859488
+   "attempts": 3,
+   "last_attempt": 1788838101.1640644
+  },
+  "https://thenkiri.com/the-novice-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "33898|https://thenkiri.com/the-novice-2021-download-hollywood-movie/|2021-12-22T08:07:52|2023-09-02T13:16:09|{'rendered': 'The Novice (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838102.467634
+  },
+  "https://thenkiri.com/gods-not-dead-we-the-people-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32524|https://thenkiri.com/gods-not-dead-we-the-people-2021-download-hollywood-movie/|2021-11-24T11:04:01|2023-09-02T13:06:07|{'rendered': 'God’s Not Dead: We the People (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838103.6753697
+  },
+  "https://thenkiri.com/the-electrical-life-of-louis-wain-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31483|https://thenkiri.com/the-electrical-life-of-louis-wain-2021-download-hollywood-movie/|2021-11-05T09:07:23|2023-09-02T10:52:39|{'rendered': 'The Electrical Life of Louis Wain (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838105.5113473
+  },
+  "https://thenkiri.com/the-card-counter-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "29943|https://thenkiri.com/the-card-counter-2021-download-hollywood-movie/|2021-09-30T18:58:46|2023-09-02T10:03:02|{'rendered': 'The Card Counter (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838107.2868304
+  },
+  "https://thenkiri.com/biriyaani-2019-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "17570|https://thenkiri.com/biriyaani-2019-download-bollywood-movie/|2021-06-15T13:07:34|2023-09-02T09:23:58|{'rendered': 'Biriyaani (2019) | Download Bollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838128.91559
+  },
+  "https://thenkiri.com/son-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "15600|https://thenkiri.com/son-2021-download-hollywood-movie/|2021-04-27T10:06:23|2023-09-02T09:04:53|{'rendered': 'Son (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838161.3758004
+  },
+  "https://thenkiri.com/flora-and-ulysses-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "13339|https://thenkiri.com/flora-and-ulysses-2021-download-hollywood-movie/|2021-02-22T08:24:06|2023-09-02T08:38:56|{'rendered': 'Flora and Ulysses (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838194.5346487
   }
  },
  "series_links": {
