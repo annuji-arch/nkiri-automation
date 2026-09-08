@@ -1173,16 +1173,20 @@
    "blocked_at": 1788852221
   },
   "https://thenkiri.com/press-play-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44945|https://thenkiri.com/press-play-2022-download-hollywood-movie/|2022-06-24T16:18:00|2023-09-02T14:21:53|{'rendered': 'Press Play (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788852221.8749468
+   "last_attempt": 1788852221.8749468,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867911
   },
   "https://thenkiri.com/teen-titans-go-and-dc-super-hero-girls-mayhem-in-the-multiverse-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42813|https://thenkiri.com/teen-titans-go-and-dc-super-hero-girls-mayhem-in-the-multiverse-2022-download-hollywood-movie/|2022-05-24T19:24:43|2023-09-02T13:59:11|{'rendered': 'Teen Titans Go and DC Super Hero Girls: Mayhem in the Multiverse (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788852222.6790817
+   "last_attempt": 1788852222.6790817,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867911
   },
   "https://thenkiri.com/be-with-you-2018-download-korean-movie/": {
    "status": "done",
@@ -1191,34 +1195,68 @@
    "completed_at": 1788852267
   },
   "https://thenkiri.com/the-contractor-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38915|https://thenkiri.com/the-contractor-2022-download-hollywood-movie/|2022-04-01T07:10:28|2023-09-02T13:36:43|{'rendered': 'The Contractor (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788852268.285325
+   "last_attempt": 1788852268.285325,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867911
   },
   "https://thenkiri.com/a-madea-homecoming-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37276|https://thenkiri.com/a-madea-homecoming-2022-download-hollywood-movie/|2022-02-28T15:50:04|2023-09-02T13:11:02|{'rendered': 'A Madea Homecoming (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788852269.1474888
+   "last_attempt": 1788852269.1474888,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867911
   },
   "https://thenkiri.com/american-underdog-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36117|https://thenkiri.com/american-underdog-2021-download-hollywood-movie/|2022-02-04T10:22:55|2023-09-02T13:38:02|{'rendered': 'American Underdog (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788852270.0365858
+   "attempts": 2,
+   "last_attempt": 1788867912.920875
   },
   "https://thenkiri.com/pushpa-the-rise-2021-download-indian-movie/": {
    "status": "pending",
    "signature": "34757|https://thenkiri.com/pushpa-the-rise-2021-download-indian-movie/|2022-01-08T13:10:02|2023-09-02T13:23:35|{'rendered': 'Pushpa: The Rise (2021) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788852270.839426
+   "attempts": 2,
+   "last_attempt": 1788867913.998903
   },
   "https://thenkiri.com/the-matrix-resurrections-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33934|https://thenkiri.com/the-matrix-resurrections-2021-download-hollywood-movie/|2021-12-22T11:59:21|2023-09-02T13:15:56|{'rendered': 'The Matrix Resurrections (2021) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788867915.1631658
+  },
+  "https://thenkiri.com/a-boy-called-christmas-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32588|https://thenkiri.com/a-boy-called-christmas-2021-download-hollywood-movie/|2021-11-25T08:34:16|2023-09-02T13:05:42|{'rendered': 'A Boy Called Christmas (2021) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788852271.7184734
+   "last_attempt": 1788867916.160768
+  },
+  "https://thenkiri.com/the-justice-of-bunny-king-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31538|https://thenkiri.com/the-justice-of-bunny-king-2021-download-hollywood-movie/|2021-11-05T19:57:16|2023-09-02T10:59:22|{'rendered': 'The Justice of Bunny King (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788867918.387154
+  },
+  "https://thenkiri.com/catch-the-bullet-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "30398|https://thenkiri.com/catch-the-bullet-2021-download-hollywood-movie/|2021-10-12T06:02:27|2023-09-02T10:05:14|{'rendered': 'Catch the Bullet (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788867919.3029768
+  },
+  "https://thenkiri.com/ali-and-ratu-ratu-queens-2021-download-indonesian-movie/": {
+   "status": "pending",
+   "signature": "17696|https://thenkiri.com/ali-and-ratu-ratu-queens-2021-download-indonesian-movie/|2021-06-18T13:11:10|2023-09-02T09:23:22|{'rendered': 'Ali and Ratu Ratu Queens (2021) | Download Indonesian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788867935.342825
+  },
+  "https://thenkiri.com/midnight-runners-2017-download-korean-movie/": {
+   "status": "pending",
+   "signature": "15868|https://thenkiri.com/midnight-runners-2017-download-korean-movie/|2021-05-04T12:20:59|2024-02-25T08:20:56|{'rendered': 'Midnight Runners (2017) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788867944.9997184
   }
  },
  "series_links": {

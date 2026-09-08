@@ -226,16 +226,30 @@
    "blocked_at": 1788852236
   },
   "https://thenkiri.com/citadel-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156285|https://thenkiri.com/citadel-s02-complete-tv-series/|2026-05-06T12:35:09|2026-05-06T12:37:35|{'rendered': 'Citadel S02 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788852503.0638294
+   "last_attempt": 1788852503.0638294,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867926
   },
   "https://thenkiri.com/hulk-hogan-real-american-complete-tv-series/": {
    "status": "done",
    "signature": "155164|https://thenkiri.com/hulk-hogan-real-american-complete-tv-series/|2026-04-23T10:20:45|2026-04-23T10:30:32|{'rendered': 'Hulk Hogan: Real American (Episode 1 – 4 Added) | TV Series'}",
    "modified": "2026-04-23T10:30:32",
    "completed_at": 1788856626
+  },
+  "https://thenkiri.com/iyanu-s02-complete-tv-series/": {
+   "status": "pending",
+   "signature": "154219|https://thenkiri.com/iyanu-s02-complete-tv-series/|2026-04-13T12:36:03|2026-05-31T17:48:55|{'rendered': 'Iyanu S02 (Episode 10 Added ) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788868272.396203
+  },
+  "https://thenkiri.com/the-rookie-s06-complete-tv-series/": {
+   "status": "done",
+   "signature": "153147|https://thenkiri.com/the-rookie-s06-complete-tv-series/|2026-03-28T12:00:50|2026-03-28T12:00:50|{'rendered': 'The Rookie S06 (Complete) | TV Series'}",
+   "modified": "2026-03-28T12:00:50",
+   "completed_at": 1788870564
   }
  },
  "series_links": {
@@ -462,6 +476,25 @@
   "https://downloadwella.com/g9t8bxn3yfru/Hulk.Hogan.Real.American.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dqetLEquTz0j30xHquX_7Q3kATzu2bG7",
   "https://downloadwella.com/jcrv8r11lro4/Hulk.Hogan.Real.American.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o5x_oXJoL4I_Vf7-iXB6Tb6f_xGk8o1m",
   "https://downloadwella.com/6wo0su26a5ui/Hulk.Hogan.Real.American.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_DZP0iZFCJbg9NPSp7CqlLvbsfK4RE0r",
-  "https://downloadwella.com/tbdvc59fno9k/Hulk.Hogan.Real.American.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LCY6t2uo9yBF9swbok43bDAM50Z5MJbV"
+  "https://downloadwella.com/tbdvc59fno9k/Hulk.Hogan.Real.American.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LCY6t2uo9yBF9swbok43bDAM50Z5MJbV",
+  "https://downloadwella.com/h37ef05p1zzs/Iyanu.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p_sSsEGbIY5WKcXhGpx50BTxoiQGms5E",
+  "https://downloadwella.com/cpvh1n253twl/Iyanu.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pF5tE0M4yyw5t70M8tHkWQj2NHKdZ50i",
+  "https://downloadwella.com/mb9gs1mp92ht/Iyanu.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/56Thas2Y4SP7-ccIOzakj4KjY9mSkGZl",
+  "https://downloadwella.com/obut4s4w2954/Iyanu.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_LmaD5tm4Cuk3MfXeu520wEHquthd5e3",
+  "https://downloadwella.com/icfzc0hsaiap/Iyanu.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DEbJGZbCwHSLbFe-JINhK3dohqEwGJT5",
+  "https://downloadwella.com/xlyq33s6w1w7/Iyanu.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v9jUFpzHDYDhRqXDegHVKLywIpgP_q_z",
+  "https://downloadwella.com/qn9qsp06366t/Iyanu.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NQJxs1Y_siSb3QuO9MU48nPEHd9JYRqy",
+  "https://downloadwella.com/h0ldzgch1z8d/Iyanu.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Uam5QkGMmthC7rVUkErXCiFZP8ddma_y",
+  "https://downloadwella.com/zro46ue9yfja/Iyanu.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GDNr1ZALGFa18y5Xb0N42FHnmSuxO3Q2",
+  "https://downloadwella.com/9cbnbdfdyeav/The.Rookie.S06E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/clPy2ouLjqgpXuGQzIlxquRCjxdMpk2m",
+  "https://downloadwella.com/n21xkks9zt2a/The.Rookie.S06E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7tMrZPHmzTcu85hVb_74FVB3qxYmQoQf",
+  "https://downloadwella.com/t4espf9aoc7h/The.Rookie.S06E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BkpKrjiFRTC8Fr-CP0Q6tRADmY6bu7TB",
+  "https://downloadwella.com/z586y5oai32z/The.Rookie.S06E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8LgmxiI7Z9JdfYceqbNfwyEqn5C4vG6L",
+  "https://downloadwella.com/xf5stkrscn73/The.Rookie.S06E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FX1bVwjTJre_Q9Ed8i5nozC2EG4h1mIU",
+  "https://downloadwella.com/2gr2i0soslnc/The.Rookie.S06E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gltT7lFYxb_GjPMI0gxzttQHbrj-MsAN",
+  "https://downloadwella.com/nxve3bzrmucw/The.Rookie.S06E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/icAZ07Ole-n3pxdzloY59-LBOJo5GQJT",
+  "https://downloadwella.com/e9u47ks6fnir/The.Rookie.S06E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ITLDJ_2bjhT4RxHkBXZqC6SBUgl6mFAS",
+  "https://downloadwella.com/48iyhw1qj9e7/The.Rookie.S06E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TItKbIT1MkTFksewBbOj1zXjppxyqpFX",
+  "https://downloadwella.com/u32xwqi62hqj/The.Rookie.S06E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W_FIjj8VEyUf_YECjAebK1fGr9652FhX"
  }
 }
