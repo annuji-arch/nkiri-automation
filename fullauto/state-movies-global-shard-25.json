@@ -1057,8 +1057,8 @@
   "https://thenkiri.com/bring-her-back-2025-download-hollywood-movie/": {
    "status": "pending",
    "signature": "138931|https://thenkiri.com/bring-her-back-2025-download-hollywood-movie/|2025-07-01T10:46:57|2025-07-01T10:59:53|{'rendered': 'Bring Her Back (2025) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812300.9601433
+   "attempts": 2,
+   "last_attempt": 1788827933.534275
   },
   "https://thenkiri.com/dark-nun-2025-download-korean-movie/": {
    "status": "done",
@@ -1081,14 +1081,14 @@
   "https://thenkiri.com/descendants-the-rise-of-red-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "118239|https://thenkiri.com/descendants-the-rise-of-red-2024-download-hollywood-movie/|2024-07-12T11:01:28|2024-07-12T11:01:28|{'rendered': 'Descendants: The Rise of Red (2024) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812644.7265136
+   "attempts": 2,
+   "last_attempt": 1788827965.4991689
   },
   "https://thenkiri.com/french-girl-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "112524|https://thenkiri.com/french-girl-2024-download-hollywood-movie/|2024-03-19T07:48:52|2024-03-19T07:48:52|{'rendered': 'French Girl (2024) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788812645.8518202
+   "attempts": 2,
+   "last_attempt": 1788827966.738249
   },
   "https://thenkiri.com/12th-fail-2023-download-indian-movie/": {
    "status": "done",
@@ -1101,6 +1101,36 @@
    "signature": "101363|https://thenkiri.com/rebound-2023-download-korean-movie/|2023-10-14T16:48:41|2023-10-14T16:48:41|{'rendered': 'Rebound (2023) | Download Korean Movie'}",
    "modified": "2023-10-14T16:48:41",
    "completed_at": 1788812879
+  },
+  "https://thenkiri.com/the-childe-2023-download-korean-movie/": {
+   "status": "pending",
+   "signature": "96315|https://thenkiri.com/the-childe-2023-download-korean-movie/|2023-08-03T09:18:31|2023-09-02T17:56:37|{'rendered': 'The Childe (2023) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828023.4464734
+  },
+  "https://thenkiri.com/i-want-to-know-your-parents-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "89940|https://thenkiri.com/i-want-to-know-your-parents-2022-download-korean-movie/|2023-05-21T08:26:20|2023-09-02T18:00:13|{'rendered': 'I Want to Know Your Parents (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788829924.0753853
+  },
+  "https://thenkiri.com/luther-the-fallen-sun-2023-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "84076|https://thenkiri.com/luther-the-fallen-sun-2023-download-hollywood-movie/|2023-03-10T10:21:27|2023-09-02T17:23:20|{'rendered': 'Luther: The Fallen Sun (2023) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788829956.5054095
+  },
+  "https://thenkiri.com/roald-dahls-matilda-the-musical-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "77911|https://thenkiri.com/roald-dahls-matilda-the-musical-2022-download-hollywood-movie/|2022-12-25T11:08:20|2023-09-02T14:27:04|{'rendered': 'Roald Dahl’s Matilda the Musical (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830073.0658302
+  },
+  "https://thenkiri.com/the-admiral-roaring-currents-2014-download-korean-movie/": {
+   "status": "pending",
+   "signature": "72163|https://thenkiri.com/the-admiral-roaring-currents-2014-download-korean-movie/|2022-11-14T13:06:59|2023-09-02T16:54:44|{'rendered': 'The Admiral: Roaring Currents (2014) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830107.709353
   }
  },
  "series_links": {
