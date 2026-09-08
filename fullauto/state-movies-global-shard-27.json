@@ -1187,52 +1187,68 @@
    "blocked_at": 1788841311
   },
   "https://thenkiri.com/moonfall-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38784|https://thenkiri.com/moonfall-2022-download-hollywood-movie/|2022-03-29T15:51:46|2023-09-02T13:24:26|{'rendered': 'Moonfall (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841312.5900464
+   "last_attempt": 1788841312.5900464,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867849
   },
   "https://thenkiri.com/big-gold-brick-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37120|https://thenkiri.com/big-gold-brick-2022-download-hollywood-movie/|2022-02-25T14:53:27|2023-09-02T13:06:44|{'rendered': 'Big Gold Brick (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841313.5437837
+   "last_attempt": 1788841313.5437837,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867849
   },
   "https://thenkiri.com/juniper-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36097|https://thenkiri.com/juniper-2021-download-hollywood-movie/|2022-02-04T07:23:55|2023-09-02T13:38:11|{'rendered': 'Juniper (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841314.4051626
+   "attempts": 3,
+   "last_attempt": 1788867850.785063
   },
   "https://thenkiri.com/geetha-govindam-2018-download-indian-movie/": {
    "status": "pending",
    "signature": "34724|https://thenkiri.com/geetha-govindam-2018-download-indian-movie/|2022-01-08T08:20:22|2023-09-02T13:23:48|{'rendered': 'Geetha Govindam (2018) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841315.1833484
+   "attempts": 3,
+   "last_attempt": 1788867851.9914467
   },
   "https://thenkiri.com/the-matrix-2-reloaded-2003-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33919|https://thenkiri.com/the-matrix-2-reloaded-2003-download-hollywood-movie/|2021-12-22T08:21:59|2023-09-02T13:16:02|{'rendered': 'The Matrix 2 Reloaded (2003) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841316.0519586
+   "attempts": 3,
+   "last_attempt": 1788867854.702476
   },
   "https://thenkiri.com/the-humans-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32554|https://thenkiri.com/the-humans-2021-download-hollywood-movie/|2021-11-24T18:09:07|2023-09-02T13:05:54|{'rendered': 'The Humans (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841316.973506
+   "attempts": 3,
+   "last_attempt": 1788867856.1670544
   },
   "https://thenkiri.com/aida-rodriguez-fighting-words-2021-download-hollywood-stand-up/": {
    "status": "pending",
    "signature": "31520|https://thenkiri.com/aida-rodriguez-fighting-words-2021-download-hollywood-stand-up/|2021-11-05T19:29:17|2023-09-02T10:59:29|{'rendered': 'Aida Rodriguez Fighting Words (2021) | Download Hollywood Stand Up'}",
-   "attempts": 2,
-   "last_attempt": 1788841317.8429503
+   "attempts": 3,
+   "last_attempt": 1788867857.3336532
   },
   "https://thenkiri.com/the-secret-of-sinchanee-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "30252|https://thenkiri.com/the-secret-of-sinchanee-2021-download-hollywood-movie/|2021-10-08T16:05:20|2023-09-02T10:05:48|{'rendered': 'The Secret of Sinchanee (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841318.8909297
+   "attempts": 2,
+   "last_attempt": 1788867860.570191
+  },
+  "https://thenkiri.com/take-point-2018-download-korean-movie/": {
+   "status": "done",
+   "signature": "17643|https://thenkiri.com/take-point-2018-download-korean-movie/|2021-06-17T11:30:57|2023-09-02T09:23:51|{'rendered': 'Take Point (2018) | Download Korean Movie'}",
+   "modified": "2023-09-02T09:23:51",
+   "completed_at": 1788867892
+  },
+  "https://thenkiri.com/without-remorse-2021-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "15715|https://thenkiri.com/without-remorse-2021-download-hollywood-movie/|2021-04-30T09:53:51|2023-09-02T09:04:28|{'rendered': 'Without Remorse (2021) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T09:04:28",
+   "completed_at": 1788867946
   }
  },
  "series_links": {
@@ -1445,6 +1461,8 @@
   "https://downloadwella.com/w13bdenmeg6n/Carry-On.(NKIRI.COM).2024.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/fCijYmMzAce1FC0Ws7Cnu2u6dvzczZs3",
   "https://downloadwella.com/3fxg04d7imeu/White.Men.Cant.Jump.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ChTVPdi0ThjpkTh8OXAxIokEnMhuiykv",
   "https://downloadwella.com/kavelr7w0639/%7Bnkiri.com%7D_Rampant_(2018)_jibedu.mkv.html": "https://v1.vidfiles.com/d/u8eX_6kMoV6LDAzfuKeIXzP-D8OYXP94",
-  "https://downloadwella.com/hf332st0397b/Mainstream.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/EywKA7MXmAnXm8QsmQfGaO1P27EF1fKn"
+  "https://downloadwella.com/hf332st0397b/Mainstream.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/EywKA7MXmAnXm8QsmQfGaO1P27EF1fKn",
+  "https://downloadwella.com/eok3jjt2i41m/Take.Point.(NKIRI.COM).2018.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/VGonIYH3ig8k_CJ_FA8zIQxKagvv8AZB",
+  "https://downloadwella.com/m36asda994v4/Without.Remorse.(NKIRI.COM).2021.720p.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/SmZ-mxXOBZBfm_aeFpoR7WwnS5GZTatI"
  }
 }

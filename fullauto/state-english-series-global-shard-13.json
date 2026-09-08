@@ -230,16 +230,16 @@
    "blocked_at": 1788838109
   },
   "https://thenkiri.com/criminal-record-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "155137|https://thenkiri.com/criminal-record-s02-complete-tv-series/|2026-04-22T16:46:53|2026-06-10T09:16:20|{'rendered': 'Criminal Record S02 (Episode 8 Added) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788841585.4762633
+   "modified": "2026-06-10T09:16:20",
+   "completed_at": 1788868181
   },
   "https://thenkiri.com/the-audacity-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "154241|https://thenkiri.com/the-audacity-s01-complete-tv-series/|2026-04-13T09:40:11|2026-06-01T08:26:03|{'rendered': 'The Audacity S01 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788841866.429544
+   "modified": "2026-06-01T08:26:03",
+   "completed_at": 1788868512
   }
  },
  "series_links": {
@@ -468,6 +468,22 @@
   "https://downloadwella.com/glnpnr4k1zg4/Brazil.70.The.Third.Star.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3nxCyQZ_W_FmgZvob32XBacT9u3exUGc",
   "https://downloadwella.com/81at57g7pfju/Brazil.70.The.Third.Star.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QXZ91QRpJdRZMLQ7eb7PsG8TeuxSvTkR",
   "https://downloadwella.com/oz048lofrpk2/Brazil.70.The.Third.Star.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KwsRrwbDMfGsiX-XYxnhP294GKTNby9U",
-  "https://downloadwella.com/i8mhumeuh2gv/Brazil.70.The.Third.Star.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p1-2F5gndmRwdHdPNArsiUYeAvFKv3U7"
+  "https://downloadwella.com/i8mhumeuh2gv/Brazil.70.The.Third.Star.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p1-2F5gndmRwdHdPNArsiUYeAvFKv3U7",
+  "https://downloadwella.com/f1b6pgobyttw/Criminal.Record.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Cy7zMgOtt7AnBkPVW_MDMBXo4nbWkUzF",
+  "https://downloadwella.com/5wl02if6jjoz/Criminal.Record.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RJftYjJNZiocRhtRgNiedzdOUA0f5qeX",
+  "https://downloadwella.com/h9v78wh83fs5/Criminal.Record.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XE3n7B2EV7bWcD7XWtgQyaGBQtAlmmWX",
+  "https://downloadwella.com/ckbhef0ye1wt/Criminal.Record.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YO1ahNWr3xn3O_CIwSmR2sHZBiLPIRHm",
+  "https://downloadwella.com/opgmwmgi65a0/Criminal.Record.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9WWD3X8oq2YuX0SF5b8Q_LobHfJbaXt4",
+  "https://downloadwella.com/0lc55tcx0fk2/Criminal.Record.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NaOsLX6YsBFA6G2ml9AfnL1K0tE75Rjo",
+  "https://downloadwella.com/vbt290reg7cz/Criminal.Record.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CxBAKg8_RpD36erzZ3yCowiWhSTGYOpk",
+  "https://downloadwella.com/wrtqs6755w74/Criminal.Record.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PwAzfq9a9Fa6n_iQq8-NXDnKew4Odq-g",
+  "https://downloadwella.com/vfvm0a4ys2u0/The.Audacity.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zrYz5DUxcrCGj1yPfO3wgOt-SsN28IaC",
+  "https://downloadwella.com/ln6jhumfjbyw/The.Audacity.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B3ILRtiwDhCLDmqVMtaKKfOFPQ7lOVWs",
+  "https://downloadwella.com/3dpecmojbhhr/The.Audacity.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2lETMvQTO8zTAMx4sT6yTIJqjrDwHTex",
+  "https://downloadwella.com/t1gxvkrup17u/The.Audacity.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f_96B1uVS3htP1dBhkUOcequ2SV2Hq-U",
+  "https://downloadwella.com/6u0o0wsofkie/The.Audacity.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Pr5qtFaTNmjJCKsu-bD2_qZM-r5L0YyG",
+  "https://downloadwella.com/4m1r9fwdfet2/The.Audacity.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ilZx7uyske0ONWtQ6pb-6JF9LUmVrh0O",
+  "https://downloadwella.com/1xdxbehjddsf/The.Audacity.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vTEUIQgTq30Pn35AVMRH3lixxF3ZZWi1",
+  "https://downloadwella.com/4o7j98rdkurm/The.Audacity.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/06cy9aLi7apZHEhc6Ma6njkWWZwU7lHs"
  }
 }
