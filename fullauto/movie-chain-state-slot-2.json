@@ -214,10 +214,12 @@
    "blocked_at": 1788879123
   },
   "https://thenkiri.com/shark-the-beginning-2021-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "77277|https://thenkiri.com/shark-the-beginning-2021-download-korean-movie/|12/19/2022 15:37:47|02/25/2024 00:43:19|{'rendered': 'Shark: The Beginning  (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880084.8306727
+   "last_attempt": 1788880084.8306727,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880475
   },
   "https://thenkiri.com/scrooge-a-christmas-carol-2022-download-hollywood-movie/": {
    "status": "done",
@@ -238,28 +240,32 @@
    "completed_at": 1788878118
   },
   "https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "73582|https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/|11/22/2022 08:49:20|09/02/2023 13:45:07|{'rendered': 'Lyle, Lyle, Crocodile (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880145.387233
+   "last_attempt": 1788880145.387233,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880475
   },
   "https://thenkiri.com/dive-2022-download-spanish-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "71245|https://thenkiri.com/dive-2022-download-spanish-movie/|11/12/2022 05:48:32|09/02/2023 16:52:20|{'rendered': 'Dive (2022) | Download Spanish Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880146.7395966
+   "last_attempt": 1788880146.7395966,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880475
   },
   "https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/": {
    "status": "pending",
    "signature": "69795|https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/|10/28/2022 12:57:02|09/02/2023 16:29:59|{'rendered': 'All Quiet on the Western Front (2022) English Dub | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879227.4982648
+   "attempts": 3,
+   "last_attempt": 1788880572.8566961
   },
   "https://thenkiri.com/phantom-detective-2016-download-korean-movie/": {
    "status": "pending",
    "signature": "69471|https://thenkiri.com/phantom-detective-2016-download-korean-movie/|10/26/2022 15:13:48|09/02/2023 16:32:46|{'rendered': 'Phantom Detective (2016) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879376.50633
+   "attempts": 3,
+   "last_attempt": 1788880670.64241
   },
   "https://thenkiri.com/memories-of-the-sword-2015-download-korean-movie/": {
    "status": "done",
@@ -348,20 +354,38 @@
   "https://thenkiri.com/dasvi-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "47144|https://thenkiri.com/dasvi-2022-download-indian-movie/|07/27/2022 08:04:06|09/02/2023 14:52:08|{'rendered': 'Dasvi (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788879474.6409304
+   "attempts": 2,
+   "last_attempt": 1788880769.1345074
   },
   "https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "47021|https://thenkiri.com/paws-of-fury-the-legend-of-hank-2022-download-hollywood-movie/|07/25/2022 07:30:34|09/02/2023 14:53:03|{'rendered': 'Paws of Fury: The Legend of Hank (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788879475.52199
+   "attempts": 2,
+   "last_attempt": 1788880770.0532396
   },
   "https://thenkiri.com/the-witch-part-2-the-other-one-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "46691|https://thenkiri.com/the-witch-part-2-the-other-one-2022-download-korean-movie/|07/19/2022 18:27:15|09/02/2023 14:47:03|{'rendered': 'The Witch Part 2 The Other One (2022) | Download Korean Movie'}",
    "attempts": 1,
    "last_attempt": 1788880362.5793169
+  },
+  "https://thenkiri.com/lightyear-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "46377|https://thenkiri.com/lightyear-2022-download-hollywood-movie/|07/14/2022 13:32:18|09/02/2023 14:40:26|{'rendered': 'Lightyear (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880770.8615384
+  },
+  "https://thenkiri.com/brian-and-charles-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45889|https://thenkiri.com/brian-and-charles-2022-download-hollywood-movie/|07/08/2022 17:15:48|09/02/2023 14:35:53|{'rendered': 'Brian and Charles (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880771.7053587
+  },
+  "https://thenkiri.com/the-phantom-of-the-open-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45836|https://thenkiri.com/the-phantom-of-the-open-2022-download-hollywood-movie/|07/08/2022 11:08:50|09/02/2023 14:36:22|{'rendered': 'The Phantom of the Open (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880772.49412
   }
  },
  "series_links": {
