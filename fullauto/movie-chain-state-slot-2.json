@@ -638,6 +638,18 @@
    "signature": "37815|https://thenkiri.com/the-adam-project-2022-download-hollywood-movie/|03/11/2022 12:22:25|09/02/2023 13:12:26|{'rendered': 'The Adam Project (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788883782.8768191
+  },
+  "https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37506|https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/|03/04/2022 16:00:54|09/02/2023 13:10:06|{'rendered': 'The Story of My Wife (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883851.774678
+  },
+  "https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/": {
+   "status": "pending",
+   "signature": "37380|https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/|03/03/2022 08:49:30|09/02/2023 13:10:42|{'rendered': 'The Pilot A Battle for Survival (2021) | Download Russian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883852.8261201
   }
  },
  "series_links": {
