@@ -1081,52 +1081,76 @@
    "completed_at": 1788812629
   },
   "https://thenkiri.com/wildcat-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "118278|https://thenkiri.com/wildcat-2024-download-hollywood-movie/|2024-07-13T07:24:09|2024-07-13T07:24:09|{'rendered': 'Wildcat (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831310.969455
+   "last_attempt": 1788831310.969455,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834758
   },
   "https://thenkiri.com/unexpected-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112533|https://thenkiri.com/unexpected-2024-download-hollywood-movie/|2024-03-19T08:19:17|2024-03-19T08:19:17|{'rendered': 'Unexpected (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831312.6762373
+   "last_attempt": 1788831312.6762373,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834758
   },
   "https://thenkiri.com/race-for-glory-audi-vs-lancia-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106516|https://thenkiri.com/race-for-glory-audi-vs-lancia-2024-download-hollywood-movie/|2024-01-05T08:32:15|2024-01-05T08:32:15|{'rendered': 'Race for Glory: Audi vs Lancia (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788831345.357254
+   "last_attempt": 1788831345.357254,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834758
   },
   "https://thenkiri.com/scarygirl-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "101385|https://thenkiri.com/scarygirl-2023-download-hollywood-movie/|2023-10-15T07:46:22|2023-10-15T07:46:22|{'rendered': 'Scarygirl (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831413.17444
+   "attempts": 3,
+   "last_attempt": 1788834821.172762
   },
   "https://thenkiri.com/the-corner-office-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "96359|https://thenkiri.com/the-corner-office-2023-download-hollywood-movie/|2023-08-04T09:10:36|2024-02-23T15:02:35|{'rendered': 'The Corner Office (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831445.195773
+   "attempts": 3,
+   "last_attempt": 1788834851.402252
   },
   "https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "89991|https://thenkiri.com/john-wick-chapter-4-2023-download-hollywood-movie/|2023-05-22T18:48:08|2023-09-02T18:00:10|{'rendered': 'John Wick Chapter 4 (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831446.5273328
+   "attempts": 3,
+   "last_attempt": 1788834852.4703507
   },
   "https://thenkiri.com/beasts-clawing-at-straws-2020-download-korean-movie/": {
    "status": "pending",
    "signature": "84113|https://thenkiri.com/beasts-clawing-at-straws-2020-download-korean-movie/|2023-03-11T08:06:02|2023-09-02T17:23:10|{'rendered': 'Beasts Clawing at Straws (2020) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788831447.8573406
+   "attempts": 3,
+   "last_attempt": 1788834853.6866138
   },
   "https://thenkiri.com/hell-dogs-2022-download-japanese-movie/": {
    "status": "pending",
    "signature": "77995|https://thenkiri.com/hell-dogs-2022-download-japanese-movie/|2022-12-26T14:49:26|2023-09-02T14:26:54|{'rendered': 'Hell Dogs (2022) | Download JAPANESE Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788834854.7353933
+  },
+  "https://thenkiri.com/one-night-only-2016-download-chinese-movie/": {
+   "status": "pending",
+   "signature": "69448|https://thenkiri.com/one-night-only-2016-download-chinese-movie/|2022-11-14T16:19:34|2023-09-02T16:54:39|{'rendered': 'One Night Only (2016) | Download Chinese Movie'}",
    "attempts": 1,
-   "last_attempt": 1788831449.2841527
+   "last_attempt": 1788834932.3830776
+  },
+  "https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/": {
+   "status": "pending",
+   "signature": "69086|https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/|2022-10-25T11:57:36|2023-09-02T16:25:39|{'rendered': 'Along with the Gods: The Last 49 Days (2018) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834964.5541553
+  },
+  "https://thenkiri.com/mr-malcolms-list-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "64032|https://thenkiri.com/mr-malcolms-list-2022-download-hollywood-movie/|2022-08-31T12:52:21|2023-09-02T15:20:52|{'rendered': 'Mr. Malcolms List (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834995.2741313
   }
  },
  "series_links": {
