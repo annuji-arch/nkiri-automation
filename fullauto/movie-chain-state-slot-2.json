@@ -604,106 +604,144 @@
    "blocked_at": 1788885143
   },
   "https://thenkiri.com/knives-out-2019-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "39431|https://thenkiri.com/knives-out-2019-download-hollywood-movie/|04/11/2022 06:40:14|09/02/2023 13:38:57|{'rendered': 'Knives Out (2019) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884266.1591494
+   "modified": "09/02/2023 13:38:57",
+   "skipped_at": 1788921474,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/gingers-tale-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "39278|https://thenkiri.com/gingers-tale-2021-download-hollywood-movie/|04/08/2022 10:38:18|09/02/2023 13:39:36|{'rendered': 'Ginger’s Tale (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884267.3095133
+   "modified": "09/02/2023 13:39:36",
+   "skipped_at": 1788921476,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/boon-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38976|https://thenkiri.com/boon-2022-download-hollywood-movie/|04/02/2022 13:16:24|09/02/2023 13:36:21|{'rendered': 'Boon (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884268.1944842
+   "modified": "09/02/2023 13:36:21",
+   "skipped_at": 1788921477,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-contractor-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38915|https://thenkiri.com/the-contractor-2022-download-hollywood-movie/|04/01/2022 07:10:28|09/02/2023 13:36:43|{'rendered': 'The Contractor (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884268.9380112
+   "modified": "09/02/2023 13:36:43",
+   "skipped_at": 1788921479,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/pitch-perfect-trilogy-complete-collection-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38621|https://thenkiri.com/pitch-perfect-trilogy-complete-collection-download-hollywood-movie/|03/26/2022 07:39:52|09/02/2023 13:24:39|{'rendered': 'Pitch Perfect Trilogy Complete Collection | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884269.5705738
+   "modified": "09/02/2023 13:24:39",
+   "skipped_at": 1788921480,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/jackass-forever-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38398|https://thenkiri.com/jackass-forever-2022-download-hollywood-movie/|03/22/2022 08:44:56|09/02/2023 13:14:15|{'rendered': 'Jackass Forever (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884270.4884782
+   "modified": "09/02/2023 13:14:15",
+   "skipped_at": 1788921482,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/panama-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38187|https://thenkiri.com/panama-2022-download-hollywood-movie/|03/18/2022 12:25:26|09/02/2023 13:14:46|{'rendered': 'Panama (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884634.829419
+   "modified": "09/02/2023 13:14:46",
+   "skipped_at": 1788921483,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/homestay-2022-download-japanese-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "38019|https://thenkiri.com/homestay-2022-download-japanese-movie/|03/16/2022 06:04:09|09/02/2023 13:15:20|{'rendered': 'Homestay (2022) | Download JAPANESE Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884721.6654315
+   "modified": "09/02/2023 13:15:20",
+   "skipped_at": 1788921485,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-adam-project-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37815|https://thenkiri.com/the-adam-project-2022-download-hollywood-movie/|03/11/2022 12:22:25|09/02/2023 13:12:26|{'rendered': 'The Adam Project (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884722.8830233
+   "modified": "09/02/2023 13:12:26",
+   "skipped_at": 1788921486,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37506|https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/|03/04/2022 16:00:54|09/02/2023 13:10:06|{'rendered': 'The Story of My Wife (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884826.9285111
+   "modified": "09/02/2023 13:10:06",
+   "skipped_at": 1788921488,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37380|https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/|03/03/2022 08:49:30|09/02/2023 13:10:42|{'rendered': 'The Pilot A Battle for Survival (2021) | Download Russian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884827.6640077
+   "modified": "09/02/2023 13:10:42",
+   "skipped_at": 1788921489,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/no-exit-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37126|https://thenkiri.com/no-exit-2022-download-hollywood-movie/|02/25/2022 14:58:42|09/02/2023 13:06:40|{'rendered': 'No Exit (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788885143.9192905
+   "modified": "09/02/2023 13:06:40",
+   "skipped_at": 1788921490,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/special-delivery-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "37051|https://thenkiri.com/special-delivery-2022-download-korean-movie/|02/24/2022 18:14:11|09/02/2023 13:07:35|{'rendered': 'Special Delivery (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788885144.7224855
+   "modified": "09/02/2023 13:07:35",
+   "skipped_at": 1788921492,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36853|https://thenkiri.com/licorice-pizza-2021-download-hollywood-movie/|02/19/2022 20:22:34|09/02/2023 13:41:53|{'rendered': 'Licorice Pizza (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788884635.700004
+   "modified": "09/02/2023 13:41:53",
+   "skipped_at": 1788921494,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-souvenir-2019-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36697|https://thenkiri.com/the-souvenir-2019-download-hollywood-movie/|02/16/2022 08:25:57|09/02/2023 13:42:24|{'rendered': 'The Souvenir (2019) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788885063.967631
+   "modified": "09/02/2023 13:42:24",
+   "skipped_at": 1788921495,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/love-and-leashes-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36502|https://thenkiri.com/love-and-leashes-2022-download-korean-movie/|02/12/2022 05:45:45|09/02/2023 13:39:55|{'rendered': 'Love and Leashes (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788885065.3952222
+   "modified": "09/02/2023 13:39:55",
+   "skipped_at": 1788921496,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/into-the-wind-2022-download-polish-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "36411|https://thenkiri.com/into-the-wind-2022-download-polish-movie/|02/11/2022 07:27:53|09/02/2023 13:40:11|{'rendered': 'Into the Wind (2022) | Download Polish Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788885066.8708496
+   "modified": "09/02/2023 13:40:11",
+   "skipped_at": 1788921498,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/red-rocket-2021-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "36315|https://thenkiri.com/red-rocket-2021-download-hollywood-movie/|02/08/2022 18:58:42|09/02/2023 13:40:30|{'rendered': 'Red Rocket (2021) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 13:40:30",
+   "skipped_at": 1788921499,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/through-my-window-2022-download-spanish-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "36164|https://thenkiri.com/through-my-window-2022-download-spanish-movie/|02/05/2022 10:15:18|09/02/2023 13:37:42|{'rendered': 'Through My Window (2022) | Download Spanish Movie'}",
+   "modified": "09/02/2023 13:37:42",
+   "skipped_at": 1788921500,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/tadap-2021-download-indian-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "36103|https://thenkiri.com/tadap-2021-download-indian-movie/|02/04/2022 07:30:55|09/02/2023 13:38:07|{'rendered': 'Tadap (2021) | Download Indian Movie'}",
+   "modified": "09/02/2023 13:38:07",
+   "skipped_at": 1788921501,
+   "reason": "no usable downloadable source link"
   }
  },
  "series_links": {
