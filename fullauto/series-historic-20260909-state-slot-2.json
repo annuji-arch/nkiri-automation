@@ -420,6 +420,13 @@
       "modified": "2026-06-11T10:20:42",
       "completed_at": 1789013338,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/alice-and-steve-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "158898|https://thenkiri.com/alice-and-steve-s01-complete-tv-series/|2026-06-08T12:57:20|2026-06-08T12:57:20|{'rendered': 'Alice and Steve S01 (Complete) | TV Series'}",
+      "modified": "2026-06-08T12:57:20",
+      "completed_at": 1789013839,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -831,6 +838,11 @@
     "https://downloadwella.com/th3wq6ra0fsg/Sweet.Magnolias.S05E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9LTz4dt3QCndKBBl72Oo9wLEpMvOJknW",
     "https://downloadwella.com/a8k99knr9b08/Sweet.Magnolias.S05E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kkHoNdUN5pSGXn50lkwV0rRVa8XT4cxe",
     "https://downloadwella.com/3qh5nmwg9xwz/Sweet.Magnolias.S05E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IqnNMl_2IbpwjxLu_TK616Bk-dL5sANX",
-    "https://downloadwella.com/aps3ux0n89hi/Sweet.Magnolias.S05E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aFhUfarIrsEOv_L8GnB70ssnt7o1MEdZ"
+    "https://downloadwella.com/aps3ux0n89hi/Sweet.Magnolias.S05E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aFhUfarIrsEOv_L8GnB70ssnt7o1MEdZ",
+    "https://downloadwella.com/oagbhub8qqn7/Alice.and.Steve.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OJZA7Dz24sGyzXitLyP_WPr4f7sU05i4",
+    "https://downloadwella.com/2ncs5zwxzsu4/Alice.and.Steve.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n3mwhLfHMsRyUGcaOJbz-uPAsxgwuqgT",
+    "https://downloadwella.com/1v8sdx19hfla/Alice.and.Steve.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z8XRBtg9OgN83UyS_JXSuwA6TEqfp1Hy",
+    "https://downloadwella.com/ql5v04w4xwu7/Alice.and.Steve.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ReKZrY6lUZAyqXQY6HR--sYZKVmUpEY2",
+    "https://downloadwella.com/gv1dyas7irkd/Alice.and.Steve.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WR5hKQRRWnrxv1BuumwBKZLEmKj-N749"
   }
 }
