@@ -530,6 +530,13 @@
       "signature": "151864|https://thenkiri.com/one-piece-s02-complete-tv-series/|2026-03-10T14:19:16|2026-03-10T14:19:53|{'rendered': 'One Piece S02 (Complete) | TV Series S02 (Complete) | TV Series'}",
       "modified": "2026-03-10T14:19:53",
       "completed_at": 1789074864
+    },
+    "https://thenkiri.com/marshal-s01complete-tv-series-drama/": {
+      "status": "partial",
+      "signature": "151372|https://thenkiri.com/marshal-s01complete-tv-series-drama/|2026-03-03T15:23:22|2026-05-25T09:04:56|{'rendered': 'Marshal S01 (Episode 13 Added) | Tv series Drama'}",
+      "modified": "2026-05-25T09:04:56",
+      "completed_at": 1789078396,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1086,6 +1093,9 @@
     "https://downloadwella.com/jjatkxv73seg/One.Piece.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EpEayXDQ4-4jcftkHIQ5xB_3N5CR_nMp",
     "https://downloadwella.com/o5bv19kt0pe8/One.Piece.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CVsbdiQVBvY6WokRoBX4Xhz2vJEkr2XO",
     "https://downloadwella.com/hv4rskyqsus2/One.Piece.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MeGCI7NEOeeJJP_kP08TIXWDlapliAPj",
-    "https://downloadwella.com/sq838wh6j9vy/One.Piece.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/11-k1ZrbSvyv-A15Kqb6tDzHJ1SC0MWO"
+    "https://downloadwella.com/sq838wh6j9vy/One.Piece.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/11-k1ZrbSvyv-A15Kqb6tDzHJ1SC0MWO",
+    "https://downloadwella.com/sgoswk6jhsho/Marshals.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Pzba8j2cfnDU0vKA7ZdtlhxW8Uyvh8a9",
+    "https://downloadwella.com/1hrpj4qvpbq3/Marshals.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GKUnn6AS4LS8bTZ7pWH-p-uWVY97D677",
+    "https://downloadwella.com/uaa1q4zalcaz/Marshals.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bPvvQQd_Rb_2aET_nX41P_mFKR0y8FTB"
   }
 }
