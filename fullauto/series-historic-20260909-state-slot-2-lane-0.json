@@ -454,6 +454,13 @@
       "modified": "2026-05-18T11:41:54",
       "completed_at": 1789058217,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/off-campus-complete-tv-series/": {
+      "status": "partial",
+      "signature": "156864|https://thenkiri.com/off-campus-complete-tv-series/|2026-05-13T12:51:04|2026-05-13T12:53:59|{'rendered': 'Off Campus (Complete) | TV Series'}",
+      "modified": "2026-05-13T12:53:59",
+      "completed_at": 1789059559,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -950,6 +957,13 @@
     "https://downloadwella.com/z1mk97p44qac/Regular.Show.The.Lost.Tapes.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FlnditG3X-MWbZ1I68DomuZedvhzzwZA",
     "https://downloadwella.com/bv2r4ynsgl58/Regular.Show.The.Lost.Tapes.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9ggrlsmHdg3yA3NviAxUMApdnxL1DK_9",
     "https://downloadwella.com/5g0kk8udeotz/Regular.Show.The.Lost.Tapes.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mXFYV6lhtvePQnAHqjdihhwbNdHo7EmN",
-    "https://downloadwella.com/wqt0fen013eg/Regular.Show.The.Lost.Tapes.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZXckLYAIhTMiJExRw9uhKUHD07z3pO3k"
+    "https://downloadwella.com/wqt0fen013eg/Regular.Show.The.Lost.Tapes.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZXckLYAIhTMiJExRw9uhKUHD07z3pO3k",
+    "https://downloadwella.com/tdzacyoq9ily/Off.Campus.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1WOBE1uFd2zQzclrGy1r4Q5hfZlvV9Dr",
+    "https://downloadwella.com/vd32cysh8vvq/Off.Campus.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LtHEpr7xfeaCXGpZZ0TCJZheqdyYpHte",
+    "https://downloadwella.com/05avb546kvho/Off.Campus.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qN4fvpEZCAuSFrD8kjuSEqkdFd0QKVww",
+    "https://downloadwella.com/i6uewai2vkfd/Off.Campus.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LppPfB-PWc2aTCR2j0n1OfrPlHw8FKwS",
+    "https://downloadwella.com/r57wc7j0jhop/Off.Campus.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K3DVf75AsGB97tJhdg8oSc8S43pYYhi-",
+    "https://downloadwella.com/6k1mqz29g99h/Off.Campus.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hzLlLvY_ZoRCyFgtqWZIcLiVOHNUi5z4",
+    "https://downloadwella.com/w882md6r5l6s/Off.Campus.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kTqIe_MjdgUDmODuCbpAz4Didp_KtghM"
   }
 }
