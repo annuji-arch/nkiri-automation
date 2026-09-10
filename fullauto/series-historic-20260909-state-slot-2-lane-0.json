@@ -503,6 +503,13 @@
       "modified": "2026-05-05T09:59:40",
       "completed_at": 1789070505,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/privileges-s01-complete-foreign-tv-series/": {
+      "status": "partial",
+      "signature": "153102|https://thenkiri.com/privileges-s01-complete-foreign-tv-series/|2026-03-28T07:13:01|2026-05-01T10:27:31|{'rendered': 'Privileges S01 (Episode 6 Added) | Foreign TV Series'}",
+      "modified": "2026-05-01T10:27:31",
+      "completed_at": 1789071782,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1036,6 +1043,11 @@
     "https://downloadwella.com/6lx7dbiaanvz/The.Rookie.S08E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-7LkH04oMdn3XRqAcrfyPrcS95eG0_PM",
     "https://downloadwella.com/otzdgbidj8mc/The.Rookie.S08E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QzgDu8hjDwc1QfvSchljaD4c-Wo_wGsS",
     "https://downloadwella.com/qugxmiox5ocv/The.Rookie.S08E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fWrTm1aLxlNFWVkif-4L2MHRdCapLyhO",
-    "https://downloadwella.com/6rgdezoy2mwu/The.Rookie.S08E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ryq3tQt8QfC8Tkyag9iUW5gb0tFincDk"
+    "https://downloadwella.com/6rgdezoy2mwu/The.Rookie.S08E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ryq3tQt8QfC8Tkyag9iUW5gb0tFincDk",
+    "https://downloadwella.com/gqdz8azmmjnu/Privileges.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3GeeHsjtl_unkZe4RsnvJhfpfY9DTfcO",
+    "https://downloadwella.com/dbwcik4tnsdi/Privileges.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-vWC3xdizPs-GZqp6nGOaYcv1JiwH0iS",
+    "https://downloadwella.com/sdlgtdcz9jqr/Privileges.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ys5We9yKVCwU2jnpemka7OTaDeuuanfd",
+    "https://downloadwella.com/lppkx5dlnh6h/Privileges.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ORn3EpyNZkGKQ7Wsuu4KwUH66AyA7aNn",
+    "https://downloadwella.com/a37g02hgteqm/Privileges.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LMyy3riK2MkKE8-P3Rf6G0rsHYEY-K6D"
   }
 }
