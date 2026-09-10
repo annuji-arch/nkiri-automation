@@ -537,6 +537,13 @@
       "modified": "2026-05-25T09:04:56",
       "completed_at": 1789078396,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-ceo-club-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "150864|https://thenkiri.com/the-ceo-club-s01-complete-tv-series/|2026-02-23T15:02:24|2026-02-23T15:02:24|{'rendered': 'The CEO Club S01 (Complete) | TV Series'}",
+      "modified": "2026-02-23T15:02:24",
+      "completed_at": 1789079324,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1096,6 +1103,9 @@
     "https://downloadwella.com/sq838wh6j9vy/One.Piece.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/11-k1ZrbSvyv-A15Kqb6tDzHJ1SC0MWO",
     "https://downloadwella.com/sgoswk6jhsho/Marshals.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Pzba8j2cfnDU0vKA7ZdtlhxW8Uyvh8a9",
     "https://downloadwella.com/1hrpj4qvpbq3/Marshals.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GKUnn6AS4LS8bTZ7pWH-p-uWVY97D677",
-    "https://downloadwella.com/uaa1q4zalcaz/Marshals.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bPvvQQd_Rb_2aET_nX41P_mFKR0y8FTB"
+    "https://downloadwella.com/uaa1q4zalcaz/Marshals.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bPvvQQd_Rb_2aET_nX41P_mFKR0y8FTB",
+    "https://downloadwella.com/oayylprysk68/The.CEO.Club.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TvmIwGMk3HzM4kfi6bXfuNHf1o3zubAD",
+    "https://downloadwella.com/z7gfqypjrcko/The.CEO.Club.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WSJ8-GCZx7FyU6ASA-tEpFqYeFiWGZcw",
+    "https://downloadwella.com/9lcapv7rcut0/The.CEO.Club.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rChoLqDNFKIG7l4NQTOFZUwPlp2WVnJP"
   }
 }
