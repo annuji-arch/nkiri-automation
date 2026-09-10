@@ -516,6 +516,13 @@
       "signature": "152134|https://thenkiri.com/womans-hell-s01-complete-tv-series/|2026-03-13T12:49:23|2026-04-03T13:59:37|{'rendered': 'Woman’s Hell S01 (Episode 5 Added) | Foreign TV Series'}",
       "modified": "2026-04-03T13:59:37",
       "completed_at": 1789074256
+    },
+    "https://thenkiri.com/young-sherlock-complete-tv-series/": {
+      "status": "partial",
+      "signature": "151520|https://thenkiri.com/young-sherlock-complete-tv-series/|2026-03-05T14:51:00|2026-03-05T14:51:00|{'rendered': 'Young Sherlock (Complete) | TV Series'}",
+      "modified": "2026-03-05T14:51:00",
+      "completed_at": 1789076134,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1063,6 +1070,11 @@
     "https://downloadwella.com/haspszbpl8qu/Womens.Hell.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9gtU2b-uz_cYNsW18a2CDOgT4xc94TBZ",
     "https://downloadwella.com/1an8n8x9a5q0/Womens.Hell.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DnEhkvdvH_EmlDmQOVmHPtOHRH1b2Z5s",
     "https://downloadwella.com/8093mhw4fqk3/Womens.Hell.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VsjjSjQh9xsLpzbwjBsnz6Xr1urnjFfJ",
-    "https://downloadwella.com/im81q4nhx1mf/Womens.Hell.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5SzErKMH7q__D_XEBQB_MwIahmzW06jh"
+    "https://downloadwella.com/im81q4nhx1mf/Womens.Hell.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5SzErKMH7q__D_XEBQB_MwIahmzW06jh",
+    "https://downloadwella.com/bg5oyhxfczkz/Young.Sherlock.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hd2SfOz0zplqCDh9dEwC6NhGH1WC-mIi",
+    "https://downloadwella.com/tswxsvc1f2ue/Young.Sherlock.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_5M7UAY28mf_aAGJ1Tc_mM0ZbH9iBBYD",
+    "https://downloadwella.com/zjym5eqjdysw/Young.Sherlock.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/F4iQyK2FMl3y5ye_ZKCc9NICR0NmvtS_",
+    "https://downloadwella.com/k6vbeo0isj6w/Young.Sherlock.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gFoq35bmRcFZifWsx_q47CHmw4B70Sv2",
+    "https://downloadwella.com/yykmmp9zic56/Young.Sherlock.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X_7TZFpe4-2Rh6F9InqY2OTPLGf7iscg"
   }
 }
