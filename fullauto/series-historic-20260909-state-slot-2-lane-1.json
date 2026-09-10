@@ -440,6 +440,13 @@
       "modified": "2026-05-27T16:33:56",
       "completed_at": 1789053889,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dutton-ranch-complete-tv-series/": {
+      "status": "partial",
+      "signature": "157004|https://thenkiri.com/dutton-ranch-complete-tv-series/|2026-05-15T10:21:07|2026-07-03T10:36:20|{'rendered': 'Dutton Ranch (Episode 9 Added)  | TV Series'}",
+      "modified": "2026-07-03T10:36:20",
+      "completed_at": 1789058209,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -926,6 +933,12 @@
     "https://downloadwella.com/ha28rmkvapfq/Spider.Noir.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PlRNSJUnx8f0rAMQGEKszyO4j3h9jVlR",
     "https://downloadwella.com/s81d4i2ttsre/Spider.Noir.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uPJK5wJcMmx1zzwE8yGRjd52hO9k4ToC",
     "https://downloadwella.com/xfbwv4kde7qs/Spider.Noir.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x0z5U6Vch8lfkyz_nhl2Qr9m2rY4tE-G",
-    "https://downloadwella.com/6nxo2btvgulo/Spider.Noir.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S2HoMSBnsg_4nQAuxY50ZMtvGkDJuLPd"
+    "https://downloadwella.com/6nxo2btvgulo/Spider.Noir.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S2HoMSBnsg_4nQAuxY50ZMtvGkDJuLPd",
+    "https://downloadwella.com/5dcjmhgg2sxk/Dutton.Ranch.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bNBFNxf3NGKXvat5lHMV9wqXuF_128LW",
+    "https://downloadwella.com/bijeqmbb5t3y/Dutton.Ranch.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fMTJUiYLVubUwNY2iuc_yVVZqRLxRRG_",
+    "https://downloadwella.com/d8agg22a3olm/Dutton.Ranch.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZNtKCL5n9HWRdfFqeg5jDF8XIcOe52Py",
+    "https://downloadwella.com/mwaro6n9zv8n/Dutton.Ranch.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xjt23OBudgLj9IuzY1ZFZKvZFwInf6_q",
+    "https://downloadwella.com/knj2t0fft2n5/Dutton.Ranch.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Nhrdnd_0YvmCmxghf5qeqpfvvGeKOXE_",
+    "https://downloadwella.com/1q5um5kjc6lj/Dutton.Ranch.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dv3AiF7kCHhSa7bDpRfitJNW4vbuFf9j"
   }
 }
