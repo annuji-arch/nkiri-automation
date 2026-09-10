@@ -427,6 +427,12 @@
       "modified": "2026-06-08T12:57:20",
       "completed_at": 1789013839,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/tyler-perrys-zatima-s04-complete-tv-series/": {
+      "status": "done",
+      "signature": "158489|https://thenkiri.com/tyler-perrys-zatima-s04-complete-tv-series/|2026-06-03T17:45:31|2026-07-07T08:27:50|{'rendered': 'Tyler Perry’s Zatima S04 (Episode 20 Added)  | TV Series'}",
+      "modified": "2026-07-07T08:27:50",
+      "completed_at": 1789014910
     }
   },
   "series_links": {
@@ -843,6 +849,26 @@
     "https://downloadwella.com/2ncs5zwxzsu4/Alice.and.Steve.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n3mwhLfHMsRyUGcaOJbz-uPAsxgwuqgT",
     "https://downloadwella.com/1v8sdx19hfla/Alice.and.Steve.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z8XRBtg9OgN83UyS_JXSuwA6TEqfp1Hy",
     "https://downloadwella.com/ql5v04w4xwu7/Alice.and.Steve.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ReKZrY6lUZAyqXQY6HR--sYZKVmUpEY2",
-    "https://downloadwella.com/gv1dyas7irkd/Alice.and.Steve.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WR5hKQRRWnrxv1BuumwBKZLEmKj-N749"
+    "https://downloadwella.com/gv1dyas7irkd/Alice.and.Steve.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WR5hKQRRWnrxv1BuumwBKZLEmKj-N749",
+    "https://downloadwella.com/j2wxxnufdakp/Zatima.S04E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FYOMMKSJRZKUykvsFpNDGuQTFNyFCLBS",
+    "https://downloadwella.com/ai8wzz9ribrh/Zatima.S04E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uyIEGTDI3VuOYZOLiz6lfPEAMHYaZvFY",
+    "https://downloadwella.com/mhzm5gqwhe26/Zatima.S04E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SdxvPA3F59MuEEl-aZ8Ma285FBErgAgX",
+    "https://downloadwella.com/hyutpji3ixs0/Zatima.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uFaaEhWXsRVP0VCpGFAU6p33uGGG4Ix8",
+    "https://downloadwella.com/c57hwnisaws0/Zatima.S04E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dgn-Tl0deupDa4NCnDGpIFA8_qs-usAj",
+    "https://downloadwella.com/qqfo96prjb3k/Zatima.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OI8AmVHfQcajmBEVa-cEUw-g-iK2a-BW",
+    "https://downloadwella.com/f2og7w75yaxf/Zatima.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9mqH3tiHmdL20UCxwja-G34psvVi__U3",
+    "https://downloadwella.com/a8x39yntfuyj/Zatima.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oc1aklTrldtsdeRIRY0Q4dQ01Lxy4iyj",
+    "https://downloadwella.com/0gnfoqehn20r/Zatima.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bC-R8uGiZXhtwWflOThuuiJsNkO5KqzS",
+    "https://downloadwella.com/7u17nmqddnbg/Zatima.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZUNkbtFVSr_navcyrusLT2_aMPGva0TT",
+    "https://downloadwella.com/f02nwnkdivu8/Zatima.S04E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NrkXc64ZzEt0eWZytAtvZ9kI0u3yJEhw",
+    "https://downloadwella.com/zr7q1qr88ao6/Zatima.S04E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I73V7mLsU9o1mRPSEpRD7cy5vx46db27",
+    "https://downloadwella.com/ocgc4hguuz74/Zatima.S04E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TwCl08PXBJVQ3gHfaYkUwoyC9-CoihKT",
+    "https://downloadwella.com/xs7b1tlnitao/Zatima.S04E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y4IeB72O63XTTNovXWMX237UxUx1eruk",
+    "https://downloadwella.com/24zhuhs7qy6i/Zatima.S04E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/liiDljPeqBmQglLqtr0rtLQ6oljYUL9y",
+    "https://downloadwella.com/9gpnrxa20km9/Zatima.S04E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h9WiLDnQvGQd3rg3c_4Nmw7iAXPtCTYL",
+    "https://downloadwella.com/bdq8edhp9p1q/Zatima.S04E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bujk_hgWYFe2kcqEPZEYW9RxkhunXYDn",
+    "https://downloadwella.com/nq0kw8z6n7u8/Zatima.S04E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JWwbPpxKxxJnsgJQoQzEIH1lWXx3CEXX",
+    "https://downloadwella.com/lvshnn2z2dfz/Zatima.S04E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WV1GnMX7DYNaXEbHveyT--XFz398j5NI",
+    "https://downloadwella.com/bn537pnd3g6x/Zatima.S04E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hUxwG0iStE2DbL-Ctyqg61CrOk_o4Ap_"
   }
 }
