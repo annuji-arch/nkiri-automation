@@ -257,10 +257,10 @@
       "completed_at": 1788863277
     },
     "https://thenkiri.com/the-rookie-s04-complete-tv-series/": {
-      "status": "pending",
+      "status": "done",
       "signature": "153142|https://thenkiri.com/the-rookie-s04-complete-tv-series/|2026-03-28T12:00:40|2026-03-28T12:00:40|{'rendered': 'The Rookie S04 (Complete) | TV Series'}",
-      "attempts": 1,
-      "last_attempt": 1788865966.3660724
+      "modified": "2026-03-28T12:00:40",
+      "completed_at": 1789070974
     },
     "https://thenkiri.com/the-crow-girl-s02-complete-tv-series/": {
       "status": "done",
@@ -1027,6 +1027,7 @@
     "https://downloadwella.com/nswzt1oxesap/The.Bad.Guy.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W_3DsehgFchnL7GuuO9idB2yvwqtpZKZ",
     "https://downloadwella.com/0cjb0r0nmqjx/The.Bad.Guy.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O2TwM7ae3-xG50Ugi40VMfL-fihibzpg",
     "https://downloadwella.com/rdrgurtwwqa8/The.Bad.Guys.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c3ULcK_cFh8AlUMwk9IKP-eI6SKOOrRg",
-    "https://downloadwella.com/ryzwhdc75d29/The.Bad.Guy.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g9x0wU7wGeC1n3q3V2fy3Ta8prjxNBAc"
+    "https://downloadwella.com/ryzwhdc75d29/The.Bad.Guy.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g9x0wU7wGeC1n3q3V2fy3Ta8prjxNBAc",
+    "https://downloadwella.com/nbf9ck8yhxsa/The.Rookie.S02E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DO9R-h11hYireCPUaX6NWs171GkXttNY"
   }
 }
