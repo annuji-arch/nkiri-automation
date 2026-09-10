@@ -482,6 +482,13 @@
       "modified": "2026-05-25T13:13:30",
       "completed_at": 1789068325,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bandi-s01-complete-foreign-tv-series/": {
+      "status": "partial",
+      "signature": "154016|https://thenkiri.com/bandi-s01-complete-foreign-tv-series/|2026-04-10T08:03:20|2026-05-15T08:40:02|{'rendered': 'Bandi S01 (Complete) | Foreign TV Series'}",
+      "modified": "2026-05-15T08:40:02",
+      "completed_at": 1789068618,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1004,6 +1011,8 @@
     "https://downloadwella.com/3zjwxg1adcuq/BEEF.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nYVVl2aRonMugCrdw6FH6rwrzkw7Y0MS",
     "https://downloadwella.com/1v30192r2fmt/BEEF.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/15wjnDKHcHDnc_XwMyIfmQKAmD-7AY2u",
     "https://downloadwella.com/sjx91reoz3ms/BEEF.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z0Jd8MVbQF06jWiS08DwlEj78KQL0Phs",
-    "https://downloadwella.com/81r91xjfvvkt/BEEF.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RbhQu1PYtEbdQHqnq1GDFVkQrXoL9fCp"
+    "https://downloadwella.com/81r91xjfvvkt/BEEF.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RbhQu1PYtEbdQHqnq1GDFVkQrXoL9fCp",
+    "https://downloadwella.com/8idpgcdkxwjj/Bandi.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xr0EQBEKAD_F--jiFGYjUcE77T4Vvi02",
+    "https://downloadwella.com/1xobycp5dj6c/Bandi.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JBS3WMhVxv-e_GsR9AHZYDDmha46tznC"
   }
 }
