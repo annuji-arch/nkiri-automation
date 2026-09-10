@@ -475,6 +475,13 @@
       "modified": "2026-04-23T17:09:50",
       "completed_at": 1789061745,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bergerac-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "154892|https://thenkiri.com/bergerac-s01-complete-tv-series/|2026-04-20T14:15:49|2026-04-20T14:15:49|{'rendered': 'Bergerac S01 (Complete)  | TV Series'}",
+      "modified": "2026-04-20T14:15:49",
+      "completed_at": 1789063552,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -990,6 +997,10 @@
     "https://downloadwella.com/j5g5fm9hben0/Running.Point.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MkWKchMhcwjoyE6WW0xzQDZSY5Gigp-G",
     "https://downloadwella.com/cvzxirtp9x8w/Running.Point.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zYpRkUPDcjR-E0rZ64QAgikSt7a-K99r",
     "https://downloadwella.com/5vm6yo4r4l5v/Running.Point.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s6rzn2982Jqe840SgC5Jvl5jzU5zy5u3",
-    "https://downloadwella.com/qcuin4gjz1kj/Running.Point.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1mBpL9YYjGpa7m212zRGW6TsEUtaO1uN"
+    "https://downloadwella.com/qcuin4gjz1kj/Running.Point.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1mBpL9YYjGpa7m212zRGW6TsEUtaO1uN",
+    "https://downloadwella.com/7mvp0bfgyw7b/Bergerac.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OejK2hctZcXWJy7hnEIRo-G55VOHpwmP",
+    "https://downloadwella.com/8rp1isnozcks/Bergerac.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0pqHfdGBZjPz-1ZYCMU9D4OifMFmTuVa",
+    "https://downloadwella.com/e64ere22wu81/Bergerac.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aAjGuvXFzWSuxMyHBFBM7PLkRLz1f-bU",
+    "https://downloadwella.com/3q5xudqjxh3f/Bergerac.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1bzXY8wZjLUTJrmdfkyBQ0ARejRVQA72"
   }
 }
