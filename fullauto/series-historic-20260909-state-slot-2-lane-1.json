@@ -454,6 +454,13 @@
       "modified": "2026-05-07T14:55:20",
       "completed_at": 1789060164,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/man-on-fire-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "155781|https://thenkiri.com/man-on-fire-s01-complete-tv-series/|2026-04-30T11:00:18|2026-05-01T10:10:38|{'rendered': 'Man on Fire S01 (Complete) | TV Series'}",
+      "modified": "2026-05-01T10:10:38",
+      "skipped_at": 1789060896,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
