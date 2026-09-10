@@ -406,6 +406,13 @@
       "signature": "159722|https://thenkiri.com/sugar-s02-complete-tv-series/|2026-06-19T09:08:39|2026-08-07T09:25:27|{'rendered': 'Sugar S02 (Episode 8 Added) | TV Series'}",
       "modified": "2026-08-07T09:25:27",
       "completed_at": 1789011877
+    },
+    "https://thenkiri.com/ground-up-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "159449|https://thenkiri.com/ground-up-s01-complete-tv-series/|2026-06-15T15:41:50|2026-06-15T15:41:50|{'rendered': 'Ground Up S01 (Complete) | TV Series'}",
+      "modified": "2026-06-15T15:41:50",
+      "completed_at": 1789012623,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -806,6 +813,10 @@
     "https://downloadwella.com/ocajgezrdduf/Sugar.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XGCVDMM1G1K0FmqGbT3VSzAmUMrkafk9",
     "https://downloadwella.com/7lcezok3nuvy/Sugar.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EIZlWmOh_Ut4X31OzkyhAw_Foa7aQ9mK",
     "https://downloadwella.com/15opm0xnmkfy/Sugar.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I_xMvqP-cd96ICL5St3WK73UWmJ1ih-7",
-    "https://downloadwella.com/jhvw4t2guu4u/Sugar.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dlxRawcoiStAliBZTlxwwko26EnyHGQc"
+    "https://downloadwella.com/jhvw4t2guu4u/Sugar.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dlxRawcoiStAliBZTlxwwko26EnyHGQc",
+    "https://downloadwella.com/gpqmyop8je32/Ground.Up.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rwzk_btaHfNOYy6uq-TjHZqCuVJQzYZn",
+    "https://downloadwella.com/1zykwk48qpq4/Ground.Up.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q4IGWkTWIt0QvffT0YShA7QQcG7scayN",
+    "https://downloadwella.com/krk3dgbeh6cf/Ground.Up.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ub27pK95S2EYKdIKk1P_z8LxP1izEclH",
+    "https://downloadwella.com/vfpbgbrhcue4/Ground.Up.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qQXd6FmHER398x5H5Ucw4_gYE5nXBsFm"
   }
 }
