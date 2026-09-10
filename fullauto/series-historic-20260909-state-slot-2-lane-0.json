@@ -517,6 +517,13 @@
       "modified": "2026-03-23T14:41:51",
       "completed_at": 1789073255,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/day-one-s01-complete-foreign-tv-series/": {
+      "status": "partial",
+      "signature": "152335|https://thenkiri.com/day-one-s01-complete-foreign-tv-series/|2026-03-16T13:17:07|2026-03-16T13:19:38|{'rendered': 'Day One S01(Complete) | Foreign TV Series'}",
+      "modified": "2026-03-16T13:19:38",
+      "completed_at": 1789073998,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1062,6 +1069,9 @@
     "https://downloadwella.com/1xeiviwabh1p/Lucky.Luke.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6uS6FIuPmFtpbXZ4_vh1HwugmVAOr2mS",
     "https://downloadwella.com/va7l5wj71ta3/Lucky.Luke.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lNf74mkvTFGnbH8BwevyBbo5l5xrUGm4",
     "https://downloadwella.com/7kut9ebwsg6z/Lucky.Luke.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YkonNTmYifKD5rE2OVm2RPpW-4GMFQ8C",
-    "https://downloadwella.com/3g2qfbdcu83x/Lucky.Luke.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QU-3Js7zuxfgP8X0vwCqgNhsic3JoOAP"
+    "https://downloadwella.com/3g2qfbdcu83x/Lucky.Luke.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QU-3Js7zuxfgP8X0vwCqgNhsic3JoOAP",
+    "https://downloadwella.com/dpoy9acw5mr3/Day.One.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kFct85vccHNFNxqp9K5e-SI0rjqISo81",
+    "https://downloadwella.com/q284f67gij3v/Day.One.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aiOtUKD5U9w7maF1QkjafkDAHdkwT_Tl",
+    "https://downloadwella.com/niialigdqvif/Day.One.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9f4yFOj2nQmesQuA1JivffzkZLxs7BFn"
   }
 }
