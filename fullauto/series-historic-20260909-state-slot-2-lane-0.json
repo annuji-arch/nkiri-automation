@@ -482,6 +482,13 @@
       "modified": "2026-04-20T14:15:49",
       "completed_at": 1789063552,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/american-gladiators-s1-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "154609|https://thenkiri.com/american-gladiators-s1-complete-tv-series/|2026-04-17T15:59:57|2026-04-17T15:59:57|{'rendered': 'American Gladiators S1 (Episode 1 – 3 Added) | TV Series'}",
+      "modified": "2026-04-17T15:59:57",
+      "skipped_at": 1789063885,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
