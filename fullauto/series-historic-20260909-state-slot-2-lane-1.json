@@ -461,6 +461,13 @@
       "modified": "2026-05-01T10:10:38",
       "skipped_at": 1789060896,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/secret-service-complete-tv-series/": {
+      "status": "partial",
+      "signature": "155505|https://thenkiri.com/secret-service-complete-tv-series/|2026-04-27T12:29:23|2026-04-27T12:29:23|{'rendered': 'Secret Service (Complete)  | TV Series'}",
+      "modified": "2026-04-27T12:29:23",
+      "completed_at": 1789062010,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -961,6 +968,9 @@
     "https://downloadwella.com/xgm6raaskyn5/M.I.A.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k-0fii_99RPJPOM78E9udSITd4zHKfRi",
     "https://downloadwella.com/ritpwtoiz8fk/M.I.A.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jXaAgLgQL-m_Vc7SRBhk4cIJZ8F7nvrl",
     "https://downloadwella.com/n5vpsou8krs0/M.I.A.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7si0yfnc3NAFDvTX9CzcnR6wq-73bwyh",
-    "https://downloadwella.com/jkpxetirdre2/M.I.A.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LOLJJ7fLdd9YJ2JHZ6LB0IMNdn-cOJiN"
+    "https://downloadwella.com/jkpxetirdre2/M.I.A.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LOLJJ7fLdd9YJ2JHZ6LB0IMNdn-cOJiN",
+    "https://downloadwella.com/nz88vtfb130q/Secret.Service.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QSPNKjMY88nBnYzizFEiKnvBsqVSc6jr",
+    "https://downloadwella.com/rfwlts0b6uec/Secret.Service.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RkZR0Kf-6XbimC4Y_Q6BRXycFtTk5Apw",
+    "https://downloadwella.com/te8ssnldn08j/Secret.Service.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pH5XcGsA2PKlYJkjAiMLU_Zq8qTtImsM"
   }
 }
