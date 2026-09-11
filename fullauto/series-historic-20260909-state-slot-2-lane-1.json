@@ -737,7 +737,14 @@
       "completed_at": 1789141708,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-summerslam-2025-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-summerslam-2025-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/untamed-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "139705|https://thenkiri.com/untamed-s01-complete-tv-series/|2025-07-18T08:24:50|2025-07-18T08:24:50|{'rendered': 'UNTAMED S01 (Complete) | TV Series'}",
+      "modified": "2025-07-18T08:24:50",
+      "completed_at": 1789142648,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -1494,6 +1501,10 @@
     "https://downloadwella.com/hhdynztfdfaz/Fatal.Seduction.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ty_V279Lh5rjrc7zllko4Kyiuz3roZsr",
     "https://downloadwella.com/5bjw7uhrcq7t/Fatal.Seduction.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ji6vM-Ys6g37gwVKHr8Bk1qfKZCbvots",
     "https://downloadwella.com/jfjj1d0ecsl7/Fatal.Seduction.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/spuo_moYZhwWewlyhz-JH1kmjxTBO9Mo",
-    "https://downloadwella.com/rehyz68r7dxm/Fatal.Seduction.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MLev54qbi-XRBdmZe1jMM7f4ZfOTMzbi"
+    "https://downloadwella.com/rehyz68r7dxm/Fatal.Seduction.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MLev54qbi-XRBdmZe1jMM7f4ZfOTMzbi",
+    "https://downloadwella.com/n7jyofjm6a24/untamed.2025.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PsfMEvypC-Gy6O3W69u4q45fx8mTdXmW",
+    "https://downloadwella.com/zb1nq54zieul/untamed.2025.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BKQ5uZQxUJeuqsljTjIH7eauxQHmTms_",
+    "https://downloadwella.com/45c1z67kj5gm/untamed.2025.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_R8jAOI85Uv8VaK48mrKTnuRJkJHES8l",
+    "https://downloadwella.com/t2tmuxeqts47/untamed.2025.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cb7epcqertVpTcigxADJ8-TtI4CWQ7hQ"
   }
 }
