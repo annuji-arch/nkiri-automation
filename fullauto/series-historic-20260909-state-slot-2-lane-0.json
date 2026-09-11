@@ -894,6 +894,13 @@
       "modified": "2025-01-17T08:04:11",
       "skipped_at": 1789165108,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/goosebumps-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "129779|https://thenkiri.com/goosebumps-s02-complete-tv-series/|2025-01-10T11:21:05|2025-01-12T06:56:20|{'rendered': 'Goosebumps S02 (Complete) | TV Series'}",
+      "modified": "2025-01-12T06:56:20",
+      "skipped_at": 1789165530,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
