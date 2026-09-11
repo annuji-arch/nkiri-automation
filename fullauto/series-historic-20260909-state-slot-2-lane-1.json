@@ -645,6 +645,13 @@
       "modified": "2025-10-27T10:39:23",
       "completed_at": 1789108287,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-kardashians-s07-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "144483|https://thenkiri.com/the-kardashians-s07-complete-tv-series/|2025-10-23T07:53:56|2025-10-30T08:35:35|{'rendered': 'The Kardashians S07 (Episode 2 Added) | TV Series'}",
+      "modified": "2025-10-30T08:35:35",
+      "skipped_at": 1789108428,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
