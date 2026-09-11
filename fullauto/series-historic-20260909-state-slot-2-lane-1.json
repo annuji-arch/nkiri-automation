@@ -708,6 +708,13 @@
       "modified": "2025-11-19T08:57:15",
       "completed_at": 1789134686,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/task-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141868|https://thenkiri.com/task-s01-complete-tv-series/|2025-09-08T10:30:23|2025-10-20T09:24:55|{'rendered': 'Task S01 (Episode 7 Added)  | TV Series'}",
+      "modified": "2025-10-20T09:24:55",
+      "completed_at": 1789136770,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1443,6 +1450,11 @@
     "https://downloadwella.com/nnskkz9owbqa/The.Morning.Show.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RQbgVhEz1rmWzNllxjZQZHllHt4Ghuf1",
     "https://downloadwella.com/8ocdz8xatpr0/The.Morning.Show.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TzJE9JiR9xJ1tW3ClZaR2x9m1Ao0zgSD",
     "https://downloadwella.com/0he7zbp0i4jd/The.Morning.Show.2019.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1vDWc_3BYkN_ZrxGZHu1lyqyacwdw8gp",
-    "https://downloadwella.com/4a1lh1p03uke/The.Morning.Show.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PWBLZzpnZMAkrdyDPodHdedM2SPFaerN"
+    "https://downloadwella.com/4a1lh1p03uke/The.Morning.Show.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PWBLZzpnZMAkrdyDPodHdedM2SPFaerN",
+    "https://downloadwella.com/3z2oven5i7nk/Task.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5Lb9zxn-Jzn5qehOCJaMJE6dKtLJOKXB",
+    "https://downloadwella.com/gbz5kbp2aqwk/Task.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/84mqAJRnsz2M2gAS862VVlWpTTgWYb7X",
+    "https://downloadwella.com/5oc7ixb0spvu/Task.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/e75_ViH3rStppvoSNG8wY8UTZLZPDWc0",
+    "https://downloadwella.com/p2pc14ga3tpc/Task.S01E06.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/F5ksL4K0FysBTwJ0Fa19KtatXQgCmaLW",
+    "https://downloadwella.com/yy686zpuv97e/Task.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hBfe5grd8X-JccSt1gnYaydq2KGuBhN8"
   }
 }
