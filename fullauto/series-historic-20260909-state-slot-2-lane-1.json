@@ -591,6 +591,13 @@
       "signature": "148245|https://thenkiri.com/the-night-manager-s01-complete-tv-series/|2026-01-02T08:22:25|2026-01-02T08:22:25|{'rendered': 'The Night Manager S01 (Complete) | TV Series'}",
       "modified": "2026-01-02T08:22:25",
       "completed_at": 1789092735
+    },
+    "https://thenkiri.com/jasmine-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "147527|https://thenkiri.com/jasmine-s01-complete-tv-series/|2025-12-15T10:43:42|2026-01-09T15:46:19|{'rendered': 'Jasmine S01 (Episode 5 Added) | TV Series'}",
+      "modified": "2026-01-09T15:46:19",
+      "completed_at": 1789093905,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1198,6 +1205,9 @@
     "https://downloadwella.com/4u7iyyxrgl2t/The.Night.Manager.Uncensored.Edition.E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lrCVqn42-XBpjdb-vkbXD3hatBgFzcTJ",
     "https://downloadwella.com/0nwg0r0yo8sj/The.Night.Manager.Uncensored.Edition.E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5mUb30CRmju6vIYddft2wfh1P9eMG9W8",
     "https://downloadwella.com/fpha5vzg47qu/The.Night.Manager.Uncensored.Edition.E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vgNllgInd4WHNIBQXZhWZd26LneyDmW7",
-    "https://downloadwella.com/3l1r0gtah2zd/The.Night.Manager.Uncensored.Edition.E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6C38THQ2QAS8HWD6syqs3sTWivZ4rUV0"
+    "https://downloadwella.com/3l1r0gtah2zd/The.Night.Manager.Uncensored.Edition.E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6C38THQ2QAS8HWD6syqs3sTWivZ4rUV0",
+    "https://downloadwella.com/dr59b8ztj7xj/Jasmine.2025.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YREwBrH_11XhhaDOR73mefuVZe6_s88Q",
+    "https://downloadwella.com/oj73zczgczq9/Jasmine.2025.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yxAJEkqGXmcFIJNiWOUt87QwH56ZZmBB",
+    "https://downloadwella.com/0qau8milfwvq/Jasmine.2025.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Knl17-BbYnStFSNxHh6RL49YcsssGYg"
   }
 }
