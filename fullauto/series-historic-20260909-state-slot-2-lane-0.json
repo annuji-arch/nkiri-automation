@@ -702,6 +702,13 @@
       "modified": "2025-09-30T07:02:29",
       "completed_at": 1789118219,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-lowdown-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142609|https://thenkiri.com/the-lowdown-s01-complete-tv-series/|2025-09-24T10:59:32|2025-11-05T13:51:57|{'rendered': 'The Lowdown S01 (Episode 7 & 8 Added) | TV Series'}",
+      "modified": "2025-11-05T13:51:57",
+      "completed_at": 1789121297,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1398,6 +1405,13 @@
     "https://downloadwella.com/y970twv2hmwd/LEGO.Star.Wars.Rebuild.the.Galaxy.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TiFF-ggrExqXxmofD7_3WO9CbsoEOpSn",
     "https://downloadwella.com/qjzurpobcqce/LEGO.Star.Wars.Rebuild.the.Galaxy.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ETrBXfZN3-dLQzWqN_zy7RcVUJEEPG97",
     "https://downloadwella.com/n6du9mx3azug/LEGO.Star.Wars.Rebuild.the.Galaxy.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yx4FjKdLjLn3ww-DTUcTbGUOelWqQsBP",
-    "https://downloadwella.com/dc0dhw34zi7g/LEGO.Star.Wars.Rebuild.the.Galaxy.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KhDwOTu5ecMlnwWZbVN5r8nqV25dM_v8"
+    "https://downloadwella.com/dc0dhw34zi7g/LEGO.Star.Wars.Rebuild.the.Galaxy.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KhDwOTu5ecMlnwWZbVN5r8nqV25dM_v8",
+    "https://downloadwella.com/p84dyhfwkcts/The.Lowdown.2025.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nE8w55pLg-XCgOjknVduLyE-B-RZLlGK",
+    "https://downloadwella.com/yduw3yuot4rs/The.Lowdown.2025.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qDnMdcvLkxLo-1RhBXtwVIewXe2FhAEF",
+    "https://downloadwella.com/e1o97vrkm24w/The.Lowdown.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tBn8IDTXrcZDN46to6lRz4gHNVLNZHLd",
+    "https://downloadwella.com/vko1igaretqr/The.Lowdown.S01E04.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/xBQLyZWjtw3abZ1aF6L1n7dvrSPbgo-f",
+    "https://downloadwella.com/9g1nm9x3i837/The.Lowdown.2025.S01E05.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/pIGCwMRXSLO8-71Np2snZ-HzlIiopkIL",
+    "https://downloadwella.com/k4ff5m7v6945/The.Lowdown.2025.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jRKhxJBJOj6GhEwk07o7M5sWuKfOGGH9",
+    "https://downloadwella.com/azuix4r1h91j/The.Lowdown.2025.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_qAKjUoAVWkuY4UpPDY7MI2nPMtGj8fV"
   }
 }
