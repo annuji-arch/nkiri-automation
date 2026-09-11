@@ -579,6 +579,13 @@
       "modified": "2026-01-28T10:40:08",
       "skipped_at": 1789088484,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/steal-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "148987|https://thenkiri.com/steal-s01-complete-tv-series/|2026-01-21T19:44:29|2026-01-28T10:51:39|{'rendered': 'Steal S01 (Complete) | TV Series'}",
+      "modified": "2026-01-28T10:51:39",
+      "completed_at": 1789089123,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1165,6 +1172,7 @@
     "https://downloadwella.com/bf6lqw7tgh9r/How.to.Get.to.Heaven.From.Belfast.S01E04.(THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/6-vbjotzXPgMMj3UCeY3Tn85vwk2xIDc",
     "https://downloadwella.com/5z0yybohx4t7/How.to.Get.to.Heaven.From.Belfast.S01E05.(THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/WLt9JQF7PDb9y_kSSGvsLGdf64GzGKx1",
     "https://downloadwella.com/d3q1iwsbnw3n/How.to.Get.to.Heaven.From.Belfast.S01E06.(THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/iYcMpaiIPebB0O1UEJIRW2OA2oT6jwTV",
-    "https://downloadwella.com/m65on3juvd9m/How.to.Get.to.Heaven.From.Belfast.S01E08.(THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/hyDqphyeLOG2zBzxMvfUDCpiPQptjPcZ"
+    "https://downloadwella.com/m65on3juvd9m/How.to.Get.to.Heaven.From.Belfast.S01E08.(THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/hyDqphyeLOG2zBzxMvfUDCpiPQptjPcZ",
+    "https://downloadwella.com/ag9jj0d7znvz/Steal.S01E03.(THENKIRI.COM).REPACKED.mkv.html": "https://v1.vidfiles.com/d/0uxnxK-0zZ9Qb_HCcAd1w38-Fr_x9YwW"
   }
 }
