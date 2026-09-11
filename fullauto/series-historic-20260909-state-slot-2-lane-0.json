@@ -755,6 +755,13 @@
       "signature": "139971|https://thenkiri.com/washington-black-s01-complete-tv-series/|2025-07-23T12:24:14|2025-07-23T13:16:08|{'rendered': 'Washington Black S01 (Complete) | TV Series'}",
       "modified": "2025-07-23T13:16:08",
       "completed_at": 1789133710
+    },
+    "https://thenkiri.com/love-island-beyond-the-villa-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "139539|https://thenkiri.com/love-island-beyond-the-villa-s01-complete-tv-series/|2025-07-14T08:47:23|2025-08-29T09:51:15|{'rendered': 'Love Island: Beyond the Villa S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-08-29T09:51:15",
+      "completed_at": 1789134763,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1500,6 +1507,11 @@
     "https://downloadwella.com/noqa4nx711gk/Washington.Black.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IxD2EKBiKwPjNht0eDMg_vi8bY4Qxfsh",
     "https://downloadwella.com/03vv8se6izf0/Washington.Black.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IFhOky77hgYaXGSDQVpOL9AtxfQj3uRQ",
     "https://downloadwella.com/pxy9ojidtoi9/Washington.Black.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9-eVa_iBCuD7lKVZhZOf6y1bHP8n4TG6",
-    "https://downloadwella.com/dyrziozppqe8/Washington.Black.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OaVM_x-g0ouQe3_6BO7VQU5qEw7i-mra"
+    "https://downloadwella.com/dyrziozppqe8/Washington.Black.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OaVM_x-g0ouQe3_6BO7VQU5qEw7i-mra",
+    "https://downloadwella.com/0xu0lc3i6k3x/Love.Island.Beyond.The.Villa.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vrHmuDkFeVuleLadangbVTEYAz1cFiER",
+    "https://downloadwella.com/cfgpi4di6mh4/Love.Island.Beyond.the.Villa.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eRfD706N8dLfcZLNnTDnpfrKHmLzqqa0",
+    "https://downloadwella.com/2y2iphzj04hi/Love.Island.Beyond.the.Villa.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_lHfNs1KJ6OjfikUS9qpw_mUYeqmWsZ-",
+    "https://downloadwella.com/c8cco8w4iahl/Love.Island.Beyond.the.Villa.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nV0MqXAyFJQ9VengUG_fH0IMB-DLclPj",
+    "https://downloadwella.com/rjrzyscc3q40/Love.Island.Beyond.the.Villa.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WlmzSrtlcjCAG3JbfBmoz17WNrZiwNUj"
   }
 }
