@@ -783,6 +783,13 @@
       "modified": "2025-08-15T06:51:49",
       "completed_at": 1789139324,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/resident-alien-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "137789|https://thenkiri.com/resident-alien-s04-complete-tv-series/|2025-06-08T16:54:41|2025-08-11T08:39:08|{'rendered': 'Resident Alien S04 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-08-11T08:39:08",
+      "completed_at": 1789140323,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1542,6 +1549,10 @@
     "https://downloadwella.com/0ky9mqrw8sk7/ironheart.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hZU6vAqqZf4zDwY3hDAFxa8tDQA7l5jO",
     "https://downloadwella.com/1pw89cddbn2l/ironheart.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JYvW4Lb8_ZfOhgwGzE2n2DNNougBNc4u",
     "https://downloadwella.com/8bm28vergzg8/BMF.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f9qYO2VOoySbvba0htyhlyhyRw15S2ii",
-    "https://downloadwella.com/hwgvgiesoiqn/BMF.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J_0pW33Dk31LTyZTM_O_xfoO9y66VhD8"
+    "https://downloadwella.com/hwgvgiesoiqn/BMF.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J_0pW33Dk31LTyZTM_O_xfoO9y66VhD8",
+    "https://downloadwella.com/vjtc8jhrqayn/Resident.Alien.S04E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BKj_q8RFs1QZtreqBIw4BGCulI6-tdYO",
+    "https://downloadwella.com/i0yz4x5yyrj6/Resident.Alien.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vcU3yL5V_rAO8_poWM8ZKF2QORE_MP7G",
+    "https://downloadwella.com/sndmeb6nyusx/Resident.Alien.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zuVwtOzR2uG7KAz5dXmoS0lxFx5ChZTa",
+    "https://downloadwella.com/bdvm2ouuirx2/Resident.Alien.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K49jLVXWgTqzhDhvhZv9zUD6KK6-wlJf"
   }
 }
