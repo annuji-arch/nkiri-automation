@@ -660,6 +660,13 @@
       "signature": "144789|https://thenkiri.com/talamasca-the-secret-order-s01-complete-tv-series/|2025-10-26T11:58:29|2025-11-23T10:34:29|{'rendered': 'Talamasca: The Secret Order S01 (Episode 6 Added) | TV Series'}",
       "modified": "2025-11-23T10:34:29",
       "completed_at": 1789104800
+    },
+    "https://thenkiri.com/dark-s01-and-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "144394|https://thenkiri.com/dark-s01-and-s02-complete-tv-series/|2025-10-22T12:50:24|2025-10-22T12:50:24|{'rendered': 'Dark S01 and S02 (Complete) | TV Series'}",
+      "modified": "2025-10-22T12:50:24",
+      "completed_at": 1789107364,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1300,6 +1307,23 @@
     "https://downloadwella.com/cw3ldc7sqwb2/Talamasca.The.Secret.Order.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Uy1uPJCobmyxwfFSesAoeDEzkcTXyfus",
     "https://downloadwella.com/dpjkg7hq0udp/Talamasca.The.Secret.Order.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uDSuE8yWd-DVGidtZVqhDQY7APQ8P90f",
     "https://downloadwella.com/f2ajw5lh7lu8/Talamasca.The.Secret.Order.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bmrn5gzQi6Cg0mQCPZObnuspqSi_JOi3",
-    "https://downloadwella.com/4nwergt8fzuz/Talamasca.The.Secret.Order.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BPKT5eP9WDLTFEfnTwEKsAGcGssh9QY_"
+    "https://downloadwella.com/4nwergt8fzuz/Talamasca.The.Secret.Order.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BPKT5eP9WDLTFEfnTwEKsAGcGssh9QY_",
+    "https://downloadwella.com/p8imxweduq8e/DARK.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JfGJU2TTfbrchKUFWmj49nUy9B-iEEqQ",
+    "https://downloadwella.com/4qw8m0mm7hl3/DARK.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h3rU2lvEb-t5jYPFqqr2I7fvaFY2Hrl_",
+    "https://downloadwella.com/hds0k6jw6v4x/DARK.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z9oggUQWqPPcHsnuYeURARWOItj9fapY",
+    "https://downloadwella.com/v7hwj4ip0ygg/DARK.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6JBxGFDktEPTY7y2aqS1J9uH6m__9QF4",
+    "https://downloadwella.com/vat5dfhydxru/DARK.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1162EtUujeI6XuOriOTuat40UdMtv6uP",
+    "https://downloadwella.com/at86urgeixmn/DARK.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TyHGMxa4l3ooymUtZJOXsWeY_yEeEoP9",
+    "https://downloadwella.com/cxx2tentf6p9/DARK.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HEyk6lSSpT9HtYCzi3-9Nmp1S5Wt2Qqk",
+    "https://downloadwella.com/ew0bna9rk4hu/DARK.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EX5fBnPANNYHlQDlGGiLKcg9YOXc54vL",
+    "https://downloadwella.com/7jzjhehzmnkb/DARK.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WXdpCY3cwY7CCf10FVbPSLl4chmbGRfx",
+    "https://downloadwella.com/y3x1k6lo2rkz/DARK.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rg76B-psLeczi636LmmfyNYbrLD1iEJL",
+    "https://downloadwella.com/qy7vrkg6u416/Dark.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JhW7YnrA-k6qkpAFW6O5aLQ117zOXUUT",
+    "https://downloadwella.com/s7mobtt348cf/Dark.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9fOWx_VRNPfpfCKmwLzKqqoPZsvmaamw",
+    "https://downloadwella.com/9azw6gs5xr82/Dark.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oz6D2wvU-fh-aZdtfP45LIoFJc4VXSxi",
+    "https://downloadwella.com/s1bgu3uvpf29/Dark.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HZu4OtB7F6r2gzY_DAcVudKVPWBFA7h8",
+    "https://downloadwella.com/emm1yhdset8o/Dark.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wOXLUSz0TkaRUPNiCsZHKuZHPKWitzmL",
+    "https://downloadwella.com/bat3k3febv3k/Dark.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_BYc_TpXORNChzVP-6tHuOyrea3TU2r-",
+    "https://downloadwella.com/2q3ena3ges8f/Dark.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_UAWC2Zqoe8AApyxPs-rW_pr6o5aHZ8L"
   }
 }
