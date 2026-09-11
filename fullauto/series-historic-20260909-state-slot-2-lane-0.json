@@ -915,6 +915,13 @@
       "modified": "2024-12-17T06:07:56",
       "completed_at": 1789168511,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/star-wars-skeleton-crew-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "126656|https://thenkiri.com/star-wars-skeleton-crew-s01-complete-tv-series/|2024-12-03T10:29:19|2025-01-15T09:00:19|{'rendered': 'Star Wars Skeleton Crew S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-01-15T09:00:19",
+      "completed_at": 1789169622,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1747,6 +1754,9 @@
     "https://downloadwella.com/25cwptnqfkzi/1992.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iVj9HtuH4BttJelDuqXxYYtJqBkFOtQh",
     "https://downloadwella.com/j3c4bq2oyzzj/1992.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ef0z642FSBeRyhams3dzPnlNRd_NIUvv",
     "https://downloadwella.com/aiu9x5rv30ax/1992.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G_PeFoGVPEA6XdlGWi68bTKRyt1lyEDD",
-    "https://downloadwella.com/cuvlilfmjesv/1992.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SkZi9zMsk2L_q-vRj3t0BxCyvWQNmpky"
+    "https://downloadwella.com/cuvlilfmjesv/1992.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SkZi9zMsk2L_q-vRj3t0BxCyvWQNmpky",
+    "https://downloadwella.com/9o6ufpb8cxnb/Star.Wars.Skeleton.Crew.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q6VUfEuJ0MhhxipLN6zLqErhJyuA5lNY",
+    "https://downloadwella.com/495pu8s0oy21/Star.Wars.Skeleton.Crew.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N1Fb6jeVXauznPrVGv5DBqWV2UdjVQNx",
+    "https://downloadwella.com/bow7o9kwc45w/Star.Wars.Skeleton.Crew.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/07TyzSfhb_Sp2BiMUNGE-S5N4FFeYsa-"
   }
 }
