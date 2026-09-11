@@ -887,6 +887,13 @@
       "modified": "2025-01-29T06:45:30",
       "skipped_at": 1789164742,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/xo-kitty-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "130059|https://thenkiri.com/xo-kitty-s02-complete-tv-series/|2025-01-17T08:04:11|2025-01-17T08:04:11|{'rendered': 'XO, Kitty S02 (Complete) | TV Series'}",
+      "modified": "2025-01-17T08:04:11",
+      "skipped_at": 1789165108,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
