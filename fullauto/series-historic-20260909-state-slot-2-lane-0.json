@@ -735,6 +735,13 @@
       "signature": "141304|https://thenkiri.com/upload-s04-complete-tv-series/|2025-08-25T10:46:51|2025-08-25T10:46:51|{'rendered': 'Upload S04 (Episode 1 – 4 Added) | TV Series'}",
       "modified": "2025-08-25T10:46:51",
       "completed_at": 1789128127
+    },
+    "https://thenkiri.com/peacemaker-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141143|https://thenkiri.com/peacemaker-s02-complete-tv-series/|2025-08-22T07:35:59|2025-10-10T07:11:19|{'rendered': 'Peacemaker S02 (Episode 8 Added)  | TV Series'}",
+      "modified": "2025-10-10T07:11:19",
+      "completed_at": 1789130198,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1458,6 +1465,11 @@
     "https://downloadwella.com/hcr3ezdoox9f/Upload.S04E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_A7J7bFklA0oPEYpxnz38x2u0lk4rOxQ",
     "https://downloadwella.com/g2wyuwhb60w4/upload.s04e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/40pz8_bad8NRPRPj-sl3majh1IhO5xm3",
     "https://downloadwella.com/q6l8zap488ug/upload.s04e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CQMkEdxqUXCi9bcAg7XMyfu_l50qfFZn",
-    "https://downloadwella.com/ljhgc4dfaje6/upload.s04e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NEDko5HD6wplvyBZJLgo2xZJMsPqrn9W"
+    "https://downloadwella.com/ljhgc4dfaje6/upload.s04e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NEDko5HD6wplvyBZJLgo2xZJMsPqrn9W",
+    "https://downloadwella.com/be8qq2oj412v/peacemaker.2022.s02e02.(NKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/QHK9cPiXLHrE5Nt494xWzX2-TdU2fYo5",
+    "https://downloadwella.com/1wx2mmoypdpf/peacemaker.2022.s02e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ql20UIfy-aDJgRmprKuym6K7e2vLnLXG",
+    "https://downloadwella.com/dmhy7r0cv3dr/Peacemaker.2022.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LcgSuLTupr5A0J9NP7M3lrwof3SBcFM3",
+    "https://downloadwella.com/p3jcz8f22vmn/Peacemaker.2022.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kWq-JNhiOX4Hc_WxbxlmF0lxqZ3BhGQa",
+    "https://downloadwella.com/v97tuwahi8tl/Peacemaker.2022.S02E08.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/746R3s8DpEejWIsVphjicNBW0QdvyXHs"
   }
 }
