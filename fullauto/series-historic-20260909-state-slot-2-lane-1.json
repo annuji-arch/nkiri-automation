@@ -625,6 +625,13 @@
       "modified": "2025-11-06T17:14:04",
       "completed_at": 1789102411,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/i-love-la-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145312|https://thenkiri.com/i-love-la-s01-complete-tv-series/|2025-11-03T07:45:25|2025-12-22T07:58:08|{'rendered': 'I Love LA S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-12-22T07:58:08",
+      "completed_at": 1789104003,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1262,6 +1269,10 @@
     "https://downloadwella.com/46jwhjy0r0qf/all.her.fault.s01e04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bHf5xONu3sUqcHkuFNXNKeo37fKd6AjF",
     "https://downloadwella.com/6u5vhraq05r0/all.her.fault.s01e05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-OVNC2xld1nZR89lrMkt7CwdvUfmWoeL",
     "https://downloadwella.com/l5kfdzpsg3te/all.her.fault.s01e06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S5phfCE9Rsb5nsQT9xCdONPcKodmMpNQ",
-    "https://downloadwella.com/kr0e7t1aly5x/all.her.fault.s01e07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ewbVSqJUSWl4Om5Et94CfUXXyxSRkznd"
+    "https://downloadwella.com/kr0e7t1aly5x/all.her.fault.s01e07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ewbVSqJUSWl4Om5Et94CfUXXyxSRkznd",
+    "https://downloadwella.com/drn7kalv8s6x/I.Love.LA.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lUUS2NvkvgFYCbL0klXJ4FBz4W63TeiV",
+    "https://downloadwella.com/udvtiabjz879/I.Love.LA.S01E06.(THENKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/Acmsi4UhofEjy769t7wbFkFfsGPcbJxj",
+    "https://downloadwella.com/xeczzkh9lhd9/I.Love.LA.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RNEtUYxWzgNj0pqoZ8vMQtFvQnCslev0",
+    "https://downloadwella.com/jw0tersmih8p/i.love.la.s01e08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xR9g3t_q3BkDsxfCmjhYYCjt5lVaHf88"
   }
 }
