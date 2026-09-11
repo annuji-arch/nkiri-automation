@@ -565,6 +565,13 @@
       "modified": "2026-02-12T18:25:28",
       "completed_at": 1789088254,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/black-mirror-s01-s02-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "149780|https://thenkiri.com/black-mirror-s01-s02-s03-complete-tv-series/|2026-02-05T18:13:23|2026-02-05T18:13:23|{'rendered': 'Black Mirror S01, S02 & S03 (Complete) | TV Series'}",
+      "modified": "2026-02-05T18:13:23",
+      "skipped_at": 1789088397,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
