@@ -786,6 +786,13 @@
       "modified": "2025-07-02T09:08:37",
       "completed_at": 1789165980,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/forever-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135742|https://thenkiri.com/forever-s01-complete-tv-series/|2025-05-12T03:42:26|2025-05-12T03:42:26|{'rendered': 'FOREVER S01 (Complete) | TV Series'}",
+      "modified": "2025-05-12T03:42:26",
+      "completed_at": 1789168412,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1604,6 +1611,10 @@
     "https://downloadwella.com/fkh6vgzmx6ps/Love.Island.S12E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5qGOFr-lJVbKwzWzYFx3lo7R7xrfO5J5",
     "https://downloadwella.com/5j13zaqgqu7k/Love.Island.S12E26.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bXLU26XU8M1X-6zAADSJVD50tlfdzSZN",
     "https://downloadwella.com/8yvbkdg28msb/Love.Island.S12E34.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LvZJuXOB5HHZnjG-CZN8Yc8GZveoUtn5",
-    "https://downloadwella.com/n9o2a76qzuae/Nine.Perfect.Strangers.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IRwW7mJk3EgjXfbvTZB81-Y3jvQkJb8U"
+    "https://downloadwella.com/n9o2a76qzuae/Nine.Perfect.Strangers.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IRwW7mJk3EgjXfbvTZB81-Y3jvQkJb8U",
+    "https://downloadwella.com/kz73r1gn9115/FOREVER.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eJw7-q2RGXRiw-0-G_ZHe_i12TVz4R-c",
+    "https://downloadwella.com/2etf9lim4wgz/FOREVER.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4dRKQrhd7q1kH0fZ-E16S_QaGLP-iGCT",
+    "https://downloadwella.com/nyrdh34d59vh/FOREVER.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U1N2D521q0ytsW-biXQxlKrQRbvuRXpN",
+    "https://downloadwella.com/aqru4el6e833/FOREVER.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X5G1Xx-9DAWjUNa4g5LORADO9MiV5Wcd"
   }
 }
