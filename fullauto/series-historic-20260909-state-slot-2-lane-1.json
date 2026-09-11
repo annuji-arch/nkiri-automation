@@ -652,6 +652,13 @@
       "modified": "2025-10-30T08:35:35",
       "skipped_at": 1789108428,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/spy-x-family-s03-complete-anime-tv-series/": {
+      "status": "partial",
+      "signature": "144301|https://thenkiri.com/spy-x-family-s03-complete-anime-tv-series/|2025-10-21T09:27:19|2025-11-24T07:16:24|{'rendered': 'Spy x Family S03 (Episode 4 – 8 Added) | Anime TV Series'}",
+      "modified": "2025-11-24T07:16:24",
+      "completed_at": 1789110178,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1314,6 +1321,10 @@
     "https://downloadwella.com/7qyk78fbadnm/The.Chosen.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Pf8YXEVFjkxLs7rpkKnfaLUgnDprXGVW",
     "https://downloadwella.com/4o7tfy3ixrop/The.Chosen.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lv_3SQQpokeAtW6glaoID-Qq1LUSAVBc",
     "https://downloadwella.com/nyx4oqe316fj/The.Chosen.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MA_TnH2LpQD0Z_wmpLfUOOKfGqNOdLOB",
-    "https://downloadwella.com/ilso6p3m51g2/The.Chosen.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IbiD46aDyZwZFmijJ7T6SaO-lwtVyUT8"
+    "https://downloadwella.com/ilso6p3m51g2/The.Chosen.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IbiD46aDyZwZFmijJ7T6SaO-lwtVyUT8",
+    "https://downloadwella.com/spsnope3pax1/SPY.x.FAMILY.S03E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r1pRmfmX2d1sFjGSU9CjPmQhqSNdjPPt",
+    "https://downloadwella.com/zas4q26noab2/Spy.x.Family.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PFIaBA_JPArTEbWZKTxQB62MrpDjjr-G",
+    "https://downloadwella.com/ptclpopxcky7/Spy.x.Family.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XPEllmDBliXfb-f-mO8OGzq7Aetik78H",
+    "https://downloadwella.com/60napqnv6sli/SPY.x.FAMILY.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cD28mUa3QBlvvB2YSFL3Gk24u8ErG7EK"
   }
 }
