@@ -872,6 +872,13 @@
       "modified": "2025-04-11T05:42:04",
       "completed_at": 1789164202,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/invincible-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "131052|https://thenkiri.com/invincible-s03-complete-tv-series/|2025-02-06T11:36:07|2025-03-13T12:46:44|{'rendered': 'Invincible S03 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-03-13T12:46:44",
+      "skipped_at": 1789164524,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
