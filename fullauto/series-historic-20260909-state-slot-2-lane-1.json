@@ -779,6 +779,13 @@
       "modified": "2025-05-30T07:22:27",
       "skipped_at": 1789164813,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/nine-perfect-strangers-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "136177|https://thenkiri.com/nine-perfect-strangers-s02-complete-tv-series/|2025-05-21T08:57:15|2025-07-02T09:08:37|{'rendered': 'Nine Perfect Strangers S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-07-02T09:08:37",
+      "completed_at": 1789165980,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1596,6 +1603,7 @@
     "https://downloadwella.com/4rlts0i7zea1/Love.Island.S12E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y2fvJU1lWTGD4NpTEr5fF8j2CDXus55Q",
     "https://downloadwella.com/fkh6vgzmx6ps/Love.Island.S12E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5qGOFr-lJVbKwzWzYFx3lo7R7xrfO5J5",
     "https://downloadwella.com/5j13zaqgqu7k/Love.Island.S12E26.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bXLU26XU8M1X-6zAADSJVD50tlfdzSZN",
-    "https://downloadwella.com/8yvbkdg28msb/Love.Island.S12E34.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LvZJuXOB5HHZnjG-CZN8Yc8GZveoUtn5"
+    "https://downloadwella.com/8yvbkdg28msb/Love.Island.S12E34.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LvZJuXOB5HHZnjG-CZN8Yc8GZveoUtn5",
+    "https://downloadwella.com/n9o2a76qzuae/Nine.Perfect.Strangers.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IRwW7mJk3EgjXfbvTZB81-Y3jvQkJb8U"
   }
 }
