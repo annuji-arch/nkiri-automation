@@ -841,11 +841,11 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/side-quest-s01-complete-tv-series/": {
-      "status": "partial",
+      "status": "skipped_unavailable",
       "signature": "133490|https://thenkiri.com/side-quest-s01-complete-tv-series/|2025-03-26T09:25:30|2025-03-26T09:25:30|{'rendered': 'Side Quest S01 (Complete) | TV Series'}",
       "modified": "2025-03-26T09:25:30",
-      "completed_at": 1789151546,
-      "reason": "one or more source links were unavailable"
+      "skipped_at": 1789151794,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
