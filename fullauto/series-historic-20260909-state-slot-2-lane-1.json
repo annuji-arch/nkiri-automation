@@ -772,6 +772,13 @@
       "modified": "2025-08-05T07:50:27",
       "completed_at": 1789164509,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-better-sister-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "136475|https://thenkiri.com/the-better-sister-s01-complete-tv-series/|2025-05-30T07:22:27|2025-05-30T07:22:27|{'rendered': 'The Better Sister S01 (Complete) | TV Series'}",
+      "modified": "2025-05-30T07:22:27",
+      "skipped_at": 1789164813,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
