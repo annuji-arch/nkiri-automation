@@ -681,6 +681,13 @@
       "modified": "2026-05-13T09:52:20",
       "completed_at": 1789114680,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-chair-company-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143696|https://thenkiri.com/the-chair-company-s01-complete-tv-series/|2025-10-13T11:05:42|2025-12-01T07:30:09|{'rendered': 'The Chair Company S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-12-01T07:30:09",
+      "completed_at": 1789115475,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1364,6 +1371,8 @@
     "https://downloadwella.com/bzk00fsnjpmm/NCIS.Sydney.S03E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zbwIxfgLJnoVIz70om7z2lO4UXtT4h0i",
     "https://downloadwella.com/hh86ma4ng9qc/NCIS.Sydney.S03E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fp7d-ePDEBueCSfoKTBseMsGNN-hhEY7",
     "https://downloadwella.com/3whg8ge6sybd/NCIS.Sydney.S03E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gAUtYJzhGaQfJZzoO4VDwFUluRmRUucm",
-    "https://downloadwella.com/erym25jyee1t/NCIS.Sydney.S03E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4aGkRXEHIvphC82yOsTKVSOXG8dZ4ta3"
+    "https://downloadwella.com/erym25jyee1t/NCIS.Sydney.S03E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4aGkRXEHIvphC82yOsTKVSOXG8dZ4ta3",
+    "https://downloadwella.com/kr7plrfxnzsg/The.Chair.Company.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UxfukKFG2HAgj7PfL5tJZM5E037TdGId",
+    "https://downloadwella.com/lhdlcb9a6xo7/The.Chair.Company.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cDUrITis5h6ucGI6vGpRSmpfrOL9RFY5"
   }
 }
