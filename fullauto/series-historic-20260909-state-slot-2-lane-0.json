@@ -797,6 +797,13 @@
       "modified": "2025-08-01T07:23:18",
       "completed_at": 1789142047,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bet-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135953|https://thenkiri.com/bet-s01-complete-tv-series/|2025-05-15T13:54:40|2025-05-15T13:54:40|{'rendered': 'Bet S01 (Complete) | TV Series'}",
+      "modified": "2025-05-15T13:54:40",
+      "completed_at": 1789143540,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1567,6 +1574,11 @@
     "https://downloadwella.com/3808eg66pftl/The.Chi.S07E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MtY0r7kvHE_q7tG0bzDwtENEUEubo25r",
     "https://downloadwella.com/yvz1vqhn61yo/the.chi.s07e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OtKCVuZph1vwlVUSYDzsGv8Dup1Fgo1d",
     "https://downloadwella.com/o9xsmut5esmp/The.Chi.S07E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/drQ_9GhIffP0I7G34FvQVaPVY99hMJbI",
-    "https://downloadwella.com/yx2egiu657ei/the.chi.s07e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uEbidU40rKla80pp8gODl5JeuaK8aT9S"
+    "https://downloadwella.com/yx2egiu657ei/the.chi.s07e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uEbidU40rKla80pp8gODl5JeuaK8aT9S",
+    "https://downloadwella.com/p15ye9a19yws/bet.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N8JEVMNc_yC4iaQBCC-dmsLqHSHIwm74",
+    "https://downloadwella.com/uck3rpy1c2ul/bet.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Jgwy4vxgqYAXQUANCAyLKfdD0T24Achc",
+    "https://downloadwella.com/xuwjcte3drb9/bet.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1BEnPrYGj9Jz_UDbOfEqkGPWPywCP_rO",
+    "https://downloadwella.com/7240j5jfes7i/bet.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AwqVq-_jlad_khalEOexvWmhmwnXe8fi",
+    "https://downloadwella.com/y95h4fupnmcp/bet.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4VzmmF3JcjwdqBSJ2rZAr4eTvJaSNNDZ"
   }
 }
