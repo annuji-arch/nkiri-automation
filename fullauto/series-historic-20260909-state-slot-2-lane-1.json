@@ -571,6 +571,13 @@
       "modified": "2026-04-04T06:39:06",
       "completed_at": 1789089566,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/a-knight-of-the-seven-kingdoms-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "148855|https://thenkiri.com/a-knight-of-the-seven-kingdoms-s01-complete-tv-series/|2026-01-19T07:02:47|2026-02-23T07:52:00|{'rendered': 'A Knight of the Seven Kingdoms S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2026-02-23T07:52:00",
+      "completed_at": 1789090336,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1164,6 +1171,9 @@
     "https://downloadwella.com/ksq5rl3n6ff3/Jujutsu.Kaisen.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eTDAeLkpsOYruUGYM1SHWGcZsTlv7MnS",
     "https://downloadwella.com/jzs7igxc07hj/Jujutsu.Kaisen.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g5SbpUgVleTxUkGHCIVMBauhFP0oe3Kb",
     "https://downloadwella.com/9jso9tc1pmo3/Jujutsu.Kaisen.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oQ0-cKMEYzMbz-y3LS3vkVHy1PEO5RF0",
-    "https://downloadwella.com/36x8h35u5eyd/Jujutsu.Kaisen.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G2-xhSpfveo3-PTDdBP699q1dEhWf_hl"
+    "https://downloadwella.com/36x8h35u5eyd/Jujutsu.Kaisen.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G2-xhSpfveo3-PTDdBP699q1dEhWf_hl",
+    "https://downloadwella.com/tarnbp82oxb7/A.Knight.of.the.Seven.Kingdoms.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nIQrQ3x8CsgOWInVoOrb3AMTiUepjJ_8",
+    "https://downloadwella.com/emdegy1zi3rh/A.Knight.of.the.Seven.Kingdoms.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z8spMZgYVKPC6oGgsM_aAjyeLtrYm3U2",
+    "https://downloadwella.com/01jgjgacmric/A.Knight.of.the.Seven.Kingdoms.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uKQXW0r-FfkpRzO6LwRGotCNbmbkfmw-"
   }
 }
