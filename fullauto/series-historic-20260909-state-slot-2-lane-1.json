@@ -694,6 +694,13 @@
       "modified": "2025-09-25T10:02:06",
       "skipped_at": 1789132752,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/black-rabbit-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "142404|https://thenkiri.com/black-rabbit-s01-complete-tv-series/|2025-09-19T16:36:47|2025-09-19T16:36:47|{'rendered': 'Black Rabbit S01 (Complete) | TV Series'}",
+      "modified": "2025-09-19T16:36:47",
+      "skipped_at": 1789132844,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
