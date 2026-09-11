@@ -839,6 +839,13 @@
       "modified": "2025-04-03T14:19:31",
       "completed_at": 1789151217,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/side-quest-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "133490|https://thenkiri.com/side-quest-s01-complete-tv-series/|2025-03-26T09:25:30|2025-03-26T09:25:30|{'rendered': 'Side Quest S01 (Complete) | TV Series'}",
+      "modified": "2025-03-26T09:25:30",
+      "completed_at": 1789151546,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1637,6 +1644,7 @@
     "https://downloadwella.com/njh89yjdbqhz/the.bondsman.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bfeNDyjr591WSEGJua1lU9JdUOx006C-",
     "https://downloadwella.com/joo0kbwd0dm6/the.bondsman.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0JaTLvhgF2LHRVKvQuQHaai_9tLTJ2hV",
     "https://downloadwella.com/7gt70ba3cqq4/the.bondsman.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dI2vkgBQIfDUqNwjaWdELuDaerktmTgN",
-    "https://downloadwella.com/mweoy5132n6q/the.bondsman.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KHoS6c2W8XV1Ye8VsEwlLdhPp_qPSQeY"
+    "https://downloadwella.com/mweoy5132n6q/the.bondsman.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KHoS6c2W8XV1Ye8VsEwlLdhPp_qPSQeY",
+    "https://downloadwella.com/l3f2f5ybvcqh/Side.Quest.2025.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bGWzdEm5AHa6jNyOZuMSsLr_mq4cVhHi"
   }
 }
