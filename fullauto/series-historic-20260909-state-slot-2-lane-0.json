@@ -688,6 +688,13 @@
       "modified": "2025-12-01T07:30:09",
       "completed_at": 1789115475,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/fate-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143415|https://thenkiri.com/fate-s01-complete-tv-series/|2025-10-09T11:53:50|2025-10-09T11:53:50|{'rendered': 'Fate S01 (Complete) | TV Series'}",
+      "modified": "2025-10-09T11:53:50",
+      "completed_at": 1789116322,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1373,6 +1380,10 @@
     "https://downloadwella.com/3whg8ge6sybd/NCIS.Sydney.S03E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gAUtYJzhGaQfJZzoO4VDwFUluRmRUucm",
     "https://downloadwella.com/erym25jyee1t/NCIS.Sydney.S03E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4aGkRXEHIvphC82yOsTKVSOXG8dZ4ta3",
     "https://downloadwella.com/kr7plrfxnzsg/The.Chair.Company.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UxfukKFG2HAgj7PfL5tJZM5E037TdGId",
-    "https://downloadwella.com/lhdlcb9a6xo7/The.Chair.Company.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cDUrITis5h6ucGI6vGpRSmpfrOL9RFY5"
+    "https://downloadwella.com/lhdlcb9a6xo7/The.Chair.Company.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cDUrITis5h6ucGI6vGpRSmpfrOL9RFY5",
+    "https://downloadwella.com/qd2hmt3u2jxq/Fate.S01E01.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/RSpuc3lWbJjaknvh6N1skSo6oya72V3i",
+    "https://downloadwella.com/0dv89fhygi3q/Fate.S01E02.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/YUmBPKavV7xlVPOt4mWplLgF4JPWz78K",
+    "https://downloadwella.com/0t1mx872gi0p/Fate.S01E03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/ECMKkl9Qodk-Jv5BuBvBZalewypke_-H",
+    "https://downloadwella.com/gsxk87o300wx/Fate.S01E04.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/6kNM-rSyee27jupz42WE3IUtiCCdHmYt"
   }
 }
