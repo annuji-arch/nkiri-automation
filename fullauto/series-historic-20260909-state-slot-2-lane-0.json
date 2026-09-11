@@ -709,6 +709,13 @@
       "modified": "2025-11-05T13:51:57",
       "completed_at": 1789121297,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/doc-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142308|https://thenkiri.com/doc-s02-complete-tv-series/|2025-09-18T06:56:45|2026-02-11T10:32:32|{'rendered': 'Doc S02 (Episode 15 Added) | TV Series'}",
+      "modified": "2026-02-11T10:32:32",
+      "completed_at": 1789126092,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1412,6 +1419,18 @@
     "https://downloadwella.com/vko1igaretqr/The.Lowdown.S01E04.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/xBQLyZWjtw3abZ1aF6L1n7dvrSPbgo-f",
     "https://downloadwella.com/9g1nm9x3i837/The.Lowdown.2025.S01E05.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/pIGCwMRXSLO8-71Np2snZ-HzlIiopkIL",
     "https://downloadwella.com/k4ff5m7v6945/The.Lowdown.2025.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jRKhxJBJOj6GhEwk07o7M5sWuKfOGGH9",
-    "https://downloadwella.com/azuix4r1h91j/The.Lowdown.2025.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_qAKjUoAVWkuY4UpPDY7MI2nPMtGj8fV"
+    "https://downloadwella.com/azuix4r1h91j/The.Lowdown.2025.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_qAKjUoAVWkuY4UpPDY7MI2nPMtGj8fV",
+    "https://downloadwella.com/r46qztdlicpr/Doc.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gDCtYH_iXKKTg7n1KOkckjazBdwgwuuL",
+    "https://downloadwella.com/ktpiohs8y8ad/Doc.2025.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hPAYZZyyAilwvcxEjSM6sHFKBQ1iloIH",
+    "https://downloadwella.com/m59r0efquw9i/Doc.2025.S02E03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/8mwnMm7AZYLhQXzJZyBaor432Iy2vsVk",
+    "https://downloadwella.com/7pfi2g198cmd/Doc.2025.S02E04.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/iPC8ev6IOgeuMVnaUdFrtgp2xFFl5_2S",
+    "https://downloadwella.com/mxf6sfiq1ska/Doc.2025.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_UExGnFM4mPIZLEGLWQSf-xXWDPOjO5t",
+    "https://downloadwella.com/lwxhq8v58sl6/Doc.US.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EtTu6j8flaff-fQhOGtw-UU72bA3PW7O",
+    "https://downloadwella.com/4e8ynp6y1mtc/Doc.2025.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FJM_aqhbPazKquCK5o1S17EcwouI7uwM",
+    "https://downloadwella.com/bdf9i8gzg2re/Doc.2025.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7x53IMX-QpuurC-t0UuFvanFw2mzccO4",
+    "https://downloadwella.com/o7bv20r24fjp/Doc.2025.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zYoiiS6Qtc_ZmiJnGgla_VcD35-_GZlg",
+    "https://downloadwella.com/rbkqro2hue0q/Doc.2025.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SREYecgCDgfmyU6cgrR34kCCkocPQ9KQ",
+    "https://downloadwella.com/8mhonb6c9vtw/Doc.2025.S02E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HslydulppCy3NCrAfKBI_nVL6zKcegcV",
+    "https://downloadwella.com/o5f97el9fado/Doc.2025.S02E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GE65qoX5OTz9Wz36yYkwQEyUKkPVAauB"
   }
 }
