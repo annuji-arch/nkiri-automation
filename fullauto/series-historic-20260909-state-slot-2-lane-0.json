@@ -901,6 +901,13 @@
       "modified": "2025-01-12T06:56:20",
       "skipped_at": 1789165530,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/anne-rices-mayfair-witches-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129599|https://thenkiri.com/anne-rices-mayfair-witches-s02-complete-tv-series/|2025-01-06T06:32:02|2025-03-03T09:40:18|{'rendered': 'Anne Rice’s Mayfair Witches S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-03-03T09:40:18",
+      "completed_at": 1789167480,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1727,6 +1734,8 @@
     "https://downloadwella.com/ocvyzm7t60im/suits.la.s01e13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l7-QbvVNUj3IZfTeNLAJj_I762YNv8ry",
     "https://downloadwella.com/40n48eb1cmyk/Yellowjackets.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IEymHLQ-JfJNB592dFbqPJM0LTB5htCq",
     "https://downloadwella.com/8pngj029bq7a/yellowjackets.s03e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pdsNSnAGxKHDoVHKOepPcSlCxuMevWTn",
-    "https://downloadwella.com/0why2gn8uyso/yellowjackets.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pw5n4ROdYRtPbcPkNjoUZyYWE0ih4gtc"
+    "https://downloadwella.com/0why2gn8uyso/yellowjackets.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pw5n4ROdYRtPbcPkNjoUZyYWE0ih4gtc",
+    "https://downloadwella.com/0vsndfoc4yox/Anne.Rices.Mayfair.Witches.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lGz1QLF_PtMAk5t9PAD2K9UunX0krSRe",
+    "https://downloadwella.com/wlqo7ika098p/mayfair.witches.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RsRYkCySYVXqWxkMTzXMjAAGvPTn0o8l"
   }
 }
