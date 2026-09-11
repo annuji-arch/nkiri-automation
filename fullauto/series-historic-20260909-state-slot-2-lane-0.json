@@ -722,6 +722,13 @@
       "signature": "141994|https://thenkiri.com/the-rumour-s01-complete-tv-series/|2025-09-11T09:59:23|2025-09-11T09:59:23|{'rendered': 'The Rumour S01 (Episode 1 Added) | TV Series'}",
       "modified": "2025-09-11T09:59:23",
       "completed_at": 1789126397
+    },
+    "https://thenkiri.com/the-runarounds-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141660|https://thenkiri.com/the-runarounds-s01-complete-tv-series/|2025-09-02T14:07:48|2025-09-02T14:07:48|{'rendered': 'The Runarounds S01 (Complete) | TV Series'}",
+      "modified": "2025-09-02T14:07:48",
+      "completed_at": 1789127194,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1438,6 +1445,9 @@
     "https://downloadwella.com/rbkqro2hue0q/Doc.2025.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SREYecgCDgfmyU6cgrR34kCCkocPQ9KQ",
     "https://downloadwella.com/8mhonb6c9vtw/Doc.2025.S02E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HslydulppCy3NCrAfKBI_nVL6zKcegcV",
     "https://downloadwella.com/o5f97el9fado/Doc.2025.S02E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GE65qoX5OTz9Wz36yYkwQEyUKkPVAauB",
-    "https://downloadwella.com/vdz3gu7u340b/The.Rumour.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BtWx2mi-ELjYCg3er6_Z2KI98hkouFcv"
+    "https://downloadwella.com/vdz3gu7u340b/The.Rumour.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BtWx2mi-ELjYCg3er6_Z2KI98hkouFcv",
+    "https://downloadwella.com/s957kb46r4fq/The.Runarounds.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qxmrw93JeRz1wIooOSGmi5GdReCWn5A5",
+    "https://downloadwella.com/di2kicgozydg/The.Runarounds.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uWg1oi-oGKn6UqjnArCDIopD2KwqDyCJ",
+    "https://downloadwella.com/9c31n7tcfyqs/The.Runarounds.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/504oDyNMkZtVYQxWaTifOGweujOVKlP6"
   }
 }
