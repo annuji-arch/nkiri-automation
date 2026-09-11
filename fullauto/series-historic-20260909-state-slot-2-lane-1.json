@@ -604,6 +604,13 @@
       "signature": "146961|https://thenkiri.com/ripple-s01-complete-tv-series/|2025-12-03T15:59:56|2025-12-03T15:59:56|{'rendered': 'Ripple S01 (Complete) | TV Series'}",
       "modified": "2025-12-03T15:59:56",
       "completed_at": 1789095640
+    },
+    "https://thenkiri.com/the-iris-affair-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "146510|https://thenkiri.com/the-iris-affair-s01-complete-tv-series/|2025-11-25T11:27:01|2025-11-25T11:27:01|{'rendered': 'The Iris Affair S01 (Complete) | TV Series'}",
+      "modified": "2025-11-25T11:27:01",
+      "completed_at": 1789097563,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1222,6 +1229,13 @@
     "https://downloadwella.com/tyag5d7lvfbm/Ripple.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BHZ_R_EZOs-0KGV7Msbn2LnsNsgUq3um",
     "https://downloadwella.com/nmwcx9a9kwo3/Ripple.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q02JLBIZYsyJA0H-EVEYe0QdS4wJYEr0",
     "https://downloadwella.com/87cz04qrmio1/Ripple.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rr4ApTuUbd7Ml_B1ANA2VqEzUBv4ovct",
-    "https://downloadwella.com/nzz3qrsyh0ua/Ripple.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XFKAdc2wm4IG5PNd9UnGO_Xa03QMP8_8"
+    "https://downloadwella.com/nzz3qrsyh0ua/Ripple.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XFKAdc2wm4IG5PNd9UnGO_Xa03QMP8_8",
+    "https://downloadwella.com/7bvlkb6shvzk/The.Irish.Affair.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CxqeaVgSG83WBYyVIeLl7JefPPDED_9F",
+    "https://downloadwella.com/gwy3wzamvi4g/The.Irish.Affair.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bS8iGlDMb2GFVWai_WZixCt-QotfAcdA",
+    "https://downloadwella.com/1zkh1akhouiu/The.Irish.Affair.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YrJ5fZyT02lMllxWCAHUSdNQVJS8C4ge",
+    "https://downloadwella.com/llvsfab6zrw4/The.Irish.Affair.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KRY2dq8erFM42tDp9_cm-L5eJnZzUwW3",
+    "https://downloadwella.com/ciu0syr6trbi/The.Irish.Affair.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B8EzeAU-LlrE4IGWtf9DubvcZ-05uaV2",
+    "https://downloadwella.com/bakfbatjgim9/The.Irish.Affair.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9Sbi_DmdJjjM_72emxOw_rIxpQnFuHkV",
+    "https://downloadwella.com/6qxmecuc21qk/The.Irish.Affair.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/liQNkV_3h-zq_kZ8zOxt6NsgIbC1kH-Y"
   }
 }
