@@ -633,6 +633,13 @@
       "signature": "145709|https://thenkiri.com/marines-s01-complete-tv-series/|2025-11-11T06:36:39|2025-11-11T06:36:39|{'rendered': 'MARINES S01 (Episode 1 – 4 Added) | TV Series'}",
       "modified": "2025-11-11T06:36:39",
       "completed_at": 1789098634
+    },
+    "https://thenkiri.com/squid-game-the-challenge-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145384|https://thenkiri.com/squid-game-the-challenge-s02-complete-tv-series/|2025-11-04T11:44:11|2025-11-19T12:24:18|{'rendered': 'Squid Game: The Challenge S02 (Complete) | TV Series'}",
+      "modified": "2025-11-19T12:24:18",
+      "completed_at": 1789100331,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1256,6 +1263,10 @@
     "https://downloadwella.com/zu2vc2p2mhpw/marines.s01e01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RuznEPVY-l2RfsRchfU0ewsQk27DPKd_",
     "https://downloadwella.com/wr50ik2hytkz/marines.s01e02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BqUJmQhaBwabn2hH_gv6dWydga0g2BqE",
     "https://downloadwella.com/stfvmy3objy6/Marines.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FICwS0gkHTw75YTDWXUVfJiyIRKUSOG0",
-    "https://downloadwella.com/o5nc7zyjvko9/Marines.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1c6UeraJZVFmFuFcfESxgfKug_eRzng1"
+    "https://downloadwella.com/o5nc7zyjvko9/Marines.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1c6UeraJZVFmFuFcfESxgfKug_eRzng1",
+    "https://downloadwella.com/rt59792yiupt/Squid.Game.The.Challenge.S02E01.(THEDRAMAKEY.COM).mkv.html": "https://v1.vidfiles.com/d/f-wC485Vw1ta464irUHzYaxsb2K5nWht",
+    "https://downloadwella.com/an7ink4k5lgn/squid.game.the.challenge.s02e06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GZuZTFD9mSoy4llP-FXIO-zjbuXZwtyF",
+    "https://downloadwella.com/wxjxq29gw4yl/squid.game.the.challenge.s02e07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tdB27I-NTyEWktq3D1QAEt78rvnU5GL1",
+    "https://downloadwella.com/0ns3ty5v66qd/Squid.Game.The.Challenge.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Dx7Z56ua1iPDlZK0LNsPWdW_Q7OVyBV"
   }
 }
