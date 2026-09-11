@@ -744,6 +744,13 @@
       "modified": "2025-07-18T08:24:50",
       "completed_at": 1789142648,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/foundation-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "139404|https://thenkiri.com/foundation-s03-complete-tv-series/|2025-07-11T08:41:45|2025-09-12T05:49:02|{'rendered': 'Foundation S03 (Complete) | TV Series'}",
+      "modified": "2025-09-12T05:49:02",
+      "completed_at": 1789144863,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1505,6 +1512,13 @@
     "https://downloadwella.com/n7jyofjm6a24/untamed.2025.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PsfMEvypC-Gy6O3W69u4q45fx8mTdXmW",
     "https://downloadwella.com/zb1nq54zieul/untamed.2025.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BKQ5uZQxUJeuqsljTjIH7eauxQHmTms_",
     "https://downloadwella.com/45c1z67kj5gm/untamed.2025.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_R8jAOI85Uv8VaK48mrKTnuRJkJHES8l",
-    "https://downloadwella.com/t2tmuxeqts47/untamed.2025.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cb7epcqertVpTcigxADJ8-TtI4CWQ7hQ"
+    "https://downloadwella.com/t2tmuxeqts47/untamed.2025.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cb7epcqertVpTcigxADJ8-TtI4CWQ7hQ",
+    "https://downloadwella.com/2016cesm7d8g/Foundation.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eYhuJDbmCWkoG392fyyKm3Mmuml43NLc",
+    "https://downloadwella.com/exwy5tboooyh/foundation.s03e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9t4nDzMc_eQz2Ob-Gk3D8zxklHih9bDS",
+    "https://downloadwella.com/flfyw0yrehaa/foundation.s03e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IjFc_B3cY-aJC3np2OYwg6eczqlAa1rm",
+    "https://downloadwella.com/qom09u55ypj2/foundation.s03e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n-LqysOHCEklvBmoEtvqLjyZ4vgiLqQC",
+    "https://downloadwella.com/i74p0iurra6d/foundation.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WUk7Cje6yGiYauwwxSIdMAPG_3V1AqxA",
+    "https://downloadwella.com/2u9mgg7x9x7z/Foundation.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AVCJC8FZKlOrJOZqEd4znCjTKVge-AtV",
+    "https://downloadwella.com/hq3mu9fhhaug/Foundation.2021.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ciQ4ceAhUfF2FxwbAbqbIbx9lzMDJpZo"
   }
 }
