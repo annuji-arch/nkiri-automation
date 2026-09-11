@@ -572,6 +572,13 @@
       "modified": "2026-02-05T18:13:23",
       "skipped_at": 1789088397,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/wonder-man-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "149331|https://thenkiri.com/wonder-man-s01-complete-tv-series/|2026-01-28T10:35:09|2026-01-28T10:40:08|{'rendered': 'Wonder Man S01 (Complete) | TV Series'}",
+      "modified": "2026-01-28T10:40:08",
+      "skipped_at": 1789088484,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
