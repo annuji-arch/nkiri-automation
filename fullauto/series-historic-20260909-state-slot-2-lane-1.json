@@ -715,6 +715,13 @@
       "modified": "2025-10-20T09:24:55",
       "completed_at": 1789136770,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/capoeiras-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "141521|https://thenkiri.com/capoeiras-s01-complete-tv-series/|2025-08-29T15:37:02|2025-08-29T15:37:02|{'rendered': 'Capoeiras S01 (Complete) | TV Series'}",
+      "modified": "2025-08-29T15:37:02",
+      "skipped_at": 1789137123,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
