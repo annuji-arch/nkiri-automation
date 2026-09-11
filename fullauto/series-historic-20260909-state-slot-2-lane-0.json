@@ -551,6 +551,13 @@
       "modified": "2026-02-19T08:59:34",
       "completed_at": 1789086848,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-blacklist-s10-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "150548|https://thenkiri.com/the-blacklist-s10-complete-tv-series/|2026-02-19T08:50:57|2026-02-19T08:50:57|{'rendered': 'The Blacklist S10 (Complete) | TV Series'}",
+      "modified": "2026-02-19T08:50:57",
+      "skipped_at": 1789087047,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
