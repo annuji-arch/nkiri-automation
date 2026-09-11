@@ -880,7 +880,14 @@
       "skipped_at": 1789164524,
       "reason": "no usable downloadable source link"
     },
-    "https://thenkiri.com/wwe-saturday-nights-main-event-xxxviii-2025-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-saturday-nights-main-event-xxxviii-2025-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/l-a-s-finest-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "130263|https://thenkiri.com/l-a-s-finest-s02-complete-tv-series/|2025-01-21T12:21:10|2025-01-29T06:45:30|{'rendered': 'L.A.’s Finest S02 (Complete) | TV Series'}",
+      "modified": "2025-01-29T06:45:30",
+      "skipped_at": 1789164742,
+      "reason": "no usable downloadable source link"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
