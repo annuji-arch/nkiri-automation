@@ -865,6 +865,13 @@
       "modified": "2025-05-19T12:49:16",
       "completed_at": 1789157792,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/yellowjackets-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "131464|https://thenkiri.com/yellowjackets-s03-complete-tv-series/|2025-02-14T18:34:02|2025-04-11T05:42:04|{'rendered': 'Yellowjackets S03 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-04-11T05:42:04",
+      "completed_at": 1789164202,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1688,6 +1695,9 @@
     "https://downloadwella.com/wihwj6rlp3h6/Suits.LA.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h4C3qmT7KZCkPKf6hZyzSxOp1fWQ_hOj",
     "https://downloadwella.com/brgdfdldo5pm/Suits.LA.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uFFqpUTY185PN4C-huZZvbpv6VOp-iCt",
     "https://downloadwella.com/ysu7c3o1rh0e/suits.la.s01e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oQsqQ8TTaDx9e4cwATskufuLPy1QCOdM",
-    "https://downloadwella.com/ocvyzm7t60im/suits.la.s01e13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l7-QbvVNUj3IZfTeNLAJj_I762YNv8ry"
+    "https://downloadwella.com/ocvyzm7t60im/suits.la.s01e13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l7-QbvVNUj3IZfTeNLAJj_I762YNv8ry",
+    "https://downloadwella.com/40n48eb1cmyk/Yellowjackets.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IEymHLQ-JfJNB592dFbqPJM0LTB5htCq",
+    "https://downloadwella.com/8pngj029bq7a/yellowjackets.s03e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pdsNSnAGxKHDoVHKOepPcSlCxuMevWTn",
+    "https://downloadwella.com/0why2gn8uyso/yellowjackets.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pw5n4ROdYRtPbcPkNjoUZyYWE0ih4gtc"
   }
 }
