@@ -908,6 +908,13 @@
       "modified": "2025-03-03T09:40:18",
       "completed_at": 1789167480,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/1992-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "128831|https://thenkiri.com/1992-s01-complete-tv-series/|2024-12-17T06:07:56|2024-12-17T06:07:56|{'rendered': '1992 S01 (Complete) | TV Series'}",
+      "modified": "2024-12-17T06:07:56",
+      "completed_at": 1789168511,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1736,6 +1743,10 @@
     "https://downloadwella.com/8pngj029bq7a/yellowjackets.s03e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pdsNSnAGxKHDoVHKOepPcSlCxuMevWTn",
     "https://downloadwella.com/0why2gn8uyso/yellowjackets.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pw5n4ROdYRtPbcPkNjoUZyYWE0ih4gtc",
     "https://downloadwella.com/0vsndfoc4yox/Anne.Rices.Mayfair.Witches.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lGz1QLF_PtMAk5t9PAD2K9UunX0krSRe",
-    "https://downloadwella.com/wlqo7ika098p/mayfair.witches.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RsRYkCySYVXqWxkMTzXMjAAGvPTn0o8l"
+    "https://downloadwella.com/wlqo7ika098p/mayfair.witches.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RsRYkCySYVXqWxkMTzXMjAAGvPTn0o8l",
+    "https://downloadwella.com/25cwptnqfkzi/1992.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iVj9HtuH4BttJelDuqXxYYtJqBkFOtQh",
+    "https://downloadwella.com/j3c4bq2oyzzj/1992.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ef0z642FSBeRyhams3dzPnlNRd_NIUvv",
+    "https://downloadwella.com/aiu9x5rv30ax/1992.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G_PeFoGVPEA6XdlGWi68bTKRyt1lyEDD",
+    "https://downloadwella.com/cuvlilfmjesv/1992.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SkZi9zMsk2L_q-vRj3t0BxCyvWQNmpky"
   }
 }
