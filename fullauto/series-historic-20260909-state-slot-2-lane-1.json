@@ -751,6 +751,13 @@
       "modified": "2025-09-12T05:49:02",
       "completed_at": 1789144863,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/hal-harper-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "138682|https://thenkiri.com/hal-harper-s01-complete-tv-series/|2025-06-26T09:53:06|2025-06-26T09:53:06|{'rendered': 'Hal & Harper S01 (Complete)  | TV Series'}",
+      "modified": "2025-06-26T09:53:06",
+      "completed_at": 1789146621,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1519,6 +1526,12 @@
     "https://downloadwella.com/qom09u55ypj2/foundation.s03e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n-LqysOHCEklvBmoEtvqLjyZ4vgiLqQC",
     "https://downloadwella.com/i74p0iurra6d/foundation.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WUk7Cje6yGiYauwwxSIdMAPG_3V1AqxA",
     "https://downloadwella.com/2u9mgg7x9x7z/Foundation.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AVCJC8FZKlOrJOZqEd4znCjTKVge-AtV",
-    "https://downloadwella.com/hq3mu9fhhaug/Foundation.2021.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ciQ4ceAhUfF2FxwbAbqbIbx9lzMDJpZo"
+    "https://downloadwella.com/hq3mu9fhhaug/Foundation.2021.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ciQ4ceAhUfF2FxwbAbqbIbx9lzMDJpZo",
+    "https://downloadwella.com/0n8had9dt70z/Hal.and.Harper.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NgsPo6aj08p9RmkR4uO9tVCohPOApj31",
+    "https://downloadwella.com/831r9pd2jf1t/Hal.and.Harper.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8RUtfRZ_OGP5TvvN2AitA-nzXyQp6TWg",
+    "https://downloadwella.com/yffelukmw44k/Hal.and.Harper.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hdvwAMwHmkjbeLwkzik5uYRskLT6RNoK",
+    "https://downloadwella.com/zdlrdoc8ihj9/Hal.and.Harper.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PBikFjS3dz5hR4fTqBCu9QbZN3IbsRkm",
+    "https://downloadwella.com/4st7kd8c3463/Hal.and.Harper.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UCNrGJe_2eIfRg4SjlTiDVPDvjdd2X4p",
+    "https://downloadwella.com/iplsrfg0vus6/Hal.and.Harper.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vSj0Gl0rYvoP6jDZDiAfSxvfeDHSQHFW"
   }
 }
