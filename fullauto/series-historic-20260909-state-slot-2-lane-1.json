@@ -551,6 +551,13 @@
       "modified": "2026-02-15T08:53:06",
       "skipped_at": 1789085943,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-lincoln-lawyer-s03-and-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "149959|https://thenkiri.com/the-lincoln-lawyer-s03-and-s04-complete-tv-series/|2026-02-10T07:27:23|2026-02-10T07:27:23|{'rendered': 'The Lincoln Lawyer S03 and S04 (Complete) | TV Series'}",
+      "modified": "2026-02-10T07:27:23",
+      "skipped_at": 1789086134,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
