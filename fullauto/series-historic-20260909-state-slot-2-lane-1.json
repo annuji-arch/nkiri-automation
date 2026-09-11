@@ -701,6 +701,13 @@
       "modified": "2025-09-19T16:36:47",
       "skipped_at": 1789132844,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-morning-show-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142253|https://thenkiri.com/the-morning-show-s04-complete-tv-series/|2025-09-17T07:57:13|2025-11-19T08:57:15|{'rendered': 'The Morning Show S04 (Complete) | TV Series'}",
+      "modified": "2025-11-19T08:57:15",
+      "completed_at": 1789134686,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1427,6 +1434,15 @@
     "https://downloadwella.com/6ri2i739da45/Monster.The.Ed.Gein.Story.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yl019mek8iv1x2dB3y075nrI4awCLFBZ",
     "https://downloadwella.com/qyq0jpc14lt9/Monster.The.Ed.Gein.Story.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w4oxA8EXyFBfRH9OGm073FcNhcUFO2OJ",
     "https://downloadwella.com/dnzxkdeff9r0/Monster.The.Ed.Gein.Story.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LNo84OOBCI4lyUvfrNUvAZxq_vRoBZ96",
-    "https://downloadwella.com/2cooccjah9um/Monster.The.Ed.Gein.Story.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bnao-zUp8myxwGSyC3xrwovOHxyIlzz3"
+    "https://downloadwella.com/2cooccjah9um/Monster.The.Ed.Gein.Story.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bnao-zUp8myxwGSyC3xrwovOHxyIlzz3",
+    "https://downloadwella.com/ltyqel6dbyir/The.Morning.Show.2019.S04E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iUYl_f3VavnMJ7ubzzh_UedhJApYj2FV",
+    "https://downloadwella.com/8knwezt38box/The.Morning.Show.S04E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ONKZ3jQl90vf2eTs8L848rMv5U3Cot_c",
+    "https://downloadwella.com/oh0i4kcsirt3/The.Morning.Show.2019.S04E04.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/JWASUYZjcxzlwdb9bJH5BAln1urYJPCK",
+    "https://downloadwella.com/nee7wlsrqk6p/The.Morning.Show.S04E05.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/KeZtBKHN5TDw3ykD8eq0JVFSO0tOl4Yr",
+    "https://downloadwella.com/sl2g5yev8ijs/The.Morning.Show.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6TQVYCHJJB55n6Qe6e2fuaXGeb6J4XcZ",
+    "https://downloadwella.com/nnskkz9owbqa/The.Morning.Show.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RQbgVhEz1rmWzNllxjZQZHllHt4Ghuf1",
+    "https://downloadwella.com/8ocdz8xatpr0/The.Morning.Show.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TzJE9JiR9xJ1tW3ClZaR2x9m1Ao0zgSD",
+    "https://downloadwella.com/0he7zbp0i4jd/The.Morning.Show.2019.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1vDWc_3BYkN_ZrxGZHu1lyqyacwdw8gp",
+    "https://downloadwella.com/4a1lh1p03uke/The.Morning.Show.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PWBLZzpnZMAkrdyDPodHdedM2SPFaerN"
   }
 }
