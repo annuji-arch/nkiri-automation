@@ -687,6 +687,13 @@
       "modified": "2025-10-03T12:43:45",
       "completed_at": 1789132659,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-hack-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "142669|https://thenkiri.com/the-hack-s01-complete-tv-series/|2025-09-25T10:02:06|2025-09-25T10:02:06|{'rendered': 'The Hack S01 (Complete) | TV Series'}",
+      "modified": "2025-09-25T10:02:06",
+      "skipped_at": 1789132752,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
