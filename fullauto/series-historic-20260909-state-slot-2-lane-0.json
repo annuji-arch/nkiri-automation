@@ -776,6 +776,13 @@
       "modified": "2025-07-02T09:00:37",
       "completed_at": 1789138336,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bmf-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "138011|https://thenkiri.com/bmf-s04-complete-tv-series/|2025-06-13T08:26:28|2025-08-15T06:51:49|{'rendered': 'BMF S04 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-08-15T06:51:49",
+      "completed_at": 1789139324,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1533,6 +1540,8 @@
     "https://downloadwella.com/lkd18aphe5aa/ironheart.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0ETBpkM4JOQi0leUJj59lPHcQxcB6Jeo",
     "https://downloadwella.com/0cg6b6s0vizc/ironheart.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8RoGi5p5XPpnOW4MvyTLIm9i7EImYs2K",
     "https://downloadwella.com/0ky9mqrw8sk7/ironheart.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hZU6vAqqZf4zDwY3hDAFxa8tDQA7l5jO",
-    "https://downloadwella.com/1pw89cddbn2l/ironheart.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JYvW4Lb8_ZfOhgwGzE2n2DNNougBNc4u"
+    "https://downloadwella.com/1pw89cddbn2l/ironheart.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JYvW4Lb8_ZfOhgwGzE2n2DNNougBNc4u",
+    "https://downloadwella.com/8bm28vergzg8/BMF.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f9qYO2VOoySbvba0htyhlyhyRw15S2ii",
+    "https://downloadwella.com/hwgvgiesoiqn/BMF.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J_0pW33Dk31LTyZTM_O_xfoO9y66VhD8"
   }
 }
