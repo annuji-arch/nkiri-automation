@@ -950,6 +950,13 @@
       "signature": "122563|https://thenkiri.com/heartstopper-s03-complete-tv-series/|2024-10-04T09:48:42|2024-10-04T09:48:42|{'rendered': 'Heartstopper S03 (Complete) | TV Series'}",
       "modified": "2024-10-04T09:48:42",
       "completed_at": 1789233979
+    },
+    "https://thenkiri.com/doctor-odyssey-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "122056|https://thenkiri.com/doctor-odyssey-s01-complete-tv-series/|2024-09-27T08:11:55|2025-05-16T13:13:19|{'rendered': 'Doctor Odyssey S01 (Episode 18 Added) | TV Series'}",
+      "modified": "2025-05-16T13:13:19",
+      "completed_at": 1789242208,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1941,6 +1948,10 @@
     "https://downloadwella.com/jn4dzftgll5q/Heartstopper.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_mD7AjLbSbmz3oO5TOZK-uXo6azJaxHJ",
     "https://downloadwella.com/4h4hpp9fardx/Heartstopper.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ehrCpwK63wXcoKQ9-fzu3r_oXNlJGfR8",
     "https://downloadwella.com/k1sn9o3ij25k/Heartstopper.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GxxGMMBQ4h8s4lQ9HMv9SA5jDVVDTkxx",
-    "https://downloadwella.com/9b9mnkif78i6/Heartstopper.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WUseu0cDGEPMF0su4CTf_0W46uyDo4Bm"
+    "https://downloadwella.com/9b9mnkif78i6/Heartstopper.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WUseu0cDGEPMF0su4CTf_0W46uyDo4Bm",
+    "https://downloadwella.com/evmpzqxcnmh8/Doctor.Odyssey.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4ealn2KVU2nHElj1KmZYoFd7UsWPcn7o",
+    "https://downloadwella.com/pbx41a3r0u15/Doctor.Odyssey.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nC20z7MQQ_I4ih0FG6It0TYgPliSue8T",
+    "https://downloadwella.com/oukkzycgyabm/Doctor.odyssey.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6D1FmCKAKiFSIHPB2BxLiwSl6nQG-N42",
+    "https://downloadwella.com/5tmaag7enpuk/Doctor.Odyssey.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eU9_Q4PjttHIuMCH84A38cjCmOHpc2eo"
   }
 }
