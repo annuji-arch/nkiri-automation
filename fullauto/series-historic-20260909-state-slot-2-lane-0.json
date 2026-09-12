@@ -1067,6 +1067,13 @@
       "signature": "114785|https://thenkiri.com/a-man-in-full-s01-complete-tv-series/|2024-05-02T15:50:18|2024-05-02T15:50:18|{'rendered': 'A Man in Full S01 (Complete) | TV Series'}",
       "modified": "2024-05-02T15:50:18",
       "completed_at": 1789225953
+    },
+    "https://thenkiri.com/dead-boy-detective-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "114423|https://thenkiri.com/dead-boy-detective-s01-complete-tv-series/|2024-04-26T09:58:17|2024-04-26T09:58:17|{'rendered': 'Dead Boy Detective S01 (Complete) | TV Series'}",
+      "modified": "2024-04-26T09:58:17",
+      "completed_at": 1789227225,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2034,6 +2041,11 @@
     "https://downloadwella.com/1mylmhmbxii3/A.Man.in.Full.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8gchwYk_DCLynO_Z_1sTw-EWc3RRNicC",
     "https://downloadwella.com/6y948y03ngxz/A.Man.in.Full.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6R2Ij7tOu8hZoLeTLyy2V4JUgEnp5fQ_",
     "https://downloadwella.com/c7apqsiyzo9e/A.Man.in.Full.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w66bW8B-zidJYVnpxyaIAYC2wDYnuhFx",
-    "https://downloadwella.com/dgm3yyeaza4d/A.Man.in.Full.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CmQC368StG0PT9JQUDlx1R50rMH-tW6v"
+    "https://downloadwella.com/dgm3yyeaza4d/A.Man.in.Full.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CmQC368StG0PT9JQUDlx1R50rMH-tW6v",
+    "https://downloadwella.com/c2disrrkeb6w/Dead.Boy.Detectives.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3rHKtLTr_cnEDgcMQpPhZix6dB2xagzb",
+    "https://downloadwella.com/9cm9ghpl7rn2/Dead.Boy.Detectives.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Am6h4tZN3avPGBr-cnUCbxry-N-AXjwI",
+    "https://downloadwella.com/0xi381a24bcv/Dead.Boy.Detectives.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LGoKImklB7RluHQ1nAvIuSD5NMyGH4AN",
+    "https://downloadwella.com/m5je4won9rew/Dead.Boy.Detectives.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3pRqb9LNSteK4cv9CIKVzxDdYGiOiMDx",
+    "https://downloadwella.com/dggr9ftj1h9d/Dead.Boy.Detectives.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kx36iD0LfqUf7Gg9TihtTx-HpOCZtCHz"
   }
 }
