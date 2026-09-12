@@ -950,6 +950,13 @@
       "modified": "2025-10-18T12:16:21",
       "completed_at": 1789186383,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/teacup-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "123024|https://thenkiri.com/teacup-s01-complete-tv-series/|2024-10-11T08:54:41|2024-11-08T09:35:03|{'rendered': 'Teacup S01 (Complete) | TV Series'}",
+      "modified": "2024-11-08T09:35:03",
+      "completed_at": 1789196018,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1819,6 +1826,8 @@
     "https://downloadwella.com/okq2fyav44g2/Teacup.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fWWdX5FH2CEc22FYFdEa2yYcabcjsV0q",
     "https://downloadwella.com/x5l1lhow41k7/Teacup.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/stlkx8lfcfCuu1zp0Rt2TZh3SXuWSeZk",
     "https://downloadwella.com/dohrcffsmroz/Teacup.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VIuWLZzHrzW_jA8wsY27ZuhGW6rJoi9G",
-    "https://downloadwella.com/py6mc22927sa/Teacup.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NWHjJdJ7mMm7-pOYzPhMwwqm0ABkEuxB"
+    "https://downloadwella.com/py6mc22927sa/Teacup.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NWHjJdJ7mMm7-pOYzPhMwwqm0ABkEuxB",
+    "https://downloadwella.com/0215ii57xpnt/Teacup.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q_IyoEOHb7KI2UPbDMtJ-7lNHzCHENqO",
+    "https://downloadwella.com/a1t6ptew464i/Teacup.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8AAbKXRAls3VTvQY1BAXexZTYDuNF_cx"
   }
 }
