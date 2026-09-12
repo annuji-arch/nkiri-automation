@@ -964,6 +964,13 @@
       "modified": "2025-04-19T18:04:33",
       "completed_at": 1789243987,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/tulsa-king-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121395|https://thenkiri.com/tulsa-king-s02-complete-tv-series/|2024-09-15T07:32:08|2024-11-17T08:11:42|{'rendered': 'Tulsa King S02 (Episode 9 Added) | TV Series'}",
+      "modified": "2024-11-17T08:11:42",
+      "completed_at": 1789244696,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1963,6 +1970,9 @@
     "https://downloadwella.com/es25kz23nwqt/Matlock.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iWx5I5Js4-QQCp1ICtreoyiF9WxAv7Ys",
     "https://downloadwella.com/5ipfbfvqrqt8/Matlock.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QJAN6MedX-HhsK9Kq3eXhgVCTK0zgs6X",
     "https://downloadwella.com/uhe04x2e9wqe/Matlock.2024.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Es8XFZTj9Gen-T0MlfR8nAm-ZIZerhJ6",
-    "https://downloadwella.com/i4196z7rwws5/matlock.2024.s01e16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zc1iadabkJWSNcKfK5xZI9h_4I_oKass"
+    "https://downloadwella.com/i4196z7rwws5/matlock.2024.s01e16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zc1iadabkJWSNcKfK5xZI9h_4I_oKass",
+    "https://downloadwella.com/k9z1emn604mh/Tulsa.King.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MSmPCoBF5XfO4PRuiZzajgZlXliUKCKV",
+    "https://downloadwella.com/b70skb24i2m0/Tulsa.King.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/84tkLwsnltEIPrUnnr7hcadtu87S8ox-",
+    "https://downloadwella.com/yisn270nrcni/Tulsa.King.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KAgUz7uRTbgbtOlstfwzRSRfRTtxvILn"
   }
 }
