@@ -1123,6 +1123,13 @@
       "modified": "2024-05-18T09:53:03",
       "completed_at": 1789238035,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/gwed-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "108232|https://thenkiri.com/gwed-s01-complete-tv-series/|2024-02-12T13:47:31|2024-02-12T13:47:31|{'rendered': 'G’wed S01 (Complete) | TV Series'}",
+      "modified": "2024-02-12T13:47:31",
+      "completed_at": 1789238805,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2130,6 +2137,8 @@
     "https://downloadwella.com/n80p94ox1rgn/Fire.Country.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rQytSONkQy-E7OkpmjbgQglNCWpv6SAH",
     "https://downloadwella.com/iukabvu403w9/Fire.Country.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0tzPtMgcFqrGdyFRHDScjJZer3oSLS0x",
     "https://downloadwella.com/ttgti6uaa4c9/Fire.Country.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AoWuj4foibpuWC9_dpQNIuo2k0JRJgr8",
-    "https://downloadwella.com/6iawvnpr6rzo/Fire.Country.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L9g2huyIKTN-ufStqAMXiAfvZM6xB2M3"
+    "https://downloadwella.com/6iawvnpr6rzo/Fire.Country.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L9g2huyIKTN-ufStqAMXiAfvZM6xB2M3",
+    "https://downloadwella.com/qqc8q2wlu60j/Gwed.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rYzroWpDHVrTXm2YUD-XvZbqtdKTQkyM",
+    "https://downloadwella.com/pnnqp8wncr1r/Gwed.S01E03.(NKIR.COM).mkv.html": "https://v1.vidfiles.com/d/rO8yPIWtpOE_uJ2eBVAfTcupoBfTbnYq"
   }
 }
