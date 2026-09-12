@@ -924,6 +924,13 @@
       "modified": "2024-11-13T07:59:37",
       "completed_at": 1789227453,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/expired-ssl-certificate-for-downloadwella/": {
+      "status": "skipped_unavailable",
+      "signature": "123943|https://thenkiri.com/expired-ssl-certificate-for-downloadwella/|2024-10-27T07:21:42|2025-12-02T05:48:42|{'rendered': 'Downloadwella Issue See How to Fix'}",
+      "modified": "2025-12-02T05:48:42",
+      "skipped_at": 1789227496,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
