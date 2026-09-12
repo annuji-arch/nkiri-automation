@@ -1081,6 +1081,13 @@
       "modified": "2024-05-17T07:42:11",
       "completed_at": 1789229576,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/parish-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "113131|https://thenkiri.com/parish-s01-complete-tv-series/|2024-04-01T06:19:22|2024-05-05T09:15:32|{'rendered': 'Parish S01 (Episodes 6 Added) | TV Series'}",
+      "modified": "2024-05-05T09:15:32",
+      "completed_at": 1789230863,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2062,6 +2069,8 @@
     "https://downloadwella.com/licnaj7lbixm/Franklin.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nQF2Lg3XC0tammx_i_pcuGvEubixD5KI",
     "https://downloadwella.com/40xe1qs9m4oa/Franklin.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8QqNpU6ksgt-Wkqg2Vm6wUQQAjzBTe1m",
     "https://downloadwella.com/rdjdezrwwug2/Franklin.2024.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fpBBQ60QOBXVVBhrvCqiN6Bz8f6dGlWS",
-    "https://downloadwella.com/a54pv2yuk6le/Franklin.2024.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5veX_M3Wr1Ey_4yEHAQ40OCwavf3mVJS"
+    "https://downloadwella.com/a54pv2yuk6le/Franklin.2024.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5veX_M3Wr1Ey_4yEHAQ40OCwavf3mVJS",
+    "https://downloadwella.com/6xenqgktjfqz/Parish.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HZCjlx4OlUPluso8rerosbGvmiSVVdnC",
+    "https://downloadwella.com/tybc32rocx9z/Parish.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wgusHcrzvnEfqSu2EjeC1nXPJz8sBu69"
   }
 }
