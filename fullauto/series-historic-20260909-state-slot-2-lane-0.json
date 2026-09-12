@@ -1204,8 +1204,14 @@
       "status": "partial",
       "signature": "101202|https://thenkiri.com/frasier-s01-episode-1-added-tv-series/|2023-10-12T09:40:11|2024-02-23T15:04:23|{'rendered': 'Frasier S01 (Episode 8 Added) | TV Series'}",
       "modified": "2024-02-23T15:04:23",
-      "completed_at": 1789254236,
+      "completed_at": 1789251253,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/chucky-s03-complete-tv-series/": {
+      "status": "done",
+      "signature": "100739|https://thenkiri.com/chucky-s03-complete-tv-series/|2023-10-05T08:54:35|2024-05-02T09:42:33|{'rendered': 'Chucky S03 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-05-02T09:42:33",
+      "completed_at": 1789257170
     }
   },
   "series_links": {
@@ -2251,13 +2257,21 @@
     "https://downloadwella.com/k03iedwgk3av/Acting.Good.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yxI-MtS-32aLS8w9f9Hw4Q5n9A4eoBso",
     "https://downloadwella.com/wrb7le8ixvtm/Acting.Good.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pABIyvtCuFA1Y__bylhpzzr7bUI5VMNE",
     "https://downloadwella.com/ej123s44n32r/Acting.Good.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OEtolkDmELQgIXATNDBuvyTeO_Kbc_TB",
-    "https://downloadwella.com/jfbsvxxcgkj2/Frasier.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xgZNF7zDSoy9RUDi5EqxHYMXBFZRq772",
-    "https://downloadwella.com/y06udb4val4s/Frasier.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DwAjf8yOuD5ibu0-BBPXfQdbJx0LopaN",
-    "https://downloadwella.com/q52a4reyzjyf/Frasier.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P2zYXJbsqVD_gUjSvqJAs6GoNq7nxV2s",
-    "https://downloadwella.com/i1fk76iefrze/Frasier.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6lL6pcfluymvzFL-gY8cYdHKqPKIZbTC",
-    "https://downloadwella.com/9c7sqnu1afnn/Frasier.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GwiomVZcbfaSce3qF6ZwU9EU3K7X3W6x",
-    "https://downloadwella.com/dc7ym8dqc8nd/Frasier.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QkCutBvq_UAl_SaKXHE8I5gjMW2q09lm",
+    "https://downloadwella.com/jfbsvxxcgkj2/Frasier.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oq_Jfz1tOoZovQYM2-leCXdLuqXTbQkB",
+    "https://downloadwella.com/y06udb4val4s/Frasier.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QX9scpWICKH2IVscCUlagSZgqAI47eXv",
+    "https://downloadwella.com/q52a4reyzjyf/Frasier.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sxOSQaG1_TGjiQPFJJVZ6o0bBTap-6A1",
+    "https://downloadwella.com/i1fk76iefrze/Frasier.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_q2-zpQ_dn_jE68KwGH0YxqVT9-9XEhk",
+    "https://downloadwella.com/9c7sqnu1afnn/Frasier.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lWzZ9y7LBWZcwBtX7_HIUSoc6JXFRN_N",
+    "https://downloadwella.com/dc7ym8dqc8nd/Frasier.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iMxEVyllcs1RLr9daWhb9C5UBdT-IxSk",
     "https://downloadwella.com/czsthncmqcmr/Frasier.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_d7_uzlxCSP0Do-gR4-N4osYXPp2tCkv",
-    "https://downloadwella.com/evbt2opt63l9/Frasier.2023.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sTJYiUH6GJ3RJcImWeBPW0BkFjNIbkU8"
+    "https://downloadwella.com/evbt2opt63l9/Frasier.2023.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sTJYiUH6GJ3RJcImWeBPW0BkFjNIbkU8",
+    "https://downloadwella.com/cj50noczr5d1/Chucky.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kzhxR7OuKsn2UYbVylbOLzK02H1dO6GU",
+    "https://downloadwella.com/v9iy5rk6dtud/Chucky.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/30NXtZzvdt7JLdEW-ucZFTsWlfd6rEDZ",
+    "https://downloadwella.com/73v8numk8dmh/Chucky.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fgMKP2lPDcU7_SQ8YNgdk9CXhyC-85fA",
+    "https://downloadwella.com/1hanbrfrl1qd/Chucky.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WvTkh4Izmm9u0yPiMhaVC-xXc0483kNB",
+    "https://downloadwella.com/6uzpyw5w0h7t/Chucky.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RwpPLmB42r1SoIL--0VNU5knFCmrQvML",
+    "https://downloadwella.com/w7rwmey3f0er/Chucky.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z1uA8S77xtPMAsdRKSZ0g54y4xkkLOaf",
+    "https://downloadwella.com/9d0jkkike6u6/Chucky.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PfkoTLFOqquoAFPHnZoR6bXz2WsDX34w",
+    "https://downloadwella.com/eko0vahohoh7/Chucky.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PfyKmfWK2HK66ISE9miud4qQpR_FF8E0"
   }
 }
