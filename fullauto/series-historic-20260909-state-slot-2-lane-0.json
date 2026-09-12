@@ -1171,6 +1171,13 @@
       "modified": "2024-01-10T08:30:43",
       "completed_at": 1789245562,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/beacon-23-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "102819|https://thenkiri.com/beacon-23-s01-complete-tv-series/|2023-11-12T07:28:11|2024-05-26T08:20:03|{'rendered': 'Beacon 23 S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-05-26T08:20:03",
+      "completed_at": 1789246413,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2199,6 +2206,12 @@
     "https://downloadwella.com/bpw8dxwn2iox/Power.Book.III.Raising.Kanan.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kR01gx998SU0rLb_iXwOxpUu6Abuf7up",
     "https://downloadwella.com/5x41qil4op2r/Power.Book.III.Raising.Kanan.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JHosHYNaq9QTmrRwKvbc-ae1PatIR5hx",
     "https://downloadwella.com/ybdgpxk3mwjf/Fargo.S05E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PL0uEan2J2t3JbxQFKZ9t6r8mAgCqSo1",
-    "https://downloadwella.com/vtobl2f35isr/Fargo.S05E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q3cr4CwCJiZYkW5saTJH8RZYp4CheoGS"
+    "https://downloadwella.com/vtobl2f35isr/Fargo.S05E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q3cr4CwCJiZYkW5saTJH8RZYp4CheoGS",
+    "https://downloadwella.com/tnsnc05pxqg8/Beacon.23.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0W1Q4gcdHmzG5OJuAYILLddWjGV7yOg7",
+    "https://downloadwella.com/79k6dcbw05g6/Beacon.23.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZmhBHJBTZLKJ8xaK7SdE5SnKraONMip6",
+    "https://downloadwella.com/vghi61jc3y1v/Beacon.23.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iBgA2LJCMPOddOQaLX5TY6_bJJl2yjq6",
+    "https://downloadwella.com/t14q8zmgyxow/Beacon.23.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lleIC9662m9q-4cvLmAoT6E6CuqlStvY",
+    "https://downloadwella.com/vw9d5r2x84gp/Beacon.23.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iaXSP_-r7dciz2_2Rug7SdkGoc7Bz0b3",
+    "https://downloadwella.com/q334yjls2znt/Beacon.23.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/krKhlDgGRM5deHEJG8eTulKx_AJveJku"
   }
 }
