@@ -841,6 +841,13 @@
       "signature": "132099|https://thenkiri.com/toxic-town-s01-complete-tv-series/|2025-02-27T15:41:49|2025-02-27T15:52:04|{'rendered': 'Toxic Town S01 (Complete) | TV Series'}",
       "modified": "2025-02-27T15:52:04",
       "completed_at": 1789187238
+    },
+    "https://thenkiri.com/surface-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "131802|https://thenkiri.com/surface-s02-complete-tv-series/|2025-02-21T09:17:07|2025-04-11T12:31:24|{'rendered': 'Surface S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-04-11T12:31:24",
+      "completed_at": 1789192352,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1707,6 +1714,8 @@
     "https://downloadwella.com/3wm26g78bqmq/toxic.town.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/owUSy0cImlHJBIcBGgce55T7CW6U0jEX",
     "https://downloadwella.com/mg915gr8jo4p/toxic.town.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3xUVnKEj6yK89Rdowfr-ZE6Lh77tdmpJ",
     "https://downloadwella.com/kky1fcoju7et/toxic.town.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6Z2PefDzqmH0PxJaQEEcpwhogkgyqxGT",
-    "https://downloadwella.com/jnow0p9l0m5p/toxic.town.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NHIPA3YvoOAuaiajT3r9DD4MDdWBTYpD"
+    "https://downloadwella.com/jnow0p9l0m5p/toxic.town.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NHIPA3YvoOAuaiajT3r9DD4MDdWBTYpD",
+    "https://downloadwella.com/oecuqln9e8aq/Surface.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8OYLtPssUgo5ZmL2YanOMr4RBAAU5ZuJ",
+    "https://downloadwella.com/m6e7i5qolp27/Surface.2022.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZN2WcKFRquzTBRXxH-KyRKFmyIJVI34q"
   }
 }
