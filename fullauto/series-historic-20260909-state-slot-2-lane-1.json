@@ -801,7 +801,13 @@
       "completed_at": 1789172147,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-hall-of-fame-2025-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-hall-of-fame-2025-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/the-diamond-heist-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "134531|https://thenkiri.com/the-diamond-heist-s01-complete-tv-series/|2025-04-17T09:14:51|2025-04-17T09:14:51|{'rendered': 'The Diamond Heist S01 (Complete) | TV Series'}",
+      "modified": "2025-04-17T09:14:51",
+      "completed_at": 1789173041
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -1628,6 +1634,9 @@
     "https://downloadwella.com/digm84qkwyha/careme.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hy8lGMo3sDJSeE-MgMPfpRsgfzJQo4M-",
     "https://downloadwella.com/bjhh9clun5xh/Careme.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Er-1DzVM9bJod3rPynQuMnk5koqJBxvh",
     "https://downloadwella.com/pm6dwfcw2c5m/careme.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aZH0fbpQKTFFPb8nERtDHVMk2fyVVRst",
-    "https://downloadwella.com/rtinstsbrklj/Careme.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J8w_7ttTAzVQ9anmbhuRZXArJcraSgwz"
+    "https://downloadwella.com/rtinstsbrklj/Careme.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J8w_7ttTAzVQ9anmbhuRZXArJcraSgwz",
+    "https://downloadwella.com/p58khk7co5q3/the.diamond.heist.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dkAEaTIf1lujAc71mBt0t15u1RmQIab9",
+    "https://downloadwella.com/e30zfvadxc1k/the.diamond.heist.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/du8xL7iud-Jgb9ZEdeh_RngCdwRsdMDZ",
+    "https://downloadwella.com/s4e7j55bqpz8/the.diamond.heist.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n-clnUWqynQlTdHu2aAbX9-LJGWEU1YR"
   }
 }
