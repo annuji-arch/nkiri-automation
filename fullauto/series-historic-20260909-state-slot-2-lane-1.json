@@ -793,6 +793,13 @@
       "modified": "2025-05-12T03:42:26",
       "completed_at": 1789168412,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/careme-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135239|https://thenkiri.com/careme-s01-complete-tv-series/|2025-04-30T09:18:32|2025-06-11T08:44:05|{'rendered': 'Careme S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-06-11T08:44:05",
+      "completed_at": 1789172147,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1615,6 +1622,11 @@
     "https://downloadwella.com/kz73r1gn9115/FOREVER.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eJw7-q2RGXRiw-0-G_ZHe_i12TVz4R-c",
     "https://downloadwella.com/2etf9lim4wgz/FOREVER.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4dRKQrhd7q1kH0fZ-E16S_QaGLP-iGCT",
     "https://downloadwella.com/nyrdh34d59vh/FOREVER.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U1N2D521q0ytsW-biXQxlKrQRbvuRXpN",
-    "https://downloadwella.com/aqru4el6e833/FOREVER.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X5G1Xx-9DAWjUNa4g5LORADO9MiV5Wcd"
+    "https://downloadwella.com/aqru4el6e833/FOREVER.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X5G1Xx-9DAWjUNa4g5LORADO9MiV5Wcd",
+    "https://downloadwella.com/u2qnv3zy15ka/careme.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KE398woYg-17TCkRVExf9yOYiMHFSgCb",
+    "https://downloadwella.com/digm84qkwyha/careme.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hy8lGMo3sDJSeE-MgMPfpRsgfzJQo4M-",
+    "https://downloadwella.com/bjhh9clun5xh/Careme.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Er-1DzVM9bJod3rPynQuMnk5koqJBxvh",
+    "https://downloadwella.com/pm6dwfcw2c5m/careme.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aZH0fbpQKTFFPb8nERtDHVMk2fyVVRst",
+    "https://downloadwella.com/rtinstsbrklj/Careme.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J8w_7ttTAzVQ9anmbhuRZXArJcraSgwz"
   }
 }
