@@ -1143,6 +1143,13 @@
       "modified": "2024-01-23T12:31:28",
       "skipped_at": 1789239981,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/boy-swallows-universe-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "106871|https://thenkiri.com/boy-swallows-universe-s01-complete-tv-series/|2024-01-12T08:41:40|2024-01-12T08:41:40|{'rendered': 'Boy Swallows Universe S01 (Complete) | TV Series'}",
+      "modified": "2024-01-12T08:41:40",
+      "completed_at": 1789240712,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2158,6 +2165,9 @@
     "https://downloadwella.com/rckbj07jgt41/Miseducation.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JiSM-n-YSLxeSORV-vC4TGOBrh4s9OuN",
     "https://downloadwella.com/ej9dtuj23eqh/Miseducation.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4AX6Q7az-m3clnnb4IGDv8i1ZaryrQak",
     "https://downloadwella.com/3vj4t514fzbn/Miseducation.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NX3X5T37tirt9xI_KVx5v_6Mv_iEYV1j",
-    "https://downloadwella.com/eeu4yyihb9fl/Miseducation.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QqI6lZC-N4qgCLvwpHSWhXWEX5lj9pGb"
+    "https://downloadwella.com/eeu4yyihb9fl/Miseducation.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QqI6lZC-N4qgCLvwpHSWhXWEX5lj9pGb",
+    "https://downloadwella.com/4trpt92x21kg/Boy.Swallows.Universe.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_hUUbW40lSISnOjyqRG4Ld12vq3GaA0d",
+    "https://downloadwella.com/yn4cohle1v3b/Boy.Swallows.Universe.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fceEbSdC7iWfpNDgSFdqxcAAxpMMHqBQ",
+    "https://downloadwella.com/ji1vk0l0xypb/Boy.Swallows.Universe.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Av_4o7LP5IDQGtnDzyTlYLXIiUYXERP8"
   }
 }
