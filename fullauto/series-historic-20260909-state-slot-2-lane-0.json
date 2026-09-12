@@ -1150,6 +1150,13 @@
       "modified": "2024-01-12T08:41:40",
       "completed_at": 1789240712,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/three-women-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "106393|https://thenkiri.com/three-women-s01-complete-tv-series/|2024-01-02T10:22:39|2024-02-24T20:24:58|{'rendered': 'Three Women S01 (Complete)  | TV Series'}",
+      "modified": "2024-02-24T20:24:58",
+      "completed_at": 1789241404,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2168,6 +2175,9 @@
     "https://downloadwella.com/eeu4yyihb9fl/Miseducation.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QqI6lZC-N4qgCLvwpHSWhXWEX5lj9pGb",
     "https://downloadwella.com/4trpt92x21kg/Boy.Swallows.Universe.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_hUUbW40lSISnOjyqRG4Ld12vq3GaA0d",
     "https://downloadwella.com/yn4cohle1v3b/Boy.Swallows.Universe.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fceEbSdC7iWfpNDgSFdqxcAAxpMMHqBQ",
-    "https://downloadwella.com/ji1vk0l0xypb/Boy.Swallows.Universe.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Av_4o7LP5IDQGtnDzyTlYLXIiUYXERP8"
+    "https://downloadwella.com/ji1vk0l0xypb/Boy.Swallows.Universe.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Av_4o7LP5IDQGtnDzyTlYLXIiUYXERP8",
+    "https://downloadwella.com/2dwbzkuelzl5/Three.Women.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q0n2R3-Q5r8YzM0pcxxyJcijhkkr36ww",
+    "https://downloadwella.com/owxw87wxbydn/Three.Women.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D4eX8EbV8R18PiJixFSez20GHSgPHrXf",
+    "https://downloadwella.com/kmo7d4cxcsjr/Three.Women.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-YYuonMwPIbea0eNMyvcYujgL3uOw56P"
   }
 }
