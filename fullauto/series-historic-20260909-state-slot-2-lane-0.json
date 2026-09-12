@@ -971,6 +971,13 @@
       "modified": "2024-10-01T07:13:02",
       "skipped_at": 1789198420,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/murder-in-a-small-town-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121946|https://thenkiri.com/murder-in-a-small-town-s01-complete-tv-series/|2024-09-25T12:32:17|2025-09-24T11:50:24|{'rendered': 'Murder in a Small Town S01 (Complete) | TV Series'}",
+      "modified": "2025-09-24T11:50:24",
+      "completed_at": 1789200029,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1848,6 +1855,10 @@
     "https://downloadwella.com/1hn8rplm0vzq/The.Franchise.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/st0wDKzOba8PaJRmpeXV155ds3Wgd-4U",
     "https://downloadwella.com/aev7nvijy7op/The.Franchise.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uACMhzRsjLK0HzC8_P_6cpa4O7CLxxn7",
     "https://downloadwella.com/tz96i53a5di3/The.franchise.2024.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TjA7YG-DMlICDbbCqJcan3POvNhhJq68",
-    "https://downloadwella.com/zy4guxl3teok/The.Franchise.2024.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8nA0ljUfJeyrBxVaaZgK6MTOgkOLTFpJ"
+    "https://downloadwella.com/zy4guxl3teok/The.Franchise.2024.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8nA0ljUfJeyrBxVaaZgK6MTOgkOLTFpJ",
+    "https://downloadwella.com/3tcg84ryvt1a/Murder.in.a.Small.Town.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BYbvhEQ41WvN-zT_XHelreyXc63cH2Is",
+    "https://downloadwella.com/7dv450i0oor6/Murder.in.a.Small.Town.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zRG3JBBKusfzCYRJUzhy8Ztu4uR5a10p",
+    "https://downloadwella.com/1vru5r1osowh/murder.in.a.small.town.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IScQlfRzg_VQ5CSGswEr2obe2M5z1t5J",
+    "https://downloadwella.com/c7yjmf5b5v3q/Murder.in.a.small.town.2024.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/boSFG6oobstiWFdWduWP4z1l5bykkVEc"
   }
 }
