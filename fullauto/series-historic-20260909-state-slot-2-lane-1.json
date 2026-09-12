@@ -821,6 +821,13 @@
       "modified": "2025-03-27T09:33:49",
       "completed_at": 1789180222,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/happy-face-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "133181|https://thenkiri.com/happy-face-s01-complete-tv-series/|2025-03-20T13:11:06|2025-05-01T06:46:44|{'rendered': 'Happy Face S01 (Episodes 7 & 8 Added) | TV Series'}",
+      "modified": "2025-05-01T06:46:44",
+      "completed_at": 1789182149,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1671,6 +1678,11 @@
     "https://downloadwella.com/jufwxwa4lmhj/Abbott.Elementary.S02E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QQmSuoaw9DFQG6HpJ5ShB62O03VKJSVF",
     "https://downloadwella.com/hdqg3tvmcok4/Abbott.Elementary.S02E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ShBzpqOv-o8iFiZyGGjYM-FZEj0q1jMx",
     "https://downloadwella.com/eah0i6o0u46r/Abbott.Elementary.S02E21.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/snBVj0iaYzt_TFlfNtoXes6SjLnqm5ZY",
-    "https://downloadwella.com/2jglch72wrgs/Abbott.Elementary.S02E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RImrfn7o2JgIHCFxFUGc8nv6ypEI_ROz"
+    "https://downloadwella.com/2jglch72wrgs/Abbott.Elementary.S02E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RImrfn7o2JgIHCFxFUGc8nv6ypEI_ROz",
+    "https://downloadwella.com/x1grsz600eee/Happy.Face.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tNnsBR51JKj2KxZix8MSykH3blBsVWk-",
+    "https://downloadwella.com/1ggeob6ti9ew/happy.face.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z9FoPAxtQriFlGCMDal9l9BR_pj1MmAb",
+    "https://downloadwella.com/58zuy7cp8x5t/Happy.Face.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NH1BhhVChMnykIM0Yz6UuXciUIwTokvg",
+    "https://downloadwella.com/re2x6ie3s0vv/Happy.Face.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FCSDe_85QZmKe9MG3TuwR2_T8FV6Nzh0",
+    "https://downloadwella.com/nb3cccm27029/Happy.Face.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QiFuMsjTcW3CIp_snQIil4LjkviU_WIW"
   }
 }
