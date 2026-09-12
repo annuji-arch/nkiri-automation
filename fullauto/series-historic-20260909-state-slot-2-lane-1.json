@@ -807,6 +807,13 @@
       "signature": "134531|https://thenkiri.com/the-diamond-heist-s01-complete-tv-series/|2025-04-17T09:14:51|2025-04-17T09:14:51|{'rendered': 'The Diamond Heist S01 (Complete) | TV Series'}",
       "modified": "2025-04-17T09:14:51",
       "completed_at": 1789173041
+    },
+    "https://thenkiri.com/black-mirror-s07-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134217|https://thenkiri.com/black-mirror-s07-complete-tv-series/|2025-04-10T11:55:47|2025-04-10T11:55:47|{'rendered': 'Black Mirror S07 (Complete) | TV Series'}",
+      "modified": "2025-04-10T11:55:47",
+      "completed_at": 1789173403,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1637,6 +1644,8 @@
     "https://downloadwella.com/rtinstsbrklj/Careme.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J8w_7ttTAzVQ9anmbhuRZXArJcraSgwz",
     "https://downloadwella.com/p58khk7co5q3/the.diamond.heist.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dkAEaTIf1lujAc71mBt0t15u1RmQIab9",
     "https://downloadwella.com/e30zfvadxc1k/the.diamond.heist.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/du8xL7iud-Jgb9ZEdeh_RngCdwRsdMDZ",
-    "https://downloadwella.com/s4e7j55bqpz8/the.diamond.heist.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n-clnUWqynQlTdHu2aAbX9-LJGWEU1YR"
+    "https://downloadwella.com/s4e7j55bqpz8/the.diamond.heist.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n-clnUWqynQlTdHu2aAbX9-LJGWEU1YR",
+    "https://downloadwella.com/9i74g9a9n687/black.mirror.s07e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1NLRJA2C32PwniQ4-o5JZ-68Z38JN0c_",
+    "https://downloadwella.com/05dnbr59w2vo/black.mirror.s07e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8UVPS9WMye6EYDkwwhsK_aXgseTTz9R7"
   }
 }
