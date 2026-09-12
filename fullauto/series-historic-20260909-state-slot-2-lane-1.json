@@ -937,6 +937,13 @@
       "signature": "123356|https://thenkiri.com/shrinking-s02-complete-tv-series/|2024-10-16T10:12:41|2024-12-24T15:05:36|{'rendered': 'Shrinking S02 (Complete) | TV Series'}",
       "modified": "2024-12-24T15:05:36",
       "completed_at": 1789229712
+    },
+    "https://thenkiri.com/sweetpea-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "122946|https://thenkiri.com/sweetpea-s01-complete-tv-series/|2024-10-10T06:52:40|2024-10-10T11:59:25|{'rendered': 'Sweetpea S01 (Complete) | TV Series'}",
+      "modified": "2024-10-10T11:59:25",
+      "completed_at": 1789231920,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1916,6 +1923,10 @@
     "https://downloadwella.com/q3clgeuvcivt/Shrinking.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L0NEu6ciM0DEXgwQD7hzCQPb2WmT-CLr",
     "https://downloadwella.com/evjndowjug58/Shrinking.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6CupokuppMxXmpC1qV4UmSGfGBHWhnj1",
     "https://downloadwella.com/8l0d7s5tvayp/Shrinking.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MUb3oJW3FEfLr24E0bbthmyRFYCbVjkX",
-    "https://downloadwella.com/qywwxd2q9kvh/Shrinking.S02E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cf8gp4QrEh__W4Ng6IhztcxutddtwZfv"
+    "https://downloadwella.com/qywwxd2q9kvh/Shrinking.S02E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cf8gp4QrEh__W4Ng6IhztcxutddtwZfv",
+    "https://downloadwella.com/7docp9yodlkd/Sweetpea.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ld5Oa4P820fifg0ggHVTPBz2UAMW5EPn",
+    "https://downloadwella.com/gr9d6vjhhku2/Sweetpea.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/syjcgfk3fs4uyav5xtQOI6pN_oh3pS93",
+    "https://downloadwella.com/rjnhx81lbxo5/Sweetpea.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7APrAvCWkgf5t12hgVTnNJFaaeLMbMcG",
+    "https://downloadwella.com/7xnhlraq3omu/Sweetpea.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dQBydyowc-gN5yv0JALvqn8bJDOC0m8V"
   }
 }
