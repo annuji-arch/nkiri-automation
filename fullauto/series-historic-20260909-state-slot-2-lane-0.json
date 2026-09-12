@@ -964,6 +964,13 @@
       "modified": "2024-11-25T08:34:06",
       "completed_at": 1789198341,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/so-long-marianne-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "122304|https://thenkiri.com/so-long-marianne-s01-complete-tv-series/|2024-10-01T07:13:02|2024-10-01T07:13:02|{'rendered': 'So Long, Marianne S01 (Episode 1 Added) | TV Series'}",
+      "modified": "2024-10-01T07:13:02",
+      "skipped_at": 1789198420,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
