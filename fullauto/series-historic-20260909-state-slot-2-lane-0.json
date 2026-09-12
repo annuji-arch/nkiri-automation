@@ -1185,6 +1185,13 @@
       "modified": "2023-11-05T12:29:13",
       "skipped_at": 1789246649,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/fellow-travelers-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101974|https://thenkiri.com/fellow-travelers-s01-complete-tv-series/|2023-10-27T10:12:58|2024-11-01T09:10:30|{'rendered': 'Fellow Travelers S01 (Complete) | TV Series'}",
+      "modified": "2024-11-01T09:10:30",
+      "completed_at": 1789248009,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2219,6 +2226,13 @@
     "https://downloadwella.com/vghi61jc3y1v/Beacon.23.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iBgA2LJCMPOddOQaLX5TY6_bJJl2yjq6",
     "https://downloadwella.com/t14q8zmgyxow/Beacon.23.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lleIC9662m9q-4cvLmAoT6E6CuqlStvY",
     "https://downloadwella.com/vw9d5r2x84gp/Beacon.23.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iaXSP_-r7dciz2_2Rug7SdkGoc7Bz0b3",
-    "https://downloadwella.com/q334yjls2znt/Beacon.23.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/krKhlDgGRM5deHEJG8eTulKx_AJveJku"
+    "https://downloadwella.com/q334yjls2znt/Beacon.23.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/krKhlDgGRM5deHEJG8eTulKx_AJveJku",
+    "https://downloadwella.com/jfz1hozercm3/Fellow.Travelers.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YW_y7g2qWzeYusseAyST9qUh72vuhADn",
+    "https://downloadwella.com/fhhofp5fp2zo/Fellow.Travelers.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y7-983GEnWhBR_LynV_rCkK_cTtBFd_S",
+    "https://downloadwella.com/t0hpdoc2h1vn/Fellow.Travelers.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ux8qod-m1SQGLRB-1hvxrqjOY4e7ar1Y",
+    "https://downloadwella.com/1o24asgc5kh4/Fellow.Travelers.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D-SaCfPP2OI6zYmqZoVRZAy7Tnk0uHND",
+    "https://downloadwella.com/w985f9mdfdkt/Fellow.Travelers.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/73kagfD5diye__eud5v1zm67T3R06eu4",
+    "https://downloadwella.com/lbjhg3m0s594/Fellow.Travelers.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xllvmTR2GTAgM-VWskxgG8178qo2INNZ",
+    "https://downloadwella.com/6ioki1if6sue/Fellow.Travelers.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RHMtSd9YjXIguaiMqIRjuDp6sVf7K4zb"
   }
 }
