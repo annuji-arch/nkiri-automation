@@ -1199,6 +1199,13 @@
       "modified": "2024-02-23T11:35:02",
       "completed_at": 1789249163,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/frasier-s01-episode-1-added-tv-series/": {
+      "status": "partial",
+      "signature": "101202|https://thenkiri.com/frasier-s01-episode-1-added-tv-series/|2023-10-12T09:40:11|2024-02-23T15:04:23|{'rendered': 'Frasier S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-02-23T15:04:23",
+      "completed_at": 1789251253,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2243,6 +2250,12 @@
     "https://downloadwella.com/6ioki1if6sue/Fellow.Travelers.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RHMtSd9YjXIguaiMqIRjuDp6sVf7K4zb",
     "https://downloadwella.com/k03iedwgk3av/Acting.Good.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yxI-MtS-32aLS8w9f9Hw4Q5n9A4eoBso",
     "https://downloadwella.com/wrb7le8ixvtm/Acting.Good.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pABIyvtCuFA1Y__bylhpzzr7bUI5VMNE",
-    "https://downloadwella.com/ej123s44n32r/Acting.Good.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OEtolkDmELQgIXATNDBuvyTeO_Kbc_TB"
+    "https://downloadwella.com/ej123s44n32r/Acting.Good.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OEtolkDmELQgIXATNDBuvyTeO_Kbc_TB",
+    "https://downloadwella.com/jfbsvxxcgkj2/Frasier.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oq_Jfz1tOoZovQYM2-leCXdLuqXTbQkB",
+    "https://downloadwella.com/y06udb4val4s/Frasier.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QX9scpWICKH2IVscCUlagSZgqAI47eXv",
+    "https://downloadwella.com/q52a4reyzjyf/Frasier.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sxOSQaG1_TGjiQPFJJVZ6o0bBTap-6A1",
+    "https://downloadwella.com/i1fk76iefrze/Frasier.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_q2-zpQ_dn_jE68KwGH0YxqVT9-9XEhk",
+    "https://downloadwella.com/9c7sqnu1afnn/Frasier.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lWzZ9y7LBWZcwBtX7_HIUSoc6JXFRN_N",
+    "https://downloadwella.com/dc7ym8dqc8nd/Frasier.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iMxEVyllcs1RLr9daWhb9C5UBdT-IxSk"
   }
 }
