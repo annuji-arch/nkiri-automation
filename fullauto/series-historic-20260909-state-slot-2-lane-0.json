@@ -1178,6 +1178,13 @@
       "modified": "2024-05-26T08:20:03",
       "completed_at": 1789246413,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/curses-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "102395|https://thenkiri.com/curses-s01-complete-tv-series/|2023-11-05T12:29:13|2023-11-05T12:29:13|{'rendered': 'Curses! S01 (Complete) | TV Series'}",
+      "modified": "2023-11-05T12:29:13",
+      "skipped_at": 1789246649,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
