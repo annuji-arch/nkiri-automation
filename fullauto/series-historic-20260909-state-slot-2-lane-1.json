@@ -862,6 +862,13 @@
       "modified": "2025-03-06T07:26:53",
       "completed_at": 1789195760,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/sight-unseen-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130504|https://thenkiri.com/sight-unseen-s02-complete-tv-series/|2025-01-26T08:31:34|2025-03-25T09:50:58|{'rendered': 'Sight Unseen S02 (Complete) | TV Series'}",
+      "modified": "2025-03-25T09:50:58",
+      "completed_at": 1789197259,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1741,6 +1748,10 @@
     "https://downloadwella.com/l6z8qb22um0s/NCIS.Sydney.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/av71owimQUy49C5jCSuTV2mVgVjoZzCO",
     "https://downloadwella.com/mj8fnk6rdlq0/NCIS.Sydney.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r0zs2BeKtIEli_pwIJBD_Fah7XDBH1Y3",
     "https://downloadwella.com/bj1bhzc6qx3q/School.Spirits.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_XE4x84AH_HNSpy8oavoOXmeqv5QW9nE",
-    "https://downloadwella.com/v5zqzywhamo9/school.spirits.2023.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ta9jF-wje1xPDfrQJ46TbsshlOppv8te"
+    "https://downloadwella.com/v5zqzywhamo9/school.spirits.2023.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ta9jF-wje1xPDfrQJ46TbsshlOppv8te",
+    "https://downloadwella.com/vas5c7q69mfd/Sight.Unseen.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MlhlEirdvy3Zal_Gmk0urxJR8-ZZf1ph",
+    "https://downloadwella.com/0n4asm25va22/Sight.Unseen.2024.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jdNUUX3k3nURye25-dnLaO13sf5zRGNw",
+    "https://downloadwella.com/2xqenhl1omgg/Sight.Unseen.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BEjyiQlbxBiV8An4PxuhoevCJjfjXdEm",
+    "https://downloadwella.com/qdihewmbxcj1/Sight.Unseen.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2MUraa0Q_QbaVChoIovhNTNk5ErhKD_K"
   }
 }
