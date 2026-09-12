@@ -957,6 +957,13 @@
       "modified": "2025-05-16T13:13:19",
       "completed_at": 1789242208,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/matlock-s01-episode-1-added-tv-series/": {
+      "status": "partial",
+      "signature": "121817|https://thenkiri.com/matlock-s01-episode-1-added-tv-series/|2024-09-23T09:40:49|2025-04-19T18:04:33|{'rendered': 'Matlock S01 (Episode 18 & 19 Added) | TV Series'}",
+      "modified": "2025-04-19T18:04:33",
+      "completed_at": 1789243987,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1952,6 +1959,10 @@
     "https://downloadwella.com/evmpzqxcnmh8/Doctor.Odyssey.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4ealn2KVU2nHElj1KmZYoFd7UsWPcn7o",
     "https://downloadwella.com/pbx41a3r0u15/Doctor.Odyssey.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nC20z7MQQ_I4ih0FG6It0TYgPliSue8T",
     "https://downloadwella.com/oukkzycgyabm/Doctor.odyssey.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6D1FmCKAKiFSIHPB2BxLiwSl6nQG-N42",
-    "https://downloadwella.com/5tmaag7enpuk/Doctor.Odyssey.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eU9_Q4PjttHIuMCH84A38cjCmOHpc2eo"
+    "https://downloadwella.com/5tmaag7enpuk/Doctor.Odyssey.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eU9_Q4PjttHIuMCH84A38cjCmOHpc2eo",
+    "https://downloadwella.com/es25kz23nwqt/Matlock.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iWx5I5Js4-QQCp1ICtreoyiF9WxAv7Ys",
+    "https://downloadwella.com/5ipfbfvqrqt8/Matlock.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QJAN6MedX-HhsK9Kq3eXhgVCTK0zgs6X",
+    "https://downloadwella.com/uhe04x2e9wqe/Matlock.2024.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Es8XFZTj9Gen-T0MlfR8nAm-ZIZerhJ6",
+    "https://downloadwella.com/i4196z7rwws5/matlock.2024.s01e16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zc1iadabkJWSNcKfK5xZI9h_4I_oKass"
   }
 }
