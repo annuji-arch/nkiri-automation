@@ -978,6 +978,13 @@
       "modified": "2025-09-24T11:50:24",
       "completed_at": 1789200029,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-penguin-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121630|https://thenkiri.com/the-penguin-s01-complete-tv-series/|2024-09-20T06:37:55|2024-11-11T08:47:31|{'rendered': 'The Penguin S01 (Complete) | TV Series'}",
+      "modified": "2024-11-11T08:47:31",
+      "completed_at": 1789201549,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1859,6 +1866,12 @@
     "https://downloadwella.com/3tcg84ryvt1a/Murder.in.a.Small.Town.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BYbvhEQ41WvN-zT_XHelreyXc63cH2Is",
     "https://downloadwella.com/7dv450i0oor6/Murder.in.a.Small.Town.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zRG3JBBKusfzCYRJUzhy8Ztu4uR5a10p",
     "https://downloadwella.com/1vru5r1osowh/murder.in.a.small.town.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IScQlfRzg_VQ5CSGswEr2obe2M5z1t5J",
-    "https://downloadwella.com/c7yjmf5b5v3q/Murder.in.a.small.town.2024.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/boSFG6oobstiWFdWduWP4z1l5bykkVEc"
+    "https://downloadwella.com/c7yjmf5b5v3q/Murder.in.a.small.town.2024.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/boSFG6oobstiWFdWduWP4z1l5bykkVEc",
+    "https://downloadwella.com/ftkswb7q5ipf/The.Penguin.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HiRsnYXMck-C_nL0DAIVy8kgnkI-MMot",
+    "https://downloadwella.com/sweqg6jc6hjp/The.Penguin.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oseiSHZz6TZnmkxFSj6SqrFkoswMyxOI",
+    "https://downloadwella.com/fetpqyedubg9/The.Penguin.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pSH6g5jWwplTEZ5AHI3nwGAQEwhMmVqM",
+    "https://downloadwella.com/2wk4konkz2pe/The.Penguin.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TDxAZ2p6MjP7bLRPiVTHlUhB5ezwijSk",
+    "https://downloadwella.com/k4itia1hd7m2/The.Penguin.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4phVTIH1D7rXz-XJmIKVttN7jFEXQ6yL",
+    "https://downloadwella.com/rc8wht66aua2/The.Penguin.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FF9ogCxGFAz540mrjAr_4ZHmT7UlCm35"
   }
 }
