@@ -1047,6 +1047,13 @@
       "modified": "2024-06-13T13:34:08",
       "completed_at": 1789268187,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dark-matter-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "115099|https://thenkiri.com/dark-matter-s01-complete-tv-series/|2024-05-08T09:22:38|2024-06-26T09:07:53|{'rendered': 'Dark Matter S01 (Episodes 9 Added) | TV Series'}",
+      "modified": "2024-06-26T09:07:53",
+      "completed_at": 1789269407,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2122,6 +2129,11 @@
     "https://downloadwella.com/zs1vfjsnigrz/Bridgerton.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/icxRVH4k4RaPqjTfsuTfIxqwdC2TJzpZ",
     "https://downloadwella.com/q1mgrzhlfrzm/Bridgerton.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O7VWJqQRiDpLFqon_qW7QdeoCpufg4Or",
     "https://downloadwella.com/bvgdncrcwyil/Bridgerton.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H69oPr_PlcpFq0LrfH-rjcLEJTwx63Ms",
-    "https://downloadwella.com/y5aqduurf2d7/Bridgerton.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7gORMBIqct9IiiXtdQJB8mmSKivt3Fgv"
+    "https://downloadwella.com/y5aqduurf2d7/Bridgerton.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7gORMBIqct9IiiXtdQJB8mmSKivt3Fgv",
+    "https://downloadwella.com/4tjho2xm8cpy/Dark.Matter.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dvoiqUPd2KSf0Cz9c6KwbaPouhIGAJj4",
+    "https://downloadwella.com/f7l00d3inqxb/Dark.Matter.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qtLV6frb9qfG6WNtOZVCRKqgEtSjXsI3",
+    "https://downloadwella.com/4tiuckg52krh/Dark.Matter.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HUrRMWx6rPZNzM_SEq8WgunhRcbSDcl0",
+    "https://downloadwella.com/h3iiyjrchtjo/Dark.Matter.2024.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UvlbRceXV9DCZvbfonjfo9UIaLOfPcBx",
+    "https://downloadwella.com/qpyzmaphrh37/Dark.Matter.2024.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cnWBwYs7vzkg2FGCURGxYOoha8EDGwoh"
   }
 }
