@@ -1213,6 +1213,13 @@
       "modified": "2024-05-02T09:42:33",
       "completed_at": 1789258735,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/shoresy-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100425|https://thenkiri.com/shoresy-s01-complete-tv-series/|2023-09-29T09:48:30|2023-12-22T07:36:29|{'rendered': 'Shoresy S02 (Episode 6 Added) | TV Series'}",
+      "modified": "2023-12-22T07:36:29",
+      "completed_at": 1789259738,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2273,6 +2280,10 @@
     "https://downloadwella.com/6uzpyw5w0h7t/Chucky.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RwpPLmB42r1SoIL--0VNU5knFCmrQvML",
     "https://downloadwella.com/w7rwmey3f0er/Chucky.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z1uA8S77xtPMAsdRKSZ0g54y4xkkLOaf",
     "https://downloadwella.com/9d0jkkike6u6/Chucky.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lk97JKybaHJAiujMbAEMnNRX5d4pODDx",
-    "https://downloadwella.com/eko0vahohoh7/Chucky.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NI6_JecF41o--KwArQT3dpYLj9sOltdO"
+    "https://downloadwella.com/eko0vahohoh7/Chucky.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NI6_JecF41o--KwArQT3dpYLj9sOltdO",
+    "https://downloadwella.com/0979fuayss03/Shoresy.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CCRXBM1xkaeGGWQiMtElUCuTlc-Cy-Ic",
+    "https://downloadwella.com/h664dmloesvu/Shoresy.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RR3aciaLc-TqaT0UOAFDX_CrrOzM-UUC",
+    "https://downloadwella.com/t1my9ui7aznm/Shoresy.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vqkGlGrjFwRccNgCQZZcS6mprnh3dtaL",
+    "https://downloadwella.com/gkzxx7ykroyn/Shoresy.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r5bFJOF2SBB3U1FJfye90oU8HQruSMdu"
   }
 }
