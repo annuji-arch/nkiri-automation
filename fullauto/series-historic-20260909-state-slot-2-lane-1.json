@@ -1081,6 +1081,13 @@
       "modified": "2024-05-02T06:03:07",
       "completed_at": 1789280541,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/manhunt-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "112390|https://thenkiri.com/manhunt-s01-complete-tv-series/|2024-03-15T10:52:17|2024-04-19T07:40:10|{'rendered': 'Manhunt S01 (Episodes 7 Added) | TV Series'}",
+      "modified": "2024-04-19T07:40:10",
+      "completed_at": 1789282483,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2187,6 +2194,11 @@
     "https://downloadwella.com/e9crt1vezc5s/We.Were.The.Lucky.Ones.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Hww5ldnkyPnIFxmGlcg5a6tqZaWA3XCl",
     "https://downloadwella.com/h7e58mmabk5r/We.Were.The.Lucky.Ones.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/39uHj2TgJMkL4C-q7_sGkbBacuj8PGoF",
     "https://downloadwella.com/8uvb4u1ear3v/We.Were.the.Lucky.Ones.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bw0Vh6h7cibFZl63mt80Z3gWmXUcBegd",
-    "https://downloadwella.com/lsdke25g5ygi/We.Were.the.Lucky.Ones.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cUS7enbA1gTQSfRBYfk_NhAlmlM0_430"
+    "https://downloadwella.com/lsdke25g5ygi/We.Were.the.Lucky.Ones.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cUS7enbA1gTQSfRBYfk_NhAlmlM0_430",
+    "https://downloadwella.com/7mxc90wktjp8/Manhunt.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2AXrGAuJj7O1BIJXH0EyFUSGZeqwLXrt",
+    "https://downloadwella.com/exxsof7krdi3/Manhunt.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XBylazKCXoXvmkco7CgbPaSgEVWzK298",
+    "https://downloadwella.com/1y2mlxyg30nm/Manhunt.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uVX3LEypGRUN5ak1dV03rtMyihCwrSb9",
+    "https://downloadwella.com/6xgyjifg18e4/Manhunt.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9Qo1xcgPjixsI8SGhoiHeuvWPqQHKuHZ",
+    "https://downloadwella.com/wo6kagwaoeb3/Manhunt.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V_AoHdo0PlxGIE-GGljbvrbC-TSHW5a1"
   }
 }
