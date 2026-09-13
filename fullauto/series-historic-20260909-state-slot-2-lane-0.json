@@ -1220,6 +1220,13 @@
       "modified": "2023-12-22T07:36:29",
       "completed_at": 1789261914,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-morning-show-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100075|https://thenkiri.com/the-morning-show-s03-complete-tv-series/|2023-09-23T03:19:09|2024-02-24T12:25:43|{'rendered': 'The Morning Show S03 (Complete) | TV Series'}",
+      "modified": "2024-02-24T12:25:43",
+      "completed_at": 1789263095,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2286,6 +2293,11 @@
     "https://downloadwella.com/t1my9ui7aznm/Shoresy.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vqkGlGrjFwRccNgCQZZcS6mprnh3dtaL",
     "https://downloadwella.com/gkzxx7ykroyn/Shoresy.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d87x1LD8W_64B5TDMqX03UaLpha58HAG",
     "https://downloadwella.com/k29zwoszi9pv/Shoresy.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ot7uPAwgusUohj1klQ_KFdjNMUADBHFR",
-    "https://downloadwella.com/l162z675nurg/Shoresy.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wC4hDJOkTOZ0eQ3b-Lgp-vMtmK5U2Anw"
+    "https://downloadwella.com/l162z675nurg/Shoresy.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wC4hDJOkTOZ0eQ3b-Lgp-vMtmK5U2Anw",
+    "https://downloadwella.com/miqczzlg6d1c/The.Morning.Show.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TERpukNvgOrm17U5aYxHXEzpqwrHnpa3",
+    "https://downloadwella.com/jfal9yexamuw/The.Morning.Show.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QQaeqMnzswwMV9pfSQZQKu8lssuKVjJL",
+    "https://downloadwella.com/z3wfeal1ro6z/The.Morning.Show.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Aiuw1EBdulmeJyDdZ3DxhVaC3l-Iarhg",
+    "https://downloadwella.com/iotqkjd8tpge/The.Morning.Show.2019.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LEyu6NDYxpjf058aaRtoDm6N718M7OoT",
+    "https://downloadwella.com/9xrgm3a9gg9e/The.Morning.Show.2019.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vCuAKMkkfYvnzo5oSznpj1LlRlj0ES1Y"
   }
 }
