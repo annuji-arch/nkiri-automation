@@ -1104,11 +1104,10 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/star-wars-the-bad-batch-s03-complete-tv-series/": {
-      "status": "partial",
+      "status": "done",
       "signature": "108687|https://thenkiri.com/star-wars-the-bad-batch-s03-complete-tv-series/|2024-02-22T01:06:59|2024-05-01T18:21:16|{'rendered': 'Star Wars: The Bad Batch S03 (Episodes 15 Added) | TV Series'}",
       "modified": "2024-05-01T18:21:16",
-      "completed_at": 1789287629,
-      "reason": "one or more source links were unavailable"
+      "completed_at": 1789290687
     }
   },
   "series_links": {
@@ -2234,17 +2233,20 @@
     "https://downloadwella.com/zkzd9mr2iwa7/Elsbeth.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OUCFDs7TeolZHFhRFcsRV3zBtM8rfHJr",
     "https://downloadwella.com/pgy8d42mo2eu/Elsbeth.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZkigFP-plTgfwtUPp4nfUhCGivM30AV6",
     "https://downloadwella.com/j41ownxb81zn/Elsbeth.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2MSdv0snoIgC3h8YcpZhOPr2zYF8YM9d",
-    "https://downloadwella.com/cg8yx4cjvwpz/Star.Wars.The.Bad.Batch.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Cj4XnK4qf1dXnHRs0Gtg2UkubBwoIbdI",
-    "https://downloadwella.com/oipkd1550ylv/Star.Wars.The.Bad.Batch.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yz7Q9Ij4xIS6RWuXIGLe3bmr3qDs13nn",
-    "https://downloadwella.com/oktkyuoq7d8j/Star.Wars.The.Bad.Batch.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tXYhuTt1bnZudl48MrvbAg38MeN8Hatw",
-    "https://downloadwella.com/9biwlr6jdts0/Star.Wars.The.Bad.Batch.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Gk_KN5P_N2HeyzeUqGPEhH0wzpWDjRbl",
-    "https://downloadwella.com/93owu1st0lng/Star.Wars.The.Bad.Batch.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1uAoKcynCMcGQvV4jGX8a48pAEqfrMe2",
-    "https://downloadwella.com/ga5e56fwl59b/Star.Wars.the.Bad.Batch.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9MQxsOlgugSIl2hQaGGspH-2jxFcZIOg",
-    "https://downloadwella.com/6t2ptxz5rq8z/Star.Wars.The.Bad.Batch.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RyN7vD5_e1ZqLRp2h7dTASXxK4xSoWYK",
-    "https://downloadwella.com/kq24ky5z4sz6/Star.Wars.The.Bad.Batch.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AZJ5mSVI-dXdtk9aturcQA7cH-FYebA4",
-    "https://downloadwella.com/tql4iw0f03pn/Star.Wars.The.Bad.Batch.S03E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rai0icbURSM8WjLkXCCRvangOsoQ-jMe",
-    "https://downloadwella.com/7okpin60byr9/Star.Wars.The.Bad.Batch.S03E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mcjlCI2NIhXuYrshTO5bAK3DLNiFEWC7",
-    "https://downloadwella.com/4jnezyce05un/Star.Wars.The.Bad.Batch.S03E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8jV-c-eiDLVBlkrOY1yHo-0JDFxjgxTf",
-    "https://downloadwella.com/zq32rfttrf7a/Star.Wars.The.Bad.Batch.S03E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5qApsJC9I16gstl0qhrRb4VUF39jq6Pk"
+    "https://downloadwella.com/cg8yx4cjvwpz/Star.Wars.The.Bad.Batch.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z68yUWwtxLSQrPqmJbkgGfnHqWIy2utE",
+    "https://downloadwella.com/oipkd1550ylv/Star.Wars.The.Bad.Batch.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FiMl7ngIJuKnZq3dyy8xonAGMoq1n7QZ",
+    "https://downloadwella.com/oktkyuoq7d8j/Star.Wars.The.Bad.Batch.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U-XbvOGPQFeZs9dC9V6cDvw2pgrlnpeB",
+    "https://downloadwella.com/9biwlr6jdts0/Star.Wars.The.Bad.Batch.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1TO3Pkb2ahJ4aJi5JF3tOEnZoLwAqR-E",
+    "https://downloadwella.com/93owu1st0lng/Star.Wars.The.Bad.Batch.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eu6zzLnofsqK2eytWctVBo0MkYfMBhOo",
+    "https://downloadwella.com/ga5e56fwl59b/Star.Wars.the.Bad.Batch.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0uZFXNGRPLZC6hAGnEvtdaD0o_erDFu1",
+    "https://downloadwella.com/6t2ptxz5rq8z/Star.Wars.The.Bad.Batch.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x6gIONOs3bc3yeKAWnVZJt4QqTRNPYYi",
+    "https://downloadwella.com/kq24ky5z4sz6/Star.Wars.The.Bad.Batch.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4f_Yud0zVVsnhRqGzi4PTvFRKhwmlhl6",
+    "https://downloadwella.com/tql4iw0f03pn/Star.Wars.The.Bad.Batch.S03E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l2p1VpFg9-t5oZ-sUEGEFyhDooTma9pX",
+    "https://downloadwella.com/7okpin60byr9/Star.Wars.The.Bad.Batch.S03E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PeKA6x85lGPqgNfBBmikHQNt_H2e5AdM",
+    "https://downloadwella.com/4jnezyce05un/Star.Wars.The.Bad.Batch.S03E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/boapZtfLqb-XIdpgjk3A4W9y7WAS6J-X",
+    "https://downloadwella.com/zq32rfttrf7a/Star.Wars.The.Bad.Batch.S03E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xEO1J5pdZNXw7WuUFYusCeyI3wZXjxFd",
+    "https://downloadwella.com/khq70381wn6y/Star.wars.the.bad.batch.s03e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iTG-oRzwAjw3xYizceo0li7gg7DDyv1B",
+    "https://downloadwella.com/6l6h1mwfqfei/Star.Wars.The.Bad.Batch.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aj_jHS5Ef_XOerKIjI9h9KKlank1VKgL",
+    "https://downloadwella.com/9xr4idueazzh/Star.Wars.The.Bad.Batch.S03E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EyL5gBkfu3kYSC0nQubcYvUHP7QR5KsN"
   }
 }
