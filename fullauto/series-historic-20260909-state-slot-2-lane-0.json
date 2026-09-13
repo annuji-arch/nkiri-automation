@@ -1233,6 +1233,13 @@
       "signature": "99744|https://thenkiri.com/wilderness-s01-complete-tv-series/|2023-09-15T16:36:53|2023-09-15T16:36:53|{'rendered': 'Wilderness S01 (Complete) | TV Series'}",
       "modified": "2023-09-15T16:36:53",
       "completed_at": 1789265692
+    },
+    "https://thenkiri.com/power-book-iv-force-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "97628|https://thenkiri.com/power-book-iv-force-s02-complete-tv-series/|2023-09-01T08:52:12|2024-02-24T22:06:44|{'rendered': 'Power Book IV Force S02 (Complete) | TV Series'}",
+      "modified": "2024-02-24T22:06:44",
+      "completed_at": 1789268428,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2315,6 +2322,14 @@
     "https://downloadwella.com/sikw8aj47b1i/Wilderness.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xrythLPx7b7RRv7dFx0KVrhEii_CWn7S",
     "https://downloadwella.com/qni59wiuni07/Wilderness.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UcDBDF0kddEVG0SlABwIJL4MdGAUwlwO",
     "https://downloadwella.com/agjvztwu1a7j/Wilderness.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/inTE2JpnuzBWWnnngyOJjpp94yGOxOGM",
-    "https://downloadwella.com/jid4lzdmhmnw/Wilderness.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l1iJtwF_xaBcrVCrKUTc032y50ReUtfI"
+    "https://downloadwella.com/jid4lzdmhmnw/Wilderness.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l1iJtwF_xaBcrVCrKUTc032y50ReUtfI",
+    "https://downloadwella.com/0decohz11v29/Power.Book.IV.Force.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/INP0ufByzAlhGaA75wFcD5D5ew6ta99J",
+    "https://downloadwella.com/q7g4oauqnbq8/Power.Book.IV.Force.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qEXBgEZN-OzLdUf68engUUzs1MzUv6Dz",
+    "https://downloadwella.com/lh3c2r4rimtc/Power.Book.IV.Force.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uMK28DlsoEBlKe5w3rFxI1dJfHCi9AMV",
+    "https://downloadwella.com/dfc41ugv2dmz/Power.Book.IV.Force.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1sF3bjcU_XQ7G4XJ3lRL55PoG3NcUBiE",
+    "https://downloadwella.com/uo4amt23u6jj/Power.Book.IV.Force.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7s0BXvevTr6W-yg67pD-g_TfT_5rMsEA",
+    "https://downloadwella.com/fyn5rr8gfjox/Power.Book.IV.Force.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kpe9ZVRpL0LlGPxa53SoZmHPU79fH34x",
+    "https://downloadwella.com/32p60cbgox3i/Power.Book.IV.Force.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tszW7CdSC8zg3VoeoEr2HaOTOlUhh6Eq",
+    "https://downloadwella.com/rzsln7tzsfta/Power.Book.IV.Force.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CmS4ueDE7wh5_BX4zz4JoprD1MvmtbI4"
   }
 }
