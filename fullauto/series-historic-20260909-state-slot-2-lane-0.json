@@ -1294,6 +1294,13 @@
       "signature": "90261|https://thenkiri.com/clone-high-2023-s01-complete-tv-series/|2023-05-25T18:20:41|2023-09-02T17:59:37|{'rendered': 'Clone High (2023) S01 (Episode 5 & 6 Added) | TV Series'}",
       "modified": "2023-09-02T17:59:37",
       "completed_at": 1789290895
+    },
+    "https://thenkiri.com/lego-dreamzzz-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "89750|https://thenkiri.com/lego-dreamzzz-s01-complete-tv-series/|2023-05-18T09:50:54|2023-09-02T17:56:19|{'rendered': 'LEGO DreamZzz S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:56:19",
+      "completed_at": 1789292666,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2444,6 +2451,15 @@
     "https://downloadwella.com/cvhxg2r41bmh/Clone.High.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YP8DmB2JnokRS6dhjZ8wOuY-9C0JEa2Y",
     "https://downloadwella.com/8gokqm0d67p2/Clone.High.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Asuz5tGgPwtMyjd3ncAXTXiHK0lhlYXY",
     "https://downloadwella.com/jv4bnbvgayyz/Clone.High.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wKbYoSr3xZaJQAUYzRc2cKmzIsZ3Qtwp",
-    "https://downloadwella.com/gm7yl8lr6l4v/Clone.High.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9-8MOTGsItipxelK2VCe6Ysvn-gvUjOW"
+    "https://downloadwella.com/gm7yl8lr6l4v/Clone.High.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9-8MOTGsItipxelK2VCe6Ysvn-gvUjOW",
+    "https://downloadwella.com/pbyb2n32hyg5/LEGO.DreamZzz.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fcGMRMahkATkz9rKRQaejgdlv-OP7aKa",
+    "https://downloadwella.com/3iner2nbgwho/LEGO.DreamZzz.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HILv6tAkPRNoFCoGKqGDOwz_kKkMq0we",
+    "https://downloadwella.com/ok6snfr6xxpf/LEGO.DreamZzz.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DYfuefNqiYU9NiMf9Auldgmv4WO3nwsk",
+    "https://downloadwella.com/e66h5mbidm6y/LEGO.DreamZzz.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EIv8fvQxmGx0OXQYzJpCqGtruOJ8_4hw",
+    "https://downloadwella.com/2vpbyl1ga4lt/LEGO.DreamZzz.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hlWLfcJcLbN8tPWq_0TDzL8EWaAMHD5O",
+    "https://downloadwella.com/fwqmkz8ciug4/LEGO.DreamZzz.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gyVvURDpLzMMLoO8eBV7XvIii-4vSqjB",
+    "https://downloadwella.com/g7lkbiyslkd9/LEGO.DreamZzz.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LXvYsYQZ71GsJR1RFfANLpfKVpq0ZC3g",
+    "https://downloadwella.com/otoywvar2dqb/LEGO.DreamZzz.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vzk7QSS60DJpquCk9SdLDLgyOuyDR3I4",
+    "https://downloadwella.com/x0yjzb8cbi1t/LEGO.DreamZzz.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-rYffl9vbZRs7vn_g-PlSMbSV-ITkRD"
   }
 }
