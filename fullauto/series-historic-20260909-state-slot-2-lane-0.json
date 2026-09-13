@@ -1275,6 +1275,13 @@
       "modified": "2024-01-08T11:38:21",
       "completed_at": 1789284967,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/secret-invasion-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "91951|https://thenkiri.com/secret-invasion-s01-complete-tv-series/|2023-06-21T09:47:26|2023-12-17T11:38:41|{'rendered': 'Secret Invasion S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2023-12-17T11:38:41",
+      "completed_at": 1789286079,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2407,6 +2414,8 @@
     "https://downloadwella.com/00m4jccnv93z/Warrior.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jJivWHi3SNfjAxRjuGkN3Pb3K528yyon",
     "https://downloadwella.com/dqvgplyv1q4m/Warrior.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aP9nJTPmFNIch_AoiQ7elel93wYUglUC",
     "https://downloadwella.com/lef9su3ezdie/Warrior.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fD4KJDGxeimo1WMYiqeudREQeGh3sAR9",
-    "https://downloadwella.com/1by6nfk6wlln/Warrior.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yyrq__ms0ys4GZwWoS5EbsAOefby5Ojp"
+    "https://downloadwella.com/1by6nfk6wlln/Warrior.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yyrq__ms0ys4GZwWoS5EbsAOefby5Ojp",
+    "https://downloadwella.com/rmmhm5bnr3lp/Secret.Invasion.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v9Xh3qfxC-2y1a9rnVwPSfknh_Kq91Qt",
+    "https://downloadwella.com/q39coieqeu4y/Secret.Invasion.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-VjwWtWl9S9AbExZ8oTpyAe9J4U4smVt"
   }
 }
