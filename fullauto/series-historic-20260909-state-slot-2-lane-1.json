@@ -1108,6 +1108,13 @@
       "signature": "108687|https://thenkiri.com/star-wars-the-bad-batch-s03-complete-tv-series/|2024-02-22T01:06:59|2024-05-01T18:21:16|{'rendered': 'Star Wars: The Bad Batch S03 (Episodes 15 Added) | TV Series'}",
       "modified": "2024-05-01T18:21:16",
       "completed_at": 1789290687
+    },
+    "https://thenkiri.com/the-new-look-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "108353|https://thenkiri.com/the-new-look-s01-complete-tv-series/|2024-02-14T12:37:16|2024-04-03T08:56:53|{'rendered': 'The New Look S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-04-03T08:56:53",
+      "completed_at": 1789307171,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
