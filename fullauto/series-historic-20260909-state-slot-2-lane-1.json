@@ -1555,6 +1555,13 @@
       "modified": "2023-09-02T14:05:32",
       "skipped_at": 1789481681,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/love-death-and-robots-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "42487|https://thenkiri.com/love-death-and-robots-s03-complete-tv-series/|2022-05-20T11:45:34|2023-09-02T14:00:19|{'rendered': 'Love Death and Robots S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:00:19",
+      "skipped_at": 1789481722,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
