@@ -1679,6 +1679,13 @@
       "modified": "2023-09-02T13:24:12",
       "skipped_at": 1789473951,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/freerayshawn-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "34320|https://thenkiri.com/freerayshawn-s01-complete-tv-series/|2022-01-01T12:19:00|2023-09-02T13:19:01|{'rendered': '#FreeRayshawn S01 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T13:19:01",
+      "skipped_at": 1789474011,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
