@@ -1751,6 +1751,13 @@
       "signature": "17443|https://thenkiri.com/lupin-s01-s02-complete-tv-series/|2021-06-13T10:55:12|2024-02-23T20:13:06|{'rendered': 'Lupin S01 & S02 (Complete)  | TV Series'}",
       "modified": "2024-02-23T20:13:06",
       "completed_at": 1789476744
+    },
+    "https://thenkiri.com/girl-from-nowhere-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "16306|https://thenkiri.com/girl-from-nowhere-s01-complete-tv-series/|2021-05-17T18:49:49|2023-09-02T09:12:11|{'rendered': 'Girl From Nowhere S01 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T09:12:11",
+      "skipped_at": 1789476845,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
