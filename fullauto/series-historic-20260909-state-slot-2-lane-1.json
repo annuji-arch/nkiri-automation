@@ -1694,6 +1694,13 @@
       "signature": "26726|https://thenkiri.com/see-s02-episode-1-added-tv-series/|2021-08-27T12:21:58|2024-02-24T17:36:01|{'rendered': 'See S02 (Complete)  | TV Series'}",
       "modified": "2024-02-24T17:36:01",
       "completed_at": 1789490987
+    },
+    "https://thenkiri.com/power-book-iii-raising-kenan-episode-1-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "19002|https://thenkiri.com/power-book-iii-raising-kenan-episode-1-added-tv-series/|2021-07-18T13:15:41|2023-09-02T09:33:15|{'rendered': 'Power Book III Raising Kanan (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T09:33:15",
+      "skipped_at": 1789491091,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
