@@ -1617,6 +1617,13 @@
       "modified": "2023-09-02T13:45:05",
       "skipped_at": 1789471823,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/demon-slayer-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39798|https://thenkiri.com/demon-slayer-s02-complete-tv-series/|2022-04-17T08:53:25|2023-09-02T13:44:05|{'rendered': 'Demon Slayer S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:44:05",
+      "skipped_at": 1789471963,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
