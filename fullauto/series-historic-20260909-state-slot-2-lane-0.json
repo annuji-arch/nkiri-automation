@@ -1490,6 +1490,13 @@
       "signature": "67644|https://thenkiri.com/all-american-s05-complete-tv-series/|2022-10-11T10:44:31|2024-02-23T10:58:48|{'rendered': 'All American S05 (Episode 20 Added) | TV Series'}",
       "modified": "2024-02-23T10:58:48",
       "completed_at": 1789466288
+    },
+    "https://thenkiri.com/raven-of-the-inner-palace-s01-complete-anime-tv-series/": {
+      "status": "partial",
+      "signature": "66956|https://thenkiri.com/raven-of-the-inner-palace-s01-complete-anime-tv-series/|2022-10-02T09:49:10|2024-02-24T22:30:46|{'rendered': 'Raven of the Inner Palace S01 (Episode 6-10 Added) | Anime TV Series'}",
+      "modified": "2024-02-24T22:30:46",
+      "completed_at": 1789466711,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2989,6 +2996,13 @@
     "https://downloadwella.com/3uf9c79plcw0/All.American.S05E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rS5ANI0t6GqB-8Wz9KTv3NKJ9SEh-dDs",
     "https://downloadwella.com/cg3i9b5af6sb/All.American.S05E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/T7ePJGZ0ZFbElIjL08fTggmJsU6E74Pm",
     "https://downloadwella.com/wxehi4gu566z/All.American.S05E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gwVdsOX89VeSq_ohU3tupT9HxrmqPgvo",
-    "https://downloadwella.com/6czw5z9m4p5h/All.American.S05E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N5vNvYZaNaDbnqd7tS1vdUq-TLZaVpLl"
+    "https://downloadwella.com/6czw5z9m4p5h/All.American.S05E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N5vNvYZaNaDbnqd7tS1vdUq-TLZaVpLl",
+    "https://downloadwella.com/f8oh8r91rswq/Raven.of.the.Inner.Palace.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MwO4A14M4_HdHLBuEQFs6K6I1yhSRDOE",
+    "https://downloadwella.com/sy01mnauv4u2/Raven.of.the.inner.palace.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1NgxgT2LodBMc-tIfY82jZS6h7Ec3k5G",
+    "https://downloadwella.com/9mjvfqn3ml76/Raven.of.the.inner.palace.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WW-_Mi6VeJwKjaGROc9OrexwuVwqmN_V",
+    "https://downloadwella.com/0s7pj6s4nvbx/Raven.of.the.inner.palace.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WY42h1_RKEjl6u-V2acapX3SZAVIhXpc",
+    "https://downloadwella.com/9iulp4sqod0k/Raven.of.the.inner.palace.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pp8g3n3KMTZiJjKRSng0f5K_3AmEPYyu",
+    "https://downloadwella.com/frg0mbwnjhpp/Raven_of_the_Inner_Palace_S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VUY_SEHZgNwdrvr67_TRLU6geJnjdIdx",
+    "https://downloadwella.com/368qkuxolmd1/Raven_of_the_Inner_Palace.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dzBr_cs7EjbcT-_F6yRORtd1YW6kT21W"
   }
 }
