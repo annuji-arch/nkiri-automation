@@ -1575,6 +1575,13 @@
       "modified": "2023-09-02T13:47:35",
       "skipped_at": 1789481923,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/hes-expecting-s01-complete-japanese-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "40203|https://thenkiri.com/hes-expecting-s01-complete-japanese-drama/|2022-04-21T18:50:36|2023-09-02T13:46:07|{'rendered': 'He’s Expecting S01 (Complete) | Japanese Drama'}",
+      "modified": "2023-09-02T13:46:07",
+      "skipped_at": 1789481994,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
