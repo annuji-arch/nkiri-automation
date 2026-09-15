@@ -1590,6 +1590,13 @@
       "modified": "2023-09-02T14:07:49",
       "skipped_at": 1789470703,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/obi-wan-kenobi-s01-episode-1-2-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43070|https://thenkiri.com/obi-wan-kenobi-s01-episode-1-2-added-tv-series/|2022-05-27T08:42:04|2023-07-09T09:34:22|{'rendered': 'Obi-Wan Kenobi S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2023-07-09T09:34:22",
+      "skipped_at": 1789470742,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
