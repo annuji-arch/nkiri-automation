@@ -1429,6 +1429,13 @@
       "signature": "77496|https://thenkiri.com/tom-clancys-jack-ryan-s03-complete-tv-series/|2022-12-21T11:58:29|2023-09-02T14:24:36|{'rendered': 'Tom Clancy’s Jack Ryan S03 (Complete) | TV Series'}",
       "modified": "2023-09-02T14:24:36",
       "completed_at": 1789459461
+    },
+    "https://thenkiri.com/sonic-prime-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "76787|https://thenkiri.com/sonic-prime-complete-tv-series/|2022-12-16T16:03:29|2023-09-02T14:06:53|{'rendered': 'Sonic Prime (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:06:53",
+      "skipped_at": 1789459499,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
