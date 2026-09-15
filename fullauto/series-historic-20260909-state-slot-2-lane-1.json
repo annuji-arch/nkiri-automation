@@ -1568,6 +1568,13 @@
       "signature": "41711|https://thenkiri.com/candy-s01-complete-tv-series/|2022-05-10T07:34:51|2023-12-21T12:08:35|{'rendered': 'Candy S01 (Complete) | TV Series'}",
       "modified": "2023-12-21T12:08:35",
       "completed_at": 1789481858
+    },
+    "https://thenkiri.com/under-the-banner-of-heaven-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "40868|https://thenkiri.com/under-the-banner-of-heaven-s01-complete-tv-series/|2022-04-28T18:41:09|2023-09-02T13:47:35|{'rendered': 'Under the Banner of Heaven S01 (Episode 7 Added) | TV Series'}",
+      "modified": "2023-09-02T13:47:35",
+      "skipped_at": 1789481923,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
