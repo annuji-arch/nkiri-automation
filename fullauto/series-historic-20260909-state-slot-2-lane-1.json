@@ -1719,6 +1719,13 @@
       "signature": "15941|https://thenkiri.com/money-heist-s01-complete-tv-series/|2021-05-07T08:44:35|2023-09-02T09:10:18|{'rendered': 'Money Heist S01 ( Complete )  | TV Series'}",
       "modified": "2023-09-02T09:10:18",
       "completed_at": 1789492054
+    },
+    "https://thenkiri.com/bob-hearts-abishola-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "15381|https://thenkiri.com/bob-hearts-abishola-s01-complete-tv-series/|2021-04-21T12:19:56|2023-09-02T09:02:33|{'rendered': 'Bob Hearts Abishola S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T09:02:33",
+      "skipped_at": 1789492104,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
