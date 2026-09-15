@@ -1436,6 +1436,13 @@
       "signature": "69866|https://thenkiri.com/the-staircase-complete-tv-series/|2022-10-29T10:01:42|2023-09-02T16:35:38|{'rendered': 'The Staircase (Complete) | TV Series'}",
       "modified": "2023-09-02T16:35:38",
       "completed_at": 1789475354
+    },
+    "https://thenkiri.com/east-new-york-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "68435|https://thenkiri.com/east-new-york-s01-complete-tv-series/|2022-10-19T09:31:48|2024-02-23T12:33:25|{'rendered': 'East New York S01 (Episode 21 Added) | TV Series'}",
+      "modified": "2024-02-23T12:33:25",
+      "completed_at": 1789476661,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3080,6 +3087,21 @@
     "https://downloadwella.com/phm28fzfmd4l/The.Staircase.2022.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rwkD2RCV_n0YzfDOEoOBJJXT3yR9pl3D",
     "https://downloadwella.com/8s3xyhkh5rp5/The.Staircase.2022.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r2317hGxnLRFXzJbiE5lfyWGQsoWlJ2Y",
     "https://downloadwella.com/cesr5n0szb62/The.Staircase.2022.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X0Mi21QsYyu0BSnj6UxY_hlA2z6dBidt",
-    "https://downloadwella.com/42ygakgzxgjl/The.Staircase.2022.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7CkiMAgg-hTqsIhmso_8bvREp2WS0BU3"
+    "https://downloadwella.com/42ygakgzxgjl/The.Staircase.2022.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7CkiMAgg-hTqsIhmso_8bvREp2WS0BU3",
+    "https://downloadwella.com/pn2da0jtc95q/East.New.York.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iudcOWmGt3G5vVWb2oNKC9PkN_UOG_n0",
+    "https://downloadwella.com/lgqot799oo7c/East.New.York.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DI-T6HB2ZjUGKNYqJy6WNITBLNPxzz0R",
+    "https://downloadwella.com/mgvbohoa6vat/East.New.York.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3uZ5Hss3_-SuQEXLioIXPqb2JP0ihLIG",
+    "https://downloadwella.com/bjv0lr30mv3j/East.New.York.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OjxPynbUzZOJomlucid26YrsuwYSkB6m",
+    "https://downloadwella.com/wxduu94jb80l/East.New.York.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n3f7GTF65UKyiXOpUnWFMdI86haOG6kb",
+    "https://downloadwella.com/d1mc3mryynek/East.New.York.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MfTFUGsTSA7nfHodZX8cGLVEHEuoHIuW",
+    "https://downloadwella.com/l8u9yumha3uj/East.New.York.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/28iFC0_DWu1pPwkxV2IzZsHcZdbmUucl",
+    "https://downloadwella.com/jzg0cn88nqec/East.New.York.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uH_etNEw5yVo4yKFGd1RNndEFHHIuKjc",
+    "https://downloadwella.com/t29td38ju2i4/East.New.York.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tX3Tt4qP4L3s5V0upimbylDTH6qlfIzC",
+    "https://downloadwella.com/nedky9eo4skl/East.New.York.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bc0GhAH_jsZqXm8HLbiVOABirT-R9QWV",
+    "https://downloadwella.com/zzasccw9llwv/East.New.York.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XkC4JSPmjf_01LaYBHOt4yV-P7aAbl0m",
+    "https://downloadwella.com/gt9be44q8oap/East.New.York.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hpnwtN3I91TyoBfk-1PKmdImkAFlAydw",
+    "https://downloadwella.com/6oqxlozbpgie/East.New.York.S01E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UW9EQFLv0U3uPwZCbHNlt3p9D8K7Dct-",
+    "https://downloadwella.com/q9ep7liyjukb/East.New.York.S01E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sSKmmdgQz7OFONJPFyZZdb41B6vcWQku",
+    "https://downloadwella.com/44et7l5p99y9/East.New.York.S01E21.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/opet_Ou2rXGA97Rq4Z3QOExu8VT5NMJt"
   }
 }
