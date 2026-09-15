@@ -1195,7 +1195,13 @@
       "modified": "2023-10-03T16:16:07",
       "completed_at": 1789450474
     },
-    "https://thenkiri.com/wwe-monday-night-raw-tv-series/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-monday-night-raw-tv-series/": "skipped (wwe)",
+    "https://thenkiri.com/still-up-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "100009|https://thenkiri.com/still-up-s01-complete-tv-series/|2023-09-22T07:16:00|2023-12-17T11:58:57|{'rendered': 'Still Up S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2023-12-17T11:58:57",
+      "completed_at": 1789450834
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2439,6 +2445,14 @@
     "https://downloadwella.com/qn1o5y8n56gn/The.Long.Shadow.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hztXs0lK3lJjaFYfNlhZC3mcK_HrhPBv",
     "https://downloadwella.com/id2idvjwi7tq/The.Long.Shadow.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-gudNqpO9ygvDzIiWsnItA6OfDDKDPtq",
     "https://downloadwella.com/uw7nbpum0c3l/The.Long.Shadow.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_EV9vo_cY3zo1p6CiysTCkIQL17OdyPn",
-    "https://downloadwella.com/dwub6y76f71q/The.Long.Shadow.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aIclYdmv9pajyFMQrR8k4jpwymxCEkMG"
+    "https://downloadwella.com/dwub6y76f71q/The.Long.Shadow.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aIclYdmv9pajyFMQrR8k4jpwymxCEkMG",
+    "https://downloadwella.com/66cszdb8yjbs/Still.Up.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FWU68tTps73h5kJ0JhYP9ot5J3oBNTGp",
+    "https://downloadwella.com/6033aimiyloq/Still.Up.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fMPE_c3u2bJ4737tQo1bYaNVh_WugJWA",
+    "https://downloadwella.com/i1652yhk7wkf/Still.Up.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/47rnYAB1t1CI69an79e9UR3o1HIdlS4r",
+    "https://downloadwella.com/zbfjnrvovu6t/Still.Up.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B5gtVEIAQ9UQ1JiZt27y-dX9xmyZwTle",
+    "https://downloadwella.com/ygf79er8i45g/Still.Up.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mVv--w5Pq_ojeG0m5UigMcGjhTG9XSlU",
+    "https://downloadwella.com/tlsvqivhwd1o/Still.Up.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qCVdliLzH4yKwTsA7-0lD3DayPHML8yI",
+    "https://downloadwella.com/rnzq2bcyk29e/Still.Up.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VuNpa0B0xp-y3hiIPd19nr8P93HIb1nc",
+    "https://downloadwella.com/933ke1k6zal6/Still.Up.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0hmsxR_Rx9xoFOmwxISG75ukSsLPGKmt"
   }
 }
