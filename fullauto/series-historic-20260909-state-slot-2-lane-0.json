@@ -1548,6 +1548,13 @@
       "signature": "46799|https://thenkiri.com/american-horror-stories-s02-complete-tv-series/|2022-07-21T08:13:15|2024-01-08T10:06:52|{'rendered': 'American Horror Stories S02 (Complete) | TV Series'}",
       "modified": "2024-01-08T10:06:52",
       "completed_at": 1789470303
+    },
+    "https://thenkiri.com/resident-evil-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "46384|https://thenkiri.com/resident-evil-s01-complete-tv-series/|2022-07-14T14:13:57|2023-12-17T10:05:00|{'rendered': 'Resident Evil S01 (Complete)  | TV Series'}",
+      "modified": "2023-12-17T10:05:00",
+      "completed_at": 1789470464,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3130,6 +3137,10 @@
     "https://downloadwella.com/ieahlfu7f3fl/American.horror.stories.s02e05.(NKIRI.COM).vfdmopfdvpov.mkv.html": "https://v1.vidfiles.com/d/L-7Z93yX0bLfA2YXYiH3vpET4t1XoREs",
     "https://downloadwella.com/fs2u7c4rasdk/American.Horror.Stories.S02E06.(NKIRI.COM).nvofinbgfnbifgnboingbbggbg.mp4.html": "https://v1.vidfiles.com/d/FxayGRfFA1edkMidPcfkxKJRew3-1ZMs",
     "https://downloadwella.com/2iw7526zwqn8/American.Horror.Stories.S02E07.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/x4ZA8CGNshkAO_wgaflFCbahgOt5RbDx",
-    "https://downloadwella.com/peti8hczk1rr/American.Horror.Stories.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bgROJtuKIipRv6QBP9xZt-YiCxHwMnX4"
+    "https://downloadwella.com/peti8hczk1rr/American.Horror.Stories.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bgROJtuKIipRv6QBP9xZt-YiCxHwMnX4",
+    "https://downloadwella.com/mm31tqwwtlve/Resident.Evil.Infinite.Darkness.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X0WUdlLKI1kXHYcDXnqWo-KnvGQM_63u",
+    "https://downloadwella.com/ig7o7osaz7e4/Resident.Evil.Infinite.Darkness.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H-nY9HMEl7FAYKx7i_cNefmYMm1D0TPj",
+    "https://downloadwella.com/pqnuxe7mardn/Resident.Evil.Infinite.Darkness.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C6Bn20FU_Km5Va8ByBihOqFxO_cHfLAB",
+    "https://downloadwella.com/sco1ex3ma35k/Resident.Evil.Infinite.Darkness.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_QJiJoAmwPKF_HvWRBDmu1Njgw5PoTBm"
   }
 }
