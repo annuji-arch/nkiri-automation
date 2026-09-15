@@ -1693,6 +1693,13 @@
       "modified": "2023-09-02T13:08:16",
       "skipped_at": 1789474118,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/marvels-hit-monkey-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "32176|https://thenkiri.com/marvels-hit-monkey-s01-complete-tv-series/|2021-11-18T07:19:29|2023-09-02T12:56:50|{'rendered': 'Marvel’s Hit-Monkey S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T12:56:50",
+      "skipped_at": 1789474165,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
