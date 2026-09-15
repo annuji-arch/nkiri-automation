@@ -1610,6 +1610,13 @@
       "signature": "41073|https://thenkiri.com/better-call-saul-s01-complete-tv-series/|2022-04-30T15:37:03|2023-09-02T13:50:48|{'rendered': 'Better Call Saul S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T13:50:48",
       "completed_at": 1789471777
+    },
+    "https://thenkiri.com/gaslit-s01-episode-1-added-tv-series__trashed/": {
+      "status": "skipped_unavailable",
+      "signature": "40520|https://thenkiri.com/gaslit-s01-episode-1-added-tv-series__trashed/|2022-04-24T14:22:27|2023-09-02T13:45:05|{'rendered': 'Gaslit S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:45:05",
+      "skipped_at": 1789471823,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
