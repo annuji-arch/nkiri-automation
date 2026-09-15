@@ -1765,6 +1765,13 @@
       "modified": "2023-09-02T09:04:15",
       "completed_at": 1789477041,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/too-hot-to-handle-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "15048|https://thenkiri.com/too-hot-to-handle-s01-complete-tv-series/|2021-04-08T11:45:48|2024-02-24T09:45:23|{'rendered': 'Too Hot to Handle S01 (Complete) | TV Series'}",
+      "modified": "2024-02-24T09:45:23",
+      "completed_at": 1789477278,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3428,6 +3435,12 @@
     "https://downloadwella.com/r2d40hpl6q04/The.Nevers.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_-WHCANBXnJTl5GFAUVNIS_JXsEi7uRA",
     "https://downloadwella.com/d20b9u33ol4l/The.Nevers.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RJndzBMqzwBG7DSwDh_njBqIZKEdGGGE",
     "https://downloadwella.com/j2w03zoqnobe/The.Nevers.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-uVu6qDdC5XDlELvO7UTN02ZMZJ1iObI",
-    "https://downloadwella.com/ki76r42gzrro/The.Nevers.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s6NzTZtEqH0nLQK1Aj4IUDmx7fXYCFDf"
+    "https://downloadwella.com/ki76r42gzrro/The.Nevers.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s6NzTZtEqH0nLQK1Aj4IUDmx7fXYCFDf",
+    "https://downloadwella.com/9qec34p8acy1/Too.Hot.To.Handle.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wy9XY4MAIbHPxNHsW8G9Q-VFQDNCPb-f",
+    "https://downloadwella.com/yng9tm1iuxg2/Too.Hot.To.Handle.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qtqWZkONafA_wWEnIRUfy4s2A8SutYZk",
+    "https://downloadwella.com/z80ofoijy9ia/Too.Hot.To.Handle.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PCo6ybtVsJFoBzaVXJ8PoXg9UkRFK-wb",
+    "https://downloadwella.com/jgk9fyx2p2fn/Too.Hot.To.Handle.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nvRL0Cf0q0iU7-3tWTa6ABKaxJ7C1Dbh",
+    "https://downloadwella.com/iossgmti2e7s/Too.Hot.To.Handle.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aG50wYWKKxcrYhI2Er7atzeqSLSiCDFV",
+    "https://downloadwella.com/fos9hbhl5w9y/Too.Hot.To.Handle.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ap_PeMs0Afkm0OncXGuZ2wrrbenI2eEy"
   }
 }
