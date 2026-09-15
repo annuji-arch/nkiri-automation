@@ -1438,11 +1438,10 @@
       "completed_at": 1789475354
     },
     "https://thenkiri.com/east-new-york-s01-complete-tv-series/": {
-      "status": "pending",
+      "status": "done",
       "signature": "68435|https://thenkiri.com/east-new-york-s01-complete-tv-series/|2022-10-19T09:31:48|2024-02-23T12:33:25|{'rendered': 'East New York S01 (Episode 21 Added) | TV Series'}",
       "modified": "2024-02-23T12:33:25",
-      "completed_at": 1789476661,
-      "reason": "one or more source links were unavailable"
+      "completed_at": 1789488847
     },
     "https://thenkiri.com/bleach-thousand-year-blood-war-s01-complete-tv-series/": {
       "status": "done",
@@ -3415,6 +3414,12 @@
     "https://downloadwella.com/97wgjoecby16/BrBa.S05E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Wh7_3-nUsLcuhAaXx6rcrrHw7UgoA-Kg",
     "https://downloadwella.com/mbl9q9fr6obn/BrBa.S05E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zucKKbRIPV2iLbU3WIHjBQBahbqAd0TH",
     "https://downloadwella.com/9brx64uf3q54/BrBa.S05E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G995WhCb_4SKlVgXEA8eyppm1JRse2jj",
-    "https://downloadwella.com/ls2recudrbvg/BrBa.S05E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OX4R5yWrS-2bSy5CoEDOCO30kcbdtnA7"
+    "https://downloadwella.com/ls2recudrbvg/BrBa.S05E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OX4R5yWrS-2bSy5CoEDOCO30kcbdtnA7",
+    "https://downloadwella.com/m67zwskvyhtt/East.New.York.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xvWoTuyF0k9958ATfCiUtmyQmBI67riw",
+    "https://downloadwella.com/z85c88jzs9qq/East.New.York.S01E14.(NKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/kTkgXiF8M_QKHhRAsmy1PtNxjYmlFSWT",
+    "https://downloadwella.com/qdp6a1ld3sto/East.New.York.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pJ6LoZqPPt5HexmfmWs5uk-fo_Mlb2_h",
+    "https://downloadwella.com/e60asf5rt1id/East.New.York.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wplLltFCiH5s6h32SCIn1bSKwASybF1I",
+    "https://downloadwella.com/d5de177c70fa/East.New.York.S01E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nmgiM4ZJkVYhhgJpT7mxBKjoeKN0ZHQb",
+    "https://downloadwella.com/e14nkuozidrv/East.New.York.S01E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l_j_lGV3Os7bM1qZsk4_xkA_gL7IcUpN"
   }
 }
