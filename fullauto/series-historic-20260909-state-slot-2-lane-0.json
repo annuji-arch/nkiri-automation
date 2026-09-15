@@ -1637,6 +1637,13 @@
       "signature": "38492|https://thenkiri.com/halo-s01-complete-tv-series__trashed/|2022-03-24T13:08:21|2023-09-02T13:25:10|{'rendered': 'Halo S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T13:25:10",
       "completed_at": 1789472988
+    },
+    "https://thenkiri.com/marco-polo-s01-and-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "37670|https://thenkiri.com/marco-polo-s01-and-s02-complete-tv-series/|2022-03-08T14:34:43|2023-09-02T13:12:59|{'rendered': 'Marco Polo S01 and S02 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T13:12:59",
+      "completed_at": 1789473291,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3242,6 +3249,8 @@
     "https://downloadwella.com/wq22a153p92x/Halo.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q67IjwivHeX-ynMdio_ki0GuhMeWnq6c",
     "https://downloadwella.com/ihutcy7lh0yf/Halo.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LT-nMcaZ2XviI1gwVZ7HU6diKE1eOp_1",
     "https://downloadwella.com/ptbw92qfmk7e/Halo.S01E08..(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P4FE-MwjWHadAnrXO-L_6gVdGT25Tdu4",
-    "https://downloadwella.com/b7tx104yf0g3/Halo.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MGZ2TLN0DBgtxcQX-31AXBjeRNqCF5d9"
+    "https://downloadwella.com/b7tx104yf0g3/Halo.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MGZ2TLN0DBgtxcQX-31AXBjeRNqCF5d9",
+    "https://downloadwella.com/yrku9yufppri/Marco.Polo.2014.S02E03.(NKIRI.COM).niocsndiovnidfnivndifnivinofnivinovindvinod.mkv.html": "https://v1.vidfiles.com/d/G2j1jbRlJBSkoKNPtIZLkj96kGt-oNgz",
+    "https://downloadwella.com/0vv99taatdjt/Marco.Polo.2014.S02E04.(NKIRI.COM).nionvinsviodfinvdinoniovinofbinofbgioodvinfidvno.mkv.html": "https://v1.vidfiles.com/d/vBEy7uPzZHI70aHcICclb5EG1wBcG7bI"
   }
 }
