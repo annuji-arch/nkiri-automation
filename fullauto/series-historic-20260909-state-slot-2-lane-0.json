@@ -1368,6 +1368,13 @@
       "signature": "82138|https://thenkiri.com/the-republic-of-sarah-s01-complete-tv-series/|2023-02-12T15:29:42|2024-12-09T07:45:30|{'rendered': 'The Republic of Sarah S01 (Complete) | TV Series'}",
       "modified": "2024-12-09T07:45:30",
       "completed_at": 1789453263
+    },
+    "https://thenkiri.com/my-sunshine-complete-chinese-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "81193|https://thenkiri.com/my-sunshine-complete-chinese-drama/|2023-02-02T10:30:21|2023-09-02T16:58:11|{'rendered': 'My Sunshine (Complete) | Chinese Drama'}",
+      "modified": "2023-09-02T16:58:11",
+      "skipped_at": 1789453339,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
