@@ -1569,6 +1569,13 @@
       "modified": "2023-09-02T14:20:07",
       "skipped_at": 1789470552,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/you-dont-know-me-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "44443|https://thenkiri.com/you-dont-know-me-s01-complete-tv-series/|2022-06-19T06:39:56|2023-09-02T14:11:32|{'rendered': 'You Don’t Know Me S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:11:32",
+      "skipped_at": 1789470626,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
