@@ -1461,6 +1461,13 @@
       "signature": "66518|https://thenkiri.com/panhandle-s01-complete-tv-series/|2022-09-27T08:54:34|2023-09-02T15:55:08|{'rendered': 'Panhandle S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T15:55:08",
       "completed_at": 1789478518
+    },
+    "https://thenkiri.com/waco-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "66047|https://thenkiri.com/waco-s01-complete-tv-series/|2022-09-21T08:50:45|2024-02-24T10:05:06|{'rendered': 'Waco S01 (Complete) | TV Series'}",
+      "modified": "2024-02-24T10:05:06",
+      "completed_at": 1789478661,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3154,6 +3161,11 @@
     "https://downloadwella.com/zqm20pydlxuc/Panhandle.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9mpgpYm_hQ-mlV54mKifOsGN47edSH8u",
     "https://downloadwella.com/mgs1ll09u58r/Panhandle.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U_cTWypO4PpqXrrw2RQdVKurwDrR4SoO",
     "https://downloadwella.com/scplpla1zh0b/Panhandle.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/otDm5pKDpH9vGTHwuKIf2Ayr9hxqoB-J",
-    "https://downloadwella.com/1148r3t7lw5b/Panhandle.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B_XyZRuXca7m60T53elFJM0mQYCzrZLJ"
+    "https://downloadwella.com/1148r3t7lw5b/Panhandle.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B_XyZRuXca7m60T53elFJM0mQYCzrZLJ",
+    "https://downloadwella.com/u3fc127xbsle/Waco.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KXdTktm0IrHDjrNIcgrEzlLGmlB9gCtw",
+    "https://downloadwella.com/cux7o2kt23k3/Waco.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ELwa7UZDMuXm0-ePtSxCjhwds26CsFmA",
+    "https://downloadwella.com/r38ttmr164of/Waco.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U_a6hRRL-Gp3Z0UbyHeXPySuQVTF14xu",
+    "https://downloadwella.com/h8j16m1z3a8k/Waco.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cMSGu7KENbt2kermqmmpMYtDiBfQ9_uZ",
+    "https://downloadwella.com/kt815ltwg5jo/Waco.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d6E200lYGdPJ-dtVjFMse_Ze6OhYNkrH"
   }
 }
