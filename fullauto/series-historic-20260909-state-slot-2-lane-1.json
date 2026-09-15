@@ -1739,6 +1739,13 @@
       "modified": "2024-01-08T11:43:23",
       "completed_at": 1789492634,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/peaky-blinders-s01-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "14257|https://thenkiri.com/peaky-blinders-s01-s04-complete-tv-series/|2021-03-29T13:14:31|2024-02-25T01:50:49|{'rendered': 'Peaky Blinders S01 – S04 (Complete) | TV Series'}",
+      "modified": "2024-02-25T01:50:49",
+      "completed_at": 1789492701,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3628,6 +3635,7 @@
     "https://downloadwella.com/y0fgsl79nlz9/Raised.by.Wolves.2020.S01E08.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/MaCET6KKGtr_Zxs2WtjBkLCJU1Ttt3y2",
     "https://downloadwella.com/meh5pymrxlun/Raised.by.Wolves.2020.S01E09.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/1sAkRB9DGMGfjeLrU-aFYKerVFs_617R",
     "https://downloadwella.com/caampt9okhzo/Raised.by.Wolves.2020.S01E10.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/Q1dBtZuFnpROQqLqNqRUWKjCtdbogCXk",
-    "https://downloadwella.com/undjplqxqzo2/DOTA.Dragons.Blood.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-XRuXk-VE63_kKLY0IJ2ZQv3qSCBnJHy"
+    "https://downloadwella.com/undjplqxqzo2/DOTA.Dragons.Blood.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-XRuXk-VE63_kKLY0IJ2ZQv3qSCBnJHy",
+    "https://downloadwella.com/8x9lgezu4npo/Peaky.Blinders.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1swV434jCcS8FNyyzqF1vuJRS8IbTFc3"
   }
 }
