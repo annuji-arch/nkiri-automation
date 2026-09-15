@@ -1535,6 +1535,13 @@
       "modified": "2023-09-02T15:10:02",
       "skipped_at": 1789469725,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/paper-girls-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "47392|https://thenkiri.com/paper-girls-s01-complete-tv-series/|2022-07-30T12:04:47|2023-09-02T15:05:52|{'rendered': 'Paper Girls S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T15:05:52",
+      "skipped_at": 1789469870,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
