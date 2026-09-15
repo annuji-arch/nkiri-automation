@@ -1308,6 +1308,12 @@
       "modified": "2023-12-21T12:29:05",
       "completed_at": 1789447631,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/citadel-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "88211|https://thenkiri.com/citadel-s01-complete-tv-series/|2023-04-28T10:24:06|2024-02-26T19:35:30|{'rendered': 'Citadel S01 (Complete) | TV Series'}",
+      "modified": "2024-02-26T19:35:30",
+      "completed_at": 1789447840
     }
   },
   "series_links": {
@@ -2475,6 +2481,12 @@
     "https://downloadwella.com/f1i3qjc6l60x/Silo.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YqyjlrD-DHQzMsc3q_LH0v27wfFAf21l",
     "https://downloadwella.com/apdk2n1ol8uq/Silo.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZHkeG9xWcUSH0i7jly6fY4YwzND6amS9",
     "https://downloadwella.com/9agev7moffyn/Silo.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cRas0igJxLkaH_QUDx0EJSvjgmZFLWdK",
-    "https://downloadwella.com/qquvbc56a61x/Silo.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bmc4USZQuIauQCMnmaUkHJXCrsLVDWTc"
+    "https://downloadwella.com/qquvbc56a61x/Silo.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bmc4USZQuIauQCMnmaUkHJXCrsLVDWTc",
+    "https://downloadwella.com/qaiy4gyioeoy/Citadel.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YznTAOY82ZSKvbQCkuglSN7fkj7HG04a",
+    "https://downloadwella.com/me1t5zmgjahi/Citadel.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HLilbYEpW3keT5SjwRx2WEkhKtCY498p",
+    "https://downloadwella.com/mlnbospvbg60/Citadel.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mNk0xkawPC0QbspIVo9yhddngnWsTFLj",
+    "https://downloadwella.com/0l59jwoznge4/Citadel.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/13JSfuHSf8kXlwUXOy3ZedLlCCl8XlHk",
+    "https://downloadwella.com/r84t6zi79xht/Citadel.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CTH8dM7XTHAq_HJwSzrc2NsYZ8dQjxon",
+    "https://downloadwella.com/vc4jol4dr06v/Citadel.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U3QKc4loZ_VQK9p6lrY3UQaYF27ieOQa"
   }
 }
