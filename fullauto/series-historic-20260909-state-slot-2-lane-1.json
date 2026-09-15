@@ -1668,6 +1668,13 @@
       "modified": "2023-09-02T10:50:39",
       "skipped_at": 1789490055,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/i-know-what-you-did-last-summer-s01-episodes-1-2-3-4-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30663|https://thenkiri.com/i-know-what-you-did-last-summer-s01-episodes-1-2-3-4-added-tv-series/|2021-10-15T17:52:35|2023-09-02T10:15:57|{'rendered': 'I Know What You Did Last Summer S01 (Episodes 8 Added ) | TV Series'}",
+      "modified": "2023-09-02T10:15:57",
+      "skipped_at": 1789490153,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
