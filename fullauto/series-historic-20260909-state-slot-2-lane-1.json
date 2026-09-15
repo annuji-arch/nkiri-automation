@@ -1746,6 +1746,12 @@
       "modified": "2024-02-25T01:50:49",
       "completed_at": 1789492701,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/jim-jefferies-freedumb/": {
+      "status": "done",
+      "signature": "686|https://thenkiri.com/jim-jefferies-freedumb/|2019-08-27T08:31:22|2023-09-02T07:06:17|{'rendered': 'Jim Jefferies: Freedumb (Standup Comedy)'}",
+      "modified": "2023-09-02T07:06:17",
+      "completed_at": 1789492786
     }
   },
   "series_links": {
@@ -3636,6 +3642,7 @@
     "https://downloadwella.com/meh5pymrxlun/Raised.by.Wolves.2020.S01E09.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/1sAkRB9DGMGfjeLrU-aFYKerVFs_617R",
     "https://downloadwella.com/caampt9okhzo/Raised.by.Wolves.2020.S01E10.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/Q1dBtZuFnpROQqLqNqRUWKjCtdbogCXk",
     "https://downloadwella.com/undjplqxqzo2/DOTA.Dragons.Blood.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-XRuXk-VE63_kKLY0IJ2ZQv3qSCBnJHy",
-    "https://downloadwella.com/8x9lgezu4npo/Peaky.Blinders.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1swV434jCcS8FNyyzqF1vuJRS8IbTFc3"
+    "https://downloadwella.com/8x9lgezu4npo/Peaky.Blinders.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1swV434jCcS8FNyyzqF1vuJRS8IbTFc3",
+    "https://downloadwella.com/xl49l8d0hnvw/Jim_Jefferies-_Freedumb_%7Bwww.nkiri.com%7D.mkv.html": "https://v1.vidfiles.com/d/jeHMaLlRygD5dIIUT_gVMUwxUrR9nl5V"
   }
 }
