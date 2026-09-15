@@ -1654,6 +1654,13 @@
       "modified": "2023-09-02T13:05:57",
       "skipped_at": 1789489843,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/arcane-s01-episode-1-2-and-3-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "31778|https://thenkiri.com/arcane-s01-episode-1-2-and-3-added-tv-series/|2021-11-10T11:37:06|2023-09-02T11:01:47|{'rendered': 'Arcane S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T11:01:47",
+      "skipped_at": 1789489938,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
