@@ -1499,6 +1499,13 @@
       "modified": "2024-01-08T11:37:54",
       "skipped_at": 1789480055,
       "reason": "worker could not process source post"
+    },
+    "https://thenkiri.com/in-the-soop-friendcation-s01-complete-variety-show/": {
+      "status": "partial",
+      "signature": "46913|https://thenkiri.com/in-the-soop-friendcation-s01-complete-variety-show/|2022-07-22T16:35:06|2024-09-09T07:50:31|{'rendered': 'In The Soop: Friendcation S01 (Complete) | Variety Show'}",
+      "modified": "2024-09-09T07:50:31",
+      "completed_at": 1789480231,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3237,6 +3244,8 @@
     "https://downloadwella.com/402rwy79ih0r/House.of.the.Dragon.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AGwkfsmzPfFr31uPNCp65mOX9mhufdD6",
     "https://downloadwella.com/0qntt6q4w468/House.of.the.Dragon.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LHMiSkCZK77QnvixdZRxliQ_55zJZCM4",
     "https://downloadwella.com/eo2fkboel3tu/House.Of.The.Dragon.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3p50s7yjsARstVNvtzK-pg0sbwEQ05Mz",
-    "https://downloadwella.com/56dgj8ew3a6h/Never.Have.I.Ever.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qPz3vw4Lz2BL-WOm6yAzteA7oAHkQ4zN"
+    "https://downloadwella.com/56dgj8ew3a6h/Never.Have.I.Ever.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qPz3vw4Lz2BL-WOm6yAzteA7oAHkQ4zN",
+    "https://downloadwella.com/vjz6evnnimgv/IN.THE.SOOP.Friendcation.E03.(NKIRI.COM).noivndfoinbinfoibnfgbbhhg.mkv.html": "https://v1.vidfiles.com/d/6e2joopk4LPEYMhlm-qrwFCcHZqyCTSs",
+    "https://downloadwella.com/l1y46ze2da53/IN.THE.SOOP.Friendcation.E04.(NKIRI.COM).niovnfoidnvdofinbfogbngfb.mkv.html": "https://v1.vidfiles.com/d/yBY-HxoSf9Me6Lwi-mPc_cDGz2jbPVDg"
   }
 }
