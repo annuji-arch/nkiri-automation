@@ -1583,6 +1583,13 @@
       "modified": "2023-09-02T14:09:35",
       "skipped_at": 1789470665,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/ms-marvel-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43676|https://thenkiri.com/ms-marvel-s01-complete-tv-series/|2022-06-08T09:33:25|2023-09-02T14:07:49|{'rendered': 'Ms. Marvel S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2023-09-02T14:07:49",
+      "skipped_at": 1789470703,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
