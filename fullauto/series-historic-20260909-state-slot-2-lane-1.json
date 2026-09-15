@@ -1541,6 +1541,13 @@
       "modified": "2023-07-09T15:47:47",
       "skipped_at": 1789481447,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/physical-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "43837|https://thenkiri.com/physical-s02-complete-tv-series/|2022-06-10T07:53:33|2024-02-25T06:59:13|{'rendered': 'Physical S02 (Complete) | TV Series'}",
+      "modified": "2024-02-25T06:59:13",
+      "completed_at": 1789481633,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3286,6 +3293,7 @@
     "https://downloadwella.com/2m06zbccjyv1/Coffee.Melody.E07.(NKIRI.COM).mp4": "https://v1.vidfiles.com/d/38DoCYLyhaQAHfS8ekFKoSbf7fIS0S0N",
     "https://downloadwella.com/ln2fu8xd4y4w/Coffee.Melody.E08.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/QaKZ7be1M0yrhk0GuXBpNHAiD0nctHHw",
     "https://downloadwella.com/a387tnknuetu/Coffee.Melody.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jnykwW48RHd7iujps8ktHJ15K3QRWty8",
-    "https://downloadwella.com/5tukwa4yssnx/Coffee.Melody.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lr6g_zFOcqMXhiaJe8vH1goK5B--CI0R"
+    "https://downloadwella.com/5tukwa4yssnx/Coffee.Melody.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lr6g_zFOcqMXhiaJe8vH1goK5B--CI0R",
+    "https://downloadwella.com/kyvqe23vxaf2/Physical.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L-jvBhiDxn5NMw9Z6KwOqgJfkdanIjcK"
   }
 }
