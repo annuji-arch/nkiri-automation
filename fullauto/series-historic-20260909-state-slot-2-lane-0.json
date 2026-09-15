@@ -1301,6 +1301,13 @@
       "modified": "2023-09-02T17:56:19",
       "completed_at": 1789292666,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/silo-complete-tv-series/": {
+      "status": "partial",
+      "signature": "88784|https://thenkiri.com/silo-complete-tv-series/|2023-05-05T13:24:17|2023-12-21T12:29:05|{'rendered': 'Silo S01 (Complete) | TV Series'}",
+      "modified": "2023-12-21T12:29:05",
+      "completed_at": 1789447631,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2460,6 +2467,14 @@
     "https://downloadwella.com/fwqmkz8ciug4/LEGO.DreamZzz.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gyVvURDpLzMMLoO8eBV7XvIii-4vSqjB",
     "https://downloadwella.com/g7lkbiyslkd9/LEGO.DreamZzz.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LXvYsYQZ71GsJR1RFfANLpfKVpq0ZC3g",
     "https://downloadwella.com/otoywvar2dqb/LEGO.DreamZzz.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vzk7QSS60DJpquCk9SdLDLgyOuyDR3I4",
-    "https://downloadwella.com/x0yjzb8cbi1t/LEGO.DreamZzz.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-rYffl9vbZRs7vn_g-PlSMbSV-ITkRD"
+    "https://downloadwella.com/x0yjzb8cbi1t/LEGO.DreamZzz.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-rYffl9vbZRs7vn_g-PlSMbSV-ITkRD",
+    "https://downloadwella.com/erhtfe3wz1d9/Silo.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/veXblJHQTtSiyCAXcPQwc4QizzcSdFZ9",
+    "https://downloadwella.com/n3vv1muggy6n/Silo.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4taUKsB6kjf302O-jLVVvRMhVQjiobi_",
+    "https://downloadwella.com/yberzk3b54fn/Silo.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YpY7ed31WdF1_H5XqRnFraM_XIUxyISN",
+    "https://downloadwella.com/xt5ml3qedc11/Silo.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H8X_VMHnCQCr8KVl2MF3PQkkbrVy1I2G",
+    "https://downloadwella.com/f1i3qjc6l60x/Silo.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YqyjlrD-DHQzMsc3q_LH0v27wfFAf21l",
+    "https://downloadwella.com/apdk2n1ol8uq/Silo.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZHkeG9xWcUSH0i7jly6fY4YwzND6amS9",
+    "https://downloadwella.com/9agev7moffyn/Silo.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cRas0igJxLkaH_QUDx0EJSvjgmZFLWdK",
+    "https://downloadwella.com/qquvbc56a61x/Silo.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bmc4USZQuIauQCMnmaUkHJXCrsLVDWTc"
   }
 }
