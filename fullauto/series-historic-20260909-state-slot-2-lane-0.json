@@ -1700,6 +1700,13 @@
       "modified": "2023-09-02T12:56:50",
       "skipped_at": 1789474165,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/all-american-s04-episode-1-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "31152|https://thenkiri.com/all-american-s04-episode-1-added-tv-series/|2021-10-26T09:47:26|2023-09-02T10:49:54|{'rendered': 'All American S04 (Episode 20 Added) | TV Series'}",
+      "modified": "2023-09-02T10:49:54",
+      "skipped_at": 1789474205,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
