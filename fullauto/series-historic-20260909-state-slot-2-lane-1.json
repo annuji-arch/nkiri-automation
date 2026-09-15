@@ -1513,6 +1513,13 @@
       "modified": "2023-09-02T14:47:07",
       "completed_at": 1789480368,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/cobra-kai-s01-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46227|https://thenkiri.com/cobra-kai-s01-s02-complete-tv-series/|2022-07-12T12:36:12|2023-09-02T14:41:17|{'rendered': 'Cobra Kai S01 & S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:41:17",
+      "skipped_at": 1789480482,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
