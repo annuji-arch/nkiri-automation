@@ -1661,6 +1661,13 @@
       "modified": "2023-09-02T11:01:47",
       "skipped_at": 1789489938,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/locke-and-key-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30975|https://thenkiri.com/locke-and-key-s02-complete-tv-series/|2021-10-22T16:59:19|2023-09-02T10:50:39|{'rendered': 'Locke and Key S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T10:50:39",
+      "skipped_at": 1789490055,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
