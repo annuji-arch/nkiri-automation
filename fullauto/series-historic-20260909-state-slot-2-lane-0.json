@@ -1393,6 +1393,12 @@
       "signature": "80156|https://thenkiri.com/your-honor-complete-tv-series/|2023-01-23T09:31:18|2024-02-26T19:25:59|{'rendered': 'Your Honor (Complete) | TV Series'}",
       "modified": "2024-02-26T19:25:59",
       "completed_at": 1789455560
+    },
+    "https://thenkiri.com/ted-lasso-s01-s02-complete-tv-series/": {
+      "status": "done",
+      "signature": "79789|https://thenkiri.com/ted-lasso-s01-s02-complete-tv-series/|2023-01-20T13:35:44|2023-12-17T12:05:24|{'rendered': 'Ted Lasso S01 & S02 (Complete)  | TV Series'}",
+      "modified": "2023-12-17T12:05:24",
+      "completed_at": 1789456553
     }
   },
   "series_links": {
@@ -2711,6 +2717,28 @@
     "https://downloadwella.com/d7fhwchv2jtv/Your.Honor.US.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C3BjrXHa36S2z4xy_b_jl8c1OmWVtGPn",
     "https://downloadwella.com/vrhxof5ap24o/Your.Honor.US.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gGsNogirj9_e2Ky5dHMM4VkgJnHWelth",
     "https://downloadwella.com/cq1ja3b0b687/Your.Honor.US.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5PtodTgfizhl3ZWLNY9BqdSvb4y9vH93",
-    "https://downloadwella.com/cjoi978dtimj/Your.Honor.US.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lSoKdN0DdJDyTzNWS8sy0WxLf08HxaIt"
+    "https://downloadwella.com/cjoi978dtimj/Your.Honor.US.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lSoKdN0DdJDyTzNWS8sy0WxLf08HxaIt",
+    "https://downloadwella.com/wb43rzjh7fqa/Ted.Lasso.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zzkiO5u4_WfM0pILEFzdO2GeJdJ3pq5Y",
+    "https://downloadwella.com/e1oh6t4wainc/Ted.Lasso.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CYiJgfGXc2QrcfCWuZHoia3cSSx-ToFG",
+    "https://downloadwella.com/yz11ujjr2dkz/Ted.Lasso.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jvq1LZ4z3EYZMKX79-TkEnczTCO3rT3c",
+    "https://downloadwella.com/deeu5wbmdybj/Ted.Lasso.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3YHrlONY7xd5cuSzneivMHMP3oYkjlL8",
+    "https://downloadwella.com/nmo0rwi1bety/Ted.Lasso.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o61hpbfHglNUVrB4hs9EfKoPgpdsO8Yl",
+    "https://downloadwella.com/4f77bjwneq7g/Ted.Lasso.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gN7YRQK4Br_x1qV2nMyNTN9MiH1ONErc",
+    "https://downloadwella.com/1zcumlz0rusv/Ted.Lasso.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ri9aSZd__XEBbr6S1QRkVxxB-lih1fKK",
+    "https://downloadwella.com/9gj9tlnknby5/Ted.Lasso.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mtd9FKcPoowHUe7EiEZ1bqmJub_luZ-8",
+    "https://downloadwella.com/mxqqa9vt3cx6/Ted.Lasso.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2rWi_rufyWgEoVa0tqvXWAmlY7jOE04v",
+    "https://downloadwella.com/l0xxj0rp6did/Ted.Lasso.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HRsqZV6PFHd9j5gWOU9sTX-tBoyxQVL4",
+    "https://downloadwella.com/c9oesa5xjsro/Ted.Lasso.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zXg30hLO-1q0z9_gZCwIYr_HobvI1tnc",
+    "https://downloadwella.com/h9g7hm796yhf/Ted.Lasso.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dkR4SLo4iIqf3Nm1YwQlYvdQHH_ctNGV",
+    "https://downloadwella.com/9cimxnb4ax83/Ted.Lasso.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gT-8ux7Mr6bTFYUGn1qwOcFJHXx76Rit",
+    "https://downloadwella.com/kojb4kd3qw4s/Ted.Lasso.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dpS2-w8AhUfBmfz6zBk_fy8M3XW80Ze3",
+    "https://downloadwella.com/xyekd8b8raku/Ted.Lasso.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vaQ7y9CZGwPFkZSZEjGzZVTEXGUkbFBC",
+    "https://downloadwella.com/mymhjenx9oek/Ted.Lasso.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4vzyJ60Gf-ljBRE2xOg9x2jJovjnrwBc",
+    "https://downloadwella.com/cux3hc04hob5/Ted.Lasso.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sah8NipYtEeiMrOh2ycma8u3TD8h0vuZ",
+    "https://downloadwella.com/7u41b7tsl3d2/Ted.Lasso.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sBhDbr1lCRJ-b9OPQHGiMiViBgIbI767",
+    "https://downloadwella.com/aonj2nr4f6z9/Ted.Lasso.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EJY7Y5HrP_wY1uADSRhJCrSj3qnTH5gT",
+    "https://downloadwella.com/xapoatj1bunv/Ted.Lasso.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IyXlPoz24MLlxJawebNOdpx-Td8pBnwE",
+    "https://downloadwella.com/rqpd1f5uy5zt/Ted.Lasso.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tAc_-tjKHapoVJB6aL7YbvEvZ6bjHzNC",
+    "https://downloadwella.com/lcvdy9k2mxy8/Ted.Lasso.S02E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oLnlKoVwF_pWg3uRtiDsLsa1wlRxXROf"
   }
 }
