@@ -1624,6 +1624,13 @@
       "modified": "2023-09-02T13:44:05",
       "skipped_at": 1789471963,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/queen-of-the-south-s03-n-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39340|https://thenkiri.com/queen-of-the-south-s03-n-s04-complete-tv-series/|2022-04-09T12:04:23|2023-09-02T13:39:13|{'rendered': 'Queen of the South S03 & S04 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:39:13",
+      "skipped_at": 1789472162,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
