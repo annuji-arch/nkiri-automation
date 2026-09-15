@@ -1555,6 +1555,13 @@
       "modified": "2023-12-17T10:05:00",
       "completed_at": 1789470464,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/boo-bitch-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "45842|https://thenkiri.com/boo-bitch-s01-complete-tv-series/|2022-07-08T12:18:37|2023-09-02T14:36:15|{'rendered': 'Boo, Bitch S01 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T14:36:15",
+      "skipped_at": 1789470503,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
