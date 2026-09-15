@@ -1520,6 +1520,13 @@
       "modified": "2023-09-02T14:41:17",
       "skipped_at": 1789480482,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-upshaws-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "45359|https://thenkiri.com/the-upshaws-s02-complete-tv-series/|2022-06-30T13:25:16|2023-09-02T14:27:46|{'rendered': 'The Upshaws S02 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T14:27:46",
+      "skipped_at": 1789480528,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
