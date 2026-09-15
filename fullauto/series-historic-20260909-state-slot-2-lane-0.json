@@ -1644,6 +1644,13 @@
       "modified": "2023-09-02T13:12:59",
       "completed_at": 1789473291,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/lost-in-space-s01-and-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "36919|https://thenkiri.com/lost-in-space-s01-and-s02-complete-tv-series/|2022-02-21T08:10:17|2023-09-02T13:08:56|{'rendered': 'Lost in Space S01 and S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:08:56",
+      "skipped_at": 1789473601,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
