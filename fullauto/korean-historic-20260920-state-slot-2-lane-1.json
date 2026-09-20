@@ -792,6 +792,13 @@
       "modified": "2023-09-02T13:47:58",
       "skipped_at": 1789941625,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-mysterious-class-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "39690|https://thenkiri.com/the-mysterious-class-s01-complete-korean-drama/|2022-04-15T07:35:37|2023-09-02T13:41:12|{'rendered': 'The Mysterious Class S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:41:12",
+      "skipped_at": 1789941687,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
