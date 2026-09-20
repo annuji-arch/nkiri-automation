@@ -792,6 +792,13 @@
       "modified": "2023-09-02T14:06:36",
       "skipped_at": 1789936638,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/eve-s01-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "43355|https://thenkiri.com/eve-s01-episode-1-added-korean-drama/|2022-06-01T19:53:01|2023-09-02T14:01:49|{'rendered': 'Eve S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:01:49",
+      "skipped_at": 1789936848,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
