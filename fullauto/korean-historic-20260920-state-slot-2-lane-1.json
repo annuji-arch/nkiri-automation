@@ -772,6 +772,13 @@
       "modified": "2023-09-02T13:59:26",
       "skipped_at": 1789940769,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-sound-of-magic-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "41718|https://thenkiri.com/the-sound-of-magic-s01-complete-korean-drama/|2022-05-10T07:46:14|2023-09-02T13:55:30|{'rendered': 'The Sound of Magic S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:55:30",
+      "skipped_at": 1789940806,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
