@@ -929,6 +929,13 @@
       "modified": "2023-09-02T10:14:56",
       "skipped_at": 1789940163,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/suits-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "30322|https://thenkiri.com/suits-complete-korean-drama/|2021-10-10T17:34:15|2023-09-02T10:05:38|{'rendered': 'Suits (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:05:38",
+      "completed_at": 1789940440,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1103,6 +1110,12 @@
     "https://downloadwella.com/jzmck1xhm5lg/2.Weeks.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4n8mZaM-w21nSyE-Hyj_U7_nsbb2h4Qf",
     "https://downloadwella.com/lhp5skpsxo7t/2.Weeks.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_zOU0ODnwPjEkP8OgT1FCFalU_hBTq8I",
     "https://downloadwella.com/s156xrl1ug6h/2.Weeks.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ltg_-OJ1IhgkMmC9halPRqksMGhKsE7n",
-    "https://downloadwella.com/osbbk0s06bgr/2.Weeks.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sQaRddsW25Yed1Ux2aS6_uqLGKzoEwgo"
+    "https://downloadwella.com/osbbk0s06bgr/2.Weeks.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sQaRddsW25Yed1Ux2aS6_uqLGKzoEwgo",
+    "https://downloadwella.com/n4ud3296mr6m/Suits.2018.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sqDvthangoW7FIIrZHdfsK7H4c3go9z3",
+    "https://downloadwella.com/hdcq50i7amjq/Suits.2018.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IwfSGC7Vi-nM9-5lZIP3DtdmrPdhFzWt",
+    "https://downloadwella.com/cmypil6ieu5n/Suits.2018.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k966NuTkwTGbVsiaPdIR_YyGPD_Dgw_S",
+    "https://downloadwella.com/qxcpcst1j50s/Suits.2018.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kJNNWPJBkVQonZI6yUzXTF3g653GzGHE",
+    "https://downloadwella.com/6h4je8ckawxc/Suits.2018.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oJFyt4hznLCEKICMUB5fbeyz7jSzUBi1",
+    "https://downloadwella.com/s27v4dkaulgc/Suits.2018.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oJFyt4hznLCEKICMUB5fbeyz7jSzUBi1"
   }
 }
