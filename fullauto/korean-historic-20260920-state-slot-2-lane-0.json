@@ -832,6 +832,13 @@
       "modified": "2023-09-02T13:35:54",
       "skipped_at": 1789938056,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/happy-and-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "38790|https://thenkiri.com/happy-and-s01-complete-korean-drama/|2022-03-29T17:18:13|2023-09-02T13:24:25|{'rendered': 'Happy And S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:24:25",
+      "skipped_at": 1789938234,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
