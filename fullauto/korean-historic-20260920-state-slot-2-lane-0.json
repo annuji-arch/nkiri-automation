@@ -867,6 +867,13 @@
       "modified": "2023-09-02T13:42:49",
       "skipped_at": 1789938945,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/all-of-us-are-dead-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "35730|https://thenkiri.com/all-of-us-are-dead-s01-complete-korean-drama/|2022-01-28T13:15:07|2023-09-02T13:30:10|{'rendered': 'All of Us Are Dead S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:30:10",
+      "skipped_at": 1789939091,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
