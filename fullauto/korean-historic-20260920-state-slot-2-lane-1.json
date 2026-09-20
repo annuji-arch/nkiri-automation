@@ -954,6 +954,13 @@
       "signature": "15889|https://thenkiri.com/bossam-steal-the-fate-episode-2-added-korean-drama/|2021-05-05T11:21:55|2023-09-02T09:10:26|{'rendered': 'Bossam Steal the Fate (Complete) | Korean Drama'}",
       "modified": "2023-09-02T09:10:26",
       "completed_at": 1789948502
+    },
+    "https://thenkiri.com/chicago-typewriter-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15533|https://thenkiri.com/chicago-typewriter-complete-korean-drama/|2021-04-25T12:14:44|2023-09-02T09:02:02|{'rendered': 'Chicago Typewriter (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:02:02",
+      "skipped_at": 1789948535,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
