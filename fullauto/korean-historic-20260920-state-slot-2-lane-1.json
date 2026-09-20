@@ -935,6 +935,13 @@
       "modified": "2024-12-24T14:49:28",
       "skipped_at": 1789947584,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-innocent-man-nice-guy-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17111|https://thenkiri.com/the-innocent-man-nice-guy-complete-korean-drama/|2021-06-06T13:21:48|2023-09-02T09:19:00|{'rendered': 'The Innocent Man / Nice Guy (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:19:00",
+      "skipped_at": 1789947621,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
