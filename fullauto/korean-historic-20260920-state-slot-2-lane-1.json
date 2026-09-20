@@ -758,6 +758,13 @@
       "modified": "2023-12-15T06:47:07",
       "completed_at": 1789940599,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/insider-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "43711|https://thenkiri.com/insider-s01-complete-korean-drama/|2022-06-09T05:18:33|2023-09-02T14:07:40|{'rendered': 'Insider S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:07:40",
+      "skipped_at": 1789940722,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
