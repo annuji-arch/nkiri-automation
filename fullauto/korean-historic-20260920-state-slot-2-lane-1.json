@@ -855,6 +855,13 @@
       "modified": "2023-09-02T13:21:50",
       "completed_at": 1789942777,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/moonshine-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "33846|https://thenkiri.com/moonshine-episode-1-added-korean-drama/|2021-12-21T04:35:06|2023-09-02T13:12:45|{'rendered': 'Moonshine (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:12:45",
+      "skipped_at": 1789942927,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
