@@ -1001,6 +1001,13 @@
       "modified": "2023-09-02T08:45:19",
       "skipped_at": 1789943482,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sassy-go-go-cheer-up-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13680|https://thenkiri.com/sassy-go-go-cheer-up-korean-drama/|2021-03-06T11:01:38|2023-09-02T08:43:47|{'rendered': 'Sassy Go Go / Cheer Up! | Korean Drama'}",
+      "modified": "2023-09-02T08:43:47",
+      "skipped_at": 1789943550,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
