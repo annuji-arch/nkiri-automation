@@ -764,6 +764,13 @@
       "signature": "59796|https://thenkiri.com/stockstruck-s01-complete-korean-drama/|2022-08-19T07:21:25|2024-02-25T07:02:35|{'rendered': 'Stockstruck S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-25T07:02:35",
       "completed_at": 1789936128
+    },
+    "https://thenkiri.com/something-anput-1-percent-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "46990|https://thenkiri.com/something-anput-1-percent-complete-korean-drama/|2022-07-24T09:49:03|2023-09-02T14:53:16|{'rendered': 'Something About 1% S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:53:16",
+      "skipped_at": 1789936237,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
