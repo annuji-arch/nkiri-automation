@@ -987,6 +987,13 @@
       "modified": "2023-09-02T09:04:02",
       "skipped_at": 1789943273,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/taxi-driver-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15130|https://thenkiri.com/taxi-driver-korean-drama/|2021-04-11T07:40:46|2023-09-02T08:57:41|{'rendered': 'Taxi Driver (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:57:41",
+      "skipped_at": 1789943445,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
