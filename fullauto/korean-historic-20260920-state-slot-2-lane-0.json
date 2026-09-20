@@ -888,6 +888,13 @@
       "modified": "2023-09-02T13:19:39",
       "skipped_at": 1789939315,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/user-not-found-episode-4-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "33608|https://thenkiri.com/user-not-found-episode-4-added-korean-drama/|2021-12-15T09:11:19|2023-09-02T13:13:44|{'rendered': 'User Not Found (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:13:44",
+      "skipped_at": 1789939416,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
