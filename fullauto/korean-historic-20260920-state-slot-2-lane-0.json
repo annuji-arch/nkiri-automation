@@ -805,6 +805,13 @@
       "signature": "42219|https://thenkiri.com/radiant-office-s01-complete-korean-drama/|2022-05-17T09:24:36|2024-02-27T19:50:03|{'rendered': 'Radiant Office S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-27T19:50:03",
       "completed_at": 1789937212
+    },
+    "https://thenkiri.com/hotel-king-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "41637|https://thenkiri.com/hotel-king-s01-complete-korean-drama/|2022-05-09T11:18:58|2024-03-13T19:15:56|{'rendered': 'Hotel King S01 (Complete) | Korean Drama'}",
+      "modified": "2024-03-13T19:15:56",
+      "skipped_at": 1789937507,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
