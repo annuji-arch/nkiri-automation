@@ -785,6 +785,13 @@
       "signature": "41145|https://thenkiri.com/iris-ii-s02-complete-korean-drama/|2022-05-01T08:55:26|2023-09-02T13:50:32|{'rendered': 'Iris II S02 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:50:32",
       "completed_at": 1789941514
+    },
+    "https://thenkiri.com/the-killers-shopping-list-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "40737|https://thenkiri.com/the-killers-shopping-list-s01-complete-korean-drama/|2022-04-27T21:17:01|2023-09-02T13:47:58|{'rendered': 'The Killer’s Shopping List S01 (Episode 8 Added) | Korean Drama'}",
+      "modified": "2023-09-02T13:47:58",
+      "skipped_at": 1789941625,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
