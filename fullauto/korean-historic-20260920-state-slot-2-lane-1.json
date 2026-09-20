@@ -921,6 +921,13 @@
       "signature": "19087|https://thenkiri.com/my-shy-boss-aka-introverted-boss-s01-complete-korean-drama/|2021-07-20T09:56:47|2024-02-24T14:42:29|{'rendered': 'My Shy Boss aka Introverted Boss S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-24T14:42:29",
       "completed_at": 1789947336
+    },
+    "https://thenkiri.com/tunnel-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17941|https://thenkiri.com/tunnel-s01-complete-korean-drama/|2021-06-22T14:08:49|2023-09-02T09:25:55|{'rendered': 'Tunnel S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:25:55",
+      "skipped_at": 1789947539,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
