@@ -771,6 +771,13 @@
       "modified": "2023-09-02T14:53:16",
       "skipped_at": 1789936237,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/never-give-up-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "45780|https://thenkiri.com/never-give-up-s01-complete-korean-drama/|2022-07-07T20:44:07|2023-09-02T14:36:38|{'rendered': 'Never Give Up S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:36:38",
+      "skipped_at": 1789936285,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
