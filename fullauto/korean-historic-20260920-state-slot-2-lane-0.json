@@ -994,6 +994,13 @@
       "modified": "2023-09-02T08:57:41",
       "skipped_at": 1789943445,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/my-secret-romance-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13916|https://thenkiri.com/my-secret-romance-complete-korean-drama/|2021-03-18T16:21:47|2023-09-02T08:45:19|{'rendered': 'My Secret Romance (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:45:19",
+      "skipped_at": 1789943482,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
