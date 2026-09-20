@@ -1008,6 +1008,13 @@
       "modified": "2023-09-02T08:43:47",
       "skipped_at": 1789943550,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sisyphus-the-myth-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13381|https://thenkiri.com/sisyphus-the-myth-korean-drama/|2021-02-22T10:53:41|2023-09-02T08:38:33|{'rendered': 'Sisyphus The Myth (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:38:33",
+      "skipped_at": 1789943729,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
