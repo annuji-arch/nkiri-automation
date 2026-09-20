@@ -846,6 +846,13 @@
       "modified": "2023-09-02T13:14:34",
       "skipped_at": 1789938408,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/crazy-love-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37639|https://thenkiri.com/crazy-love-episode-1-added-korean-drama/|2022-03-07T18:26:32|2023-09-02T13:13:03|{'rendered': 'Crazy Love S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:13:03",
+      "skipped_at": 1789938578,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
