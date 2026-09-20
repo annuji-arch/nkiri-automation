@@ -848,6 +848,13 @@
       "modified": "2023-09-02T13:28:17",
       "skipped_at": 1789942587,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/ghost-doctor-episode-1-added-korean-drama/": {
+      "status": "partial",
+      "signature": "34479|https://thenkiri.com/ghost-doctor-episode-1-added-korean-drama/|2022-01-03T21:03:02|2023-09-02T13:21:50|{'rendered': 'Ghost Doctor (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:21:50",
+      "completed_at": 1789942777,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1124,6 +1131,7 @@
     "https://downloadwella.com/kb72ebriwfch/Iris.S02E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nhVsue0RELaX2k4GV61wr_p5Kb4E666z",
     "https://downloadwella.com/umbtek19l8tj/Iris.S02E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZH_tVF3BdJuKdOxlPwwlPXr_q7NWIn_G",
     "https://downloadwella.com/lqqhpg13qb82/Iris.S02E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h_z0BE-ysv_sys5ObBk7z_LFGIRsqLew",
-    "https://downloadwella.com/637onvlb3ciy/Iris.S02E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hoIKemOniQl3Hb7bZe3ZwjT2d1coHZoc"
+    "https://downloadwella.com/637onvlb3ciy/Iris.S02E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hoIKemOniQl3Hb7bZe3ZwjT2d1coHZoc",
+    "https://downloadwella.com/6h3y45iybhfg/Ghost.Doctor.E16.(NKIRI.COM).niovnfodinoidngfbinobobnofgnbgoignoinoignfhnhi.mkv.html": "https://v1.vidfiles.com/d/hmTePL45JFfyQEolMzhnUb_z8BJPg30r"
   }
 }
