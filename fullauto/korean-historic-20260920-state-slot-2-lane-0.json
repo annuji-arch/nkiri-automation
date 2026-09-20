@@ -818,6 +818,13 @@
       "signature": "40966|https://thenkiri.com/longing-heart-s01-complete-korean-drama/|2022-04-29T13:03:47|2023-09-02T13:51:19|{'rendered': 'Longing Heart S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:51:19",
       "completed_at": 1789937693
+    },
+    "https://thenkiri.com/shooting-stars-s01-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "40344|https://thenkiri.com/shooting-stars-s01-episode-1-added-korean-drama/|2022-04-22T21:24:40|2023-09-02T13:45:26|{'rendered': 'Shooting Stars S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:45:26",
+      "skipped_at": 1789937877,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
