@@ -902,6 +902,13 @@
       "modified": "2023-09-02T13:08:44",
       "skipped_at": 1789939549,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/fly-again-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32050|https://thenkiri.com/fly-again-episode-1-added-korean-drama/|2021-11-15T19:59:54|2023-09-02T12:57:15|{'rendered': 'Fly Again (Episode 10 Added) | Korean Drama'}",
+      "modified": "2023-09-02T12:57:15",
+      "skipped_at": 1789939645,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
