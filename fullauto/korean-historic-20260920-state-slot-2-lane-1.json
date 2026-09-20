@@ -827,6 +827,13 @@
       "modified": "2023-09-02T13:10:59",
       "skipped_at": 1789942226,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/hyena-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "36830|https://thenkiri.com/hyena-s01-complete-korean-drama/|2022-02-18T16:44:08|2023-09-02T13:41:56|{'rendered': 'Hyena S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:41:56",
+      "skipped_at": 1789942449,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
