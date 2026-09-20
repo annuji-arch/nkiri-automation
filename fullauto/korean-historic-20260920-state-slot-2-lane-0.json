@@ -1061,6 +1061,13 @@
       "signature": "5825|https://thenkiri.com/complete-hwarang-the-poet-warrior-korean-drama-480p/|2020-06-11T09:46:09|2024-02-24T14:51:15|{'rendered': 'Hwarang :The Poet Warrior (complete) | Korean Drama (480p)'}",
       "modified": "2024-02-24T14:51:15",
       "completed_at": 1789945620
+    },
+    "https://thenkiri.com/rugal-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "5439|https://thenkiri.com/rugal-korean-drama/|2020-06-03T14:27:40|2023-09-02T07:30:24|{'rendered': 'Rugal S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T07:30:24",
+      "skipped_at": 1789945852,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
