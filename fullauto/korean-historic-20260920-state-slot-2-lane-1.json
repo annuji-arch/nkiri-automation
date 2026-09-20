@@ -928,6 +928,13 @@
       "modified": "2023-09-02T09:25:55",
       "skipped_at": 1789947539,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/about-time-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17459|https://thenkiri.com/about-time-korean-drama/|2021-06-13T12:12:51|2024-12-24T14:49:28|{'rendered': 'About Time (Complete) | Korean Drama'}",
+      "modified": "2024-12-24T14:49:28",
+      "skipped_at": 1789947584,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
