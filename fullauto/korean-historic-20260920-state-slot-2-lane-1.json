@@ -862,6 +862,13 @@
       "modified": "2023-09-02T13:12:45",
       "skipped_at": 1789942927,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/our-beloved-summer-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "33256|https://thenkiri.com/our-beloved-summer-episode-1-added-korean-drama/|2021-12-07T05:50:09|2023-09-02T13:10:26|{'rendered': 'Our Beloved Summer (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:10:26",
+      "skipped_at": 1789943102,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
