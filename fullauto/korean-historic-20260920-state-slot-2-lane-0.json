@@ -712,6 +712,13 @@
       "signature": "91201|https://thenkiri.com/bloodhounds-complete-korean-drama/|2023-06-09T09:44:33|2023-09-02T18:09:45|{'rendered': 'Bloodhounds (Complete) | Korean Drama'}",
       "modified": "2023-09-02T18:09:45",
       "completed_at": 1789933091
+    },
+    "https://thenkiri.com/decoy-aka-the-bait-s01-part-2-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "86475|https://thenkiri.com/decoy-aka-the-bait-s01-part-2-complete-korean-drama/|2023-04-07T15:05:11|2023-12-16T06:01:15|{'rendered': 'Decoy aka The Bait S01 Part 2 (Episode 5 & 6 Added) | Korean Drama'}",
+      "modified": "2023-12-16T06:01:15",
+      "completed_at": 1789933250,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -771,6 +778,10 @@
     "https://downloadwella.com/pqzx4cdqo35q/Bloodhounds.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1RUWSkOvYi-JySCn5f_z4hpS5LUkZBA8",
     "https://downloadwella.com/pfoopu7qsvkh/Bloodhounds.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fcX3J6DA8A0O3VkBluzi48Pc68QH7Omj",
     "https://downloadwella.com/h6rud91id76s/Bloodhounds.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QKFgHH265ZRJ3p5im_VvMzOKyz7uZA8F",
-    "https://downloadwella.com/da639kow7hk3/Bloodhounds.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H1qXTSuVjm4aC9OzdZKf1sFDA78NzU8R"
+    "https://downloadwella.com/da639kow7hk3/Bloodhounds.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H1qXTSuVjm4aC9OzdZKf1sFDA78NzU8R",
+    "https://downloadwella.com/koludq5b9j75/Decoy.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oschv5m4B2FJzMAy0SOD39Gdk1XklUsw",
+    "https://downloadwella.com/zw7koka4o3lw/Decoy.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aLheEITEKU2XUgRggB3W_S1XPu9g0eNj",
+    "https://downloadwella.com/u4j6fjzgrgyy/Decoy.Part.2.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ffOQInSxv0TDshJX_kIJ6NrOeQKEsqTi",
+    "https://downloadwella.com/7gl3zdxfbipg/Decoy.Part.2.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dn9tt_gcQGny5ef-1qnQf5bF3VciPo1i"
   }
 }
