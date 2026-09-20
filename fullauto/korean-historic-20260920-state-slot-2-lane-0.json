@@ -973,6 +973,13 @@
       "signature": "16682|https://thenkiri.com/mad-for-each-other-korean-drama/|2021-05-28T06:30:48|2023-09-02T09:13:40|{'rendered': 'Mad For Each Other (Complete) | Korean Drama'}",
       "modified": "2023-09-02T09:13:40",
       "completed_at": 1789943128
+    },
+    "https://thenkiri.com/navillera-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "16075|https://thenkiri.com/navillera-complete-korean-drama/|2021-05-11T11:58:32|2023-09-02T09:09:16|{'rendered': 'Navillera (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:09:16",
+      "skipped_at": 1789943228,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
