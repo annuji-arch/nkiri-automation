@@ -1029,6 +1029,13 @@
       "modified": "2023-09-02T08:25:37",
       "skipped_at": 1789943918,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/search-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "9415|https://thenkiri.com/search-complete-korean-drama/|2020-11-20T01:23:53|2024-04-03T08:22:47|{'rendered': 'Search (Complete) | Korean Drama'}",
+      "modified": "2024-04-03T08:22:47",
+      "completed_at": 1789943987,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1289,6 +1296,7 @@
     "https://downloadwella.com/su2c77haml2b/Mad.for.Each.Other.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bUbsmSQOer77Ku_DkOnUKPuojX-MBRTG",
     "https://downloadwella.com/5cuwauvxlmz7/Mad.for.Each.Other.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eEtQ_WWkhayXtdar_hxAIsECkjQ9f4q1",
     "https://downloadwella.com/kpz6asko6kyv/Mad.for.Each.Other.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EZfcME55rnmU37hbgeovRCoiCqdKL3wt",
-    "https://downloadwella.com/bguyrsnjo7zd/Mad.for.Each.Other.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y_MV_jKiEiwS6F_k2iOKUvvl94v5TGWh"
+    "https://downloadwella.com/bguyrsnjo7zd/Mad.for.Each.Other.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y_MV_jKiEiwS6F_k2iOKUvvl94v5TGWh",
+    "https://downloadwella.com/w6ymdu9mjikc/Search.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xvXEdgBKaqIu6Urk9UOI-S8S3wQOU_is"
   }
 }
