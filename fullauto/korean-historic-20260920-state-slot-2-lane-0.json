@@ -915,6 +915,13 @@
       "signature": "31687|https://thenkiri.com/2-weeks-s01-complete-korean-drama/|2021-11-08T12:18:26|2023-12-19T07:33:21|{'rendered': '2 Weeks S01 (Complete) | Korean Drama'}",
       "modified": "2023-12-19T07:33:21",
       "completed_at": 1789940035
+    },
+    "https://thenkiri.com/dr-brain-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "31372|https://thenkiri.com/dr-brain-episode-1-added-korean-drama/|2021-11-04T07:40:12|2023-09-02T10:53:10|{'rendered': 'Dr. Brain (Episode 6 Added) | Korean Drama'}",
+      "modified": "2023-09-02T10:53:10",
+      "skipped_at": 1789940112,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
