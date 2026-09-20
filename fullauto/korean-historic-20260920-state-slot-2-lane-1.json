@@ -841,6 +841,13 @@
       "modified": "2023-09-02T13:40:35",
       "skipped_at": 1789942498,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/tracer-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "35335|https://thenkiri.com/tracer-korean-drama/|2022-01-20T10:40:18|2023-09-02T13:28:17|{'rendered': 'Tracer (Episode 8 Added) | Korean Drama'}",
+      "modified": "2023-09-02T13:28:17",
+      "skipped_at": 1789942587,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
