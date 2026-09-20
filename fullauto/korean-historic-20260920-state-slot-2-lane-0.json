@@ -839,6 +839,13 @@
       "modified": "2023-09-02T13:24:25",
       "skipped_at": 1789938234,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/graceful-family-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "38217|https://thenkiri.com/graceful-family-s01-complete-korean-drama/|2022-03-18T17:08:00|2023-09-02T13:14:34|{'rendered': 'Graceful Family S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:14:34",
+      "skipped_at": 1789938408,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
