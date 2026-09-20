@@ -745,6 +745,13 @@
       "modified": "2024-02-25T02:04:11",
       "completed_at": 1789935457,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/a-man-called-god-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "68678|https://thenkiri.com/a-man-called-god-complete-korean-drama/|2022-10-21T19:55:17|2023-09-02T16:22:00|{'rendered': 'A Man Called God (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T16:22:00",
+      "skipped_at": 1789935658,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
