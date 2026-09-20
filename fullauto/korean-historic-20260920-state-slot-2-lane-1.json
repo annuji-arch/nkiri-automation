@@ -869,6 +869,13 @@
       "modified": "2023-09-02T13:10:26",
       "skipped_at": 1789943102,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/shadow-beauty-episode-1-2-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32327|https://thenkiri.com/shadow-beauty-episode-1-2-added-korean-drama/|2021-11-20T15:40:42|2023-09-02T13:06:36|{'rendered': 'Shadow Beauty S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:06:36",
+      "skipped_at": 1789943199,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
