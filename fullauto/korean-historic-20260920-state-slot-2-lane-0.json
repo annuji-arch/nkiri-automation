@@ -954,6 +954,13 @@
       "signature": "18201|https://thenkiri.com/clean-with-passion-complete-korean-drama/|2021-06-30T09:47:40|2024-02-24T05:46:59|{'rendered': 'Clean With Passion S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-24T05:46:59",
       "completed_at": 1789941308
+    },
+    "https://thenkiri.com/hospital-playlist-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17673|https://thenkiri.com/hospital-playlist-s01-complete-korean-drama/|2021-06-18T07:21:39|2023-09-02T09:23:33|{'rendered': 'Hospital Playlist S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:23:33",
+      "skipped_at": 1789941447,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
