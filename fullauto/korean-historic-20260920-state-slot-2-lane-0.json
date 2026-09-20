@@ -980,6 +980,13 @@
       "modified": "2023-09-02T09:09:16",
       "skipped_at": 1789943228,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/dark-hole-episode-2-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15830|https://thenkiri.com/dark-hole-episode-2-added-korean-drama/|2021-05-03T12:02:59|2023-09-02T09:04:02|{'rendered': 'Dark Hole S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:04:02",
+      "skipped_at": 1789943273,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
