@@ -825,6 +825,13 @@
       "modified": "2023-09-02T13:45:26",
       "skipped_at": 1789937877,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/hello-my-twenties-s02-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "39203|https://thenkiri.com/hello-my-twenties-s02-complete-korean-drama/|2022-04-07T08:52:07|2023-09-02T13:35:54|{'rendered': 'Hello, My Twenties S02 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:35:54",
+      "skipped_at": 1789938056,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
