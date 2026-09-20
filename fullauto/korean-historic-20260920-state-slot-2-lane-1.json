@@ -730,6 +730,13 @@
       "signature": "64532|https://thenkiri.com/the-law-cafe-s01-complete-korean-drama/|2022-09-05T22:45:12|2024-02-24T21:46:06|{'rendered': 'The Law Cafe S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-24T21:46:06",
       "completed_at": 1789940029
+    },
+    "https://thenkiri.com/my-unfamiliar-family-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "47351|https://thenkiri.com/my-unfamiliar-family-s01-complete-korean-drama/|2022-07-29T16:20:09|2023-09-02T15:06:07|{'rendered': 'My Unfamiliar Family S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T15:06:07",
+      "skipped_at": 1789940077,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
