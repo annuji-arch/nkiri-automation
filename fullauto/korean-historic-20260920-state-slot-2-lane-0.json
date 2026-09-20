@@ -1022,6 +1022,13 @@
       "modified": "2024-02-11T18:46:10",
       "skipped_at": 1789943770,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/fight-for-my-way-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9866|https://thenkiri.com/fight-for-my-way-korean-drama/|2020-12-24T04:21:50|2023-09-02T08:25:37|{'rendered': 'Fight For My Way | Korean Drama'}",
+      "modified": "2023-09-02T08:25:37",
+      "skipped_at": 1789943918,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
