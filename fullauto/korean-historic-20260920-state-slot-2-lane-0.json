@@ -685,6 +685,13 @@
       "signature": "114104|https://thenkiri.com/chief-detective-1958-s01-complete-korean-drama/|2024-04-19T16:07:47|2024-05-18T19:16:54|{'rendered': 'Chief Detective 1958 S01 (Episode 10 Added) | Korean Drama'}",
       "modified": "2024-05-18T19:16:54",
       "completed_at": 1789932218
+    },
+    "https://thenkiri.com/deaths-game-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "104554|https://thenkiri.com/deaths-game-complete-korean-drama/|2023-12-15T07:25:14|2024-01-05T17:03:33|{'rendered': 'Death’s Game S01 (Complete) | Korean Drama'}",
+      "modified": "2024-01-05T17:03:33",
+      "completed_at": 1789932353,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -721,6 +728,10 @@
     "https://downloadwella.com/ll3fn5ex1693/Chief.Detective.1958.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qMK2zHj6-DitrwXUHGUZekx1Y_wzO8mW",
     "https://downloadwella.com/u2q9na2blj2t/Chief.Detective.1958.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_6ptWkkvO4ehZrirvbt4cNuX-_LuKcrv",
     "https://downloadwella.com/vwi6c87kaj7r/Chief.Detective.1958.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Lo_PV0ing0IgaERjTHrFNoJY4Lb7US4",
-    "https://downloadwella.com/fb4jk34ft4f5/Chief.Detective.1958.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/McwQe35jpfB1ghVpRDRpZgyx8UuyZRe0"
+    "https://downloadwella.com/fb4jk34ft4f5/Chief.Detective.1958.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/McwQe35jpfB1ghVpRDRpZgyx8UuyZRe0",
+    "https://downloadwella.com/hufkt7gpyh8r/Deaths.Game.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SJpRNrfmAnekEDkIH_QtrOLDSPp-1Vnb",
+    "https://downloadwella.com/tz2eqxtpvgdx/Deaths.Game.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GBQTAgN9p6rsk_gVwiPS6W7AW9h2AsPt",
+    "https://downloadwella.com/l69wv2vtr0j4/Deaths.Game.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oWOkt1hoTSwwzFg4PytN5mvjxQEUxMK_",
+    "https://downloadwella.com/699n3u4sgdfs/Deaths.Game.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/F8KnKa6WrXD8edSwIMj21RuqO3MzUavj"
   }
 }
