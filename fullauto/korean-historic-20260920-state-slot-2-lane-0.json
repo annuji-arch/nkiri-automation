@@ -853,6 +853,13 @@
       "modified": "2023-09-02T13:13:03",
       "skipped_at": 1789938578,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sponsor-s01-episode-1-added-korean-drama/": {
+      "status": "partial",
+      "signature": "37133|https://thenkiri.com/sponsor-s01-episode-1-added-korean-drama/|2022-02-25T15:06:08|2023-09-02T13:05:25|{'rendered': 'Sponsor S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:05:25",
+      "completed_at": 1789938705,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1010,6 +1017,7 @@
     "https://downloadwella.com/4wgn095j41j6/Longing.Heart.2018.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XEZPqJB6D22-MZKBQHWV51WxbYmZ5x2b",
     "https://downloadwella.com/s4sgerlktehu/Longing.Heart.2018.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7LcaULV8ejcBCMKO3ZmBY5TuAyly11s7",
     "https://downloadwella.com/cme58i9izhca/Longing.Heart.2018.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TpCQlFAT3AAv5P_j6OBjFRg4caJ-KsY9",
-    "https://downloadwella.com/uhe4zbas235w/Longing.Heart.2018.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VcDgEvFYcEokpelNCtF74tv1fMukb9-0"
+    "https://downloadwella.com/uhe4zbas235w/Longing.Heart.2018.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VcDgEvFYcEokpelNCtF74tv1fMukb9-0",
+    "https://downloadwella.com/051yk5jq9h9q/Sponsor.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JsM2-4Geuq850gXwtlHl2Ziq3To_B_2K"
   }
 }
