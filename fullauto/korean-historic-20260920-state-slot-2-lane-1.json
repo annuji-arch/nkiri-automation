@@ -974,6 +974,13 @@
       "modified": "2023-09-02T08:46:10",
       "skipped_at": 1789949354,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/are-you-human-too-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13510|https://thenkiri.com/are-you-human-too-korean-drama/|2021-03-01T10:00:17|2023-09-02T08:41:18|{'rendered': 'Are You Human Too | Korean Drama'}",
+      "modified": "2023-09-02T08:41:18",
+      "skipped_at": 1789949395,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
