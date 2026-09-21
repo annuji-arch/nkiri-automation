@@ -995,6 +995,13 @@
       "modified": "2023-09-02T08:27:46",
       "skipped_at": 1789949492,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/moon-lovers-scarlet-heart-ryeo-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9708|https://thenkiri.com/moon-lovers-scarlet-heart-ryeo-korean-drama/|2020-12-07T06:52:59|2023-09-02T08:23:19|{'rendered': 'Moon Lovers: Scarlet Heart Ryeo | Korean Drama'}",
+      "modified": "2023-09-02T08:23:19",
+      "skipped_at": 1789949529,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
