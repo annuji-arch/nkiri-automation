@@ -981,6 +981,13 @@
       "modified": "2023-09-02T08:41:18",
       "skipped_at": 1789949395,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/mr-queen-the-secret-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13246|https://thenkiri.com/mr-queen-the-secret-korean-drama/|2021-02-17T16:10:42|2023-09-02T08:36:25|{'rendered': 'Mr. Queen The Secret | Korean Drama'}",
+      "modified": "2023-09-02T08:36:25",
+      "skipped_at": 1789949433,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
