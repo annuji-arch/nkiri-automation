@@ -967,6 +967,13 @@
       "signature": "14561|https://thenkiri.com/touch-your-heart-complete-korean-drama/|2021-04-02T09:49:22|2023-09-02T08:54:31|{'rendered': 'Touch Your Heart (Complete) | Korean Drama'}",
       "modified": "2023-09-02T08:54:31",
       "completed_at": 1789949264
+    },
+    "https://thenkiri.com/love-alarm-s02-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13777|https://thenkiri.com/love-alarm-s02-complete-korean-drama/|2021-03-13T08:03:59|2023-09-02T08:46:10|{'rendered': 'Love Alarm S02 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:46:10",
+      "skipped_at": 1789949354,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
