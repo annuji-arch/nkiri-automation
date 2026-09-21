@@ -1021,6 +1021,13 @@
       "signature": "7281|https://thenkiri.com/the-k2-korean-drama/|2020-07-30T12:28:55|2024-02-24T11:02:06|{'rendered': 'The K2 S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-24T11:02:06",
       "completed_at": 1789950315
+    },
+    "https://thenkiri.com/its-okay-to-not-be-okay-480p-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "6282|https://thenkiri.com/its-okay-to-not-be-okay-480p-korean-drama/|2020-06-26T07:59:00|2024-02-24T16:31:31|{'rendered': 'Its Okay to Not Be Okay S01 (Complete) | Korean Drama'}",
+      "modified": "2024-02-24T16:31:31",
+      "skipped_at": 1789950363,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
