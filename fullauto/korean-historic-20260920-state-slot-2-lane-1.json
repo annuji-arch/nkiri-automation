@@ -1028,6 +1028,13 @@
       "modified": "2024-02-24T16:31:31",
       "skipped_at": 1789950363,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/crash-landing-on-you-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "5581|https://thenkiri.com/crash-landing-on-you-korean-drama/|2020-06-05T07:24:00|2023-09-02T07:29:48|{'rendered': 'Crash Landing On You (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T07:29:48",
+      "skipped_at": 1789950411,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
