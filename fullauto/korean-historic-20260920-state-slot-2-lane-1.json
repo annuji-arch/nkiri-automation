@@ -988,6 +988,13 @@
       "modified": "2023-09-02T08:36:25",
       "skipped_at": 1789949433,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/find-me-in-your-memory-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "10033|https://thenkiri.com/find-me-in-your-memory-korean-drama/|2021-01-06T09:18:38|2023-09-02T08:27:46|{'rendered': 'Find Me in Your Memory | Korean Drama'}",
+      "modified": "2023-09-02T08:27:46",
+      "skipped_at": 1789949492,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
